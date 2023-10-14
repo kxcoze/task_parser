@@ -2,6 +2,7 @@ import os
 import json
 from datetime import datetime
 
+import click
 import seleniumwire.undetected_chromedriver as uc
 import chromedriver_autoinstaller
 
@@ -44,8 +45,11 @@ def get_json_from_subcategory(driver, URL, city):
     return data_dict
 
 
-def main():
-    chromedriver_autoinstaller.install()  # Install latest version of chromedriver
+@click.command()
+@click.option('--autoinstall', default=1, help='Autoinstall chromedriver for you? Yes is 1 (Default), No is 0.')
+def main(autoinstall):
+    if autoinstall:
+        chromedriver_autoinstaller.install()  # Install latest version of chromedriver
     regions = REGIONS.keys()
 
     # Init options
