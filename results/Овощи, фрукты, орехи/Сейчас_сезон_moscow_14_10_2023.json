@@ -1,0 +1,1151 @@
+{
+  "subcategory": "Сейчас сезон",
+  "count": 143,
+  "region": "Москва и область",
+  "products": [
+    {
+      "id": 162397,
+      "name": "Авокадо Хасс, 1 шт",
+      "link": "https://auchan.ru/product/avokado_hass_1sht/",
+      "price": "89.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 971746,
+      "name": "Авокадо Хасс, 700 г",
+      "link": "https://auchan.ru/product/avokado_700g/",
+      "price": "499.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 779145,
+      "name": "Авокадо, вес",
+      "link": "https://auchan.ru/product/avokado_ves/",
+      "price": "499.99",
+      "promo_price": "439.90",
+      "brand": null
+    },
+    {
+      "id": 34424,
+      "name": "Айва, вес",
+      "link": "https://auchan.ru/product/ayva_kg_ves/",
+      "price": "339.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32554,
+      "name": "Ананас Голд, вес",
+      "link": "https://auchan.ru/product/ananas_gold_ves/",
+      "price": "229.99",
+      "promo_price": "179.90",
+      "brand": null
+    },
+    {
+      "id": 971652,
+      "name": "Апельсин (0,8-1,7 кг), 1 упаковка ~ 1 кг",
+      "link": "https://auchan.ru/product/apelsin_fas_1_kg/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 670319,
+      "name": "Апельсины для сока (0,8-1,2 кг), 1 упаковка ~ 1 кг",
+      "link": "https://auchan.ru/product/apelsiny_dlya_soka_fas/",
+      "price": "219.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 278218,
+      "name": "Апельсины отборные, вес",
+      "link": "https://auchan.ru/product/apelsiny_otbornye_ves/",
+      "price": "229.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34416,
+      "name": "Апельсины, вес",
+      "link": "https://auchan.ru/product/apelsiny_ves/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 404874,
+      "name": "Арбуз медовый ~ 3 кг",
+      "link": "https://auchan.ru/product/arbuz_medovyy_ves/",
+      "price": "59.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32656,
+      "name": "Арбуз, ~7 кг",
+      "link": "https://auchan.ru/product/arbuz-ves/",
+      "price": "29.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34915,
+      "name": "Баклажаны открытые грунтовые, вес",
+      "link": "https://auchan.ru/product/baklazhany_otkrytyy_grunt_ves/",
+      "price": "109.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 319926,
+      "name": "Виноград Дамский пальчик, вес",
+      "link": "https://auchan.ru/product/vinograd_damskiy_palchik_ves_kg/",
+      "price": "339.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 45279,
+      "name": "Виноград Киш-миш белый, вес",
+      "link": "https://auchan.ru/product/vinograd_belyy_kish_mish_ves/",
+      "price": "179.99",
+      "promo_price": "149.90",
+      "brand": null
+    },
+    {
+      "id": 182333,
+      "name": "Виноград Киш-миш розовый, вес",
+      "link": "https://auchan.ru/product/vinograd_rozovyy_kish_mish/",
+      "price": "299.99",
+      "promo_price": "219.90",
+      "brand": null
+    },
+    {
+      "id": 45278,
+      "name": "Виноград Киш-миш черный, вес",
+      "link": "https://auchan.ru/product/vinograd_chernyy_kish_mish_ves/",
+      "price": "319.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 43093,
+      "name": "Виноград Ред Глоб, вес",
+      "link": "https://auchan.ru/product/vinograd_red_glob_ves/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 444743,
+      "name": "Виноград Ризамат, вес",
+      "link": "https://auchan.ru/product/vinograd_rizamat_ves/",
+      "price": "319.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 631285,
+      "name": "Виноград Тайфи, вес",
+      "link": "https://auchan.ru/product/vinograd_tayfi_ves/",
+      "price": "229.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 368309,
+      "name": "Виноград белый с косточкой Хусайни, вес",
+      "link": "https://auchan.ru/product/vinograd_belyy_husayni_sk_ves/",
+      "price": "269.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 368296,
+      "name": "Виноград черный сезонный с косточкой, вес",
+      "link": "https://auchan.ru/product/vinograd-chernyy-s-k-sezon-ves/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32593,
+      "name": "Голубика импортная, 125 г",
+      "link": "https://auchan.ru/product/golubika-importnaya-upakovka-sht/",
+      "price": "349.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 121013,
+      "name": "Голубика, 300 г",
+      "link": "https://auchan.ru/product/golubika-importnaya-upakovka-300-g/",
+      "price": "699.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 50050,
+      "name": "Гранат, вес",
+      "link": "https://auchan.ru/product/granat_ves/",
+      "price": "199.99",
+      "promo_price": "139.90",
+      "brand": null
+    },
+    {
+      "id": 34412,
+      "name": "Грейпфрут красный, вес",
+      "link": "https://auchan.ru/product/greypfrut_krasnyy_ves/",
+      "price": "299.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 210102,
+      "name": "Грибы Вешенки, 300 г",
+      "link": "https://auchan.ru/product/griby_veshenka_fas_300gr/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 84706,
+      "name": "Грибы Шампиньоны, 500 г",
+      "link": "https://auchan.ru/product/griby-shampinony-upakovka-500-g/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32099,
+      "name": "Грибы Шампиньоны, вес",
+      "link": "https://auchan.ru/product/griby-shampinony-ves/",
+      "price": "249.99",
+      "promo_price": "199.99",
+      "brand": null
+    },
+    {
+      "id": 248485,
+      "name": "Груша Аббат, вес",
+      "link": "https://auchan.ru/product/grusha_abbat_vesovaya/",
+      "price": "349.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 45284,
+      "name": "Груши Вильямс, вес",
+      "link": "https://auchan.ru/product/grushi_vilyams_ves/",
+      "price": "259.99",
+      "promo_price": "229.90",
+      "brand": null
+    },
+    {
+      "id": 45286,
+      "name": "Груши Конференс, вес",
+      "link": "https://auchan.ru/product/grushi_konferens_ves/",
+      "price": "259.99",
+      "promo_price": "199.90",
+      "brand": null
+    },
+    {
+      "id": 45285,
+      "name": "Груши Пакхам, вес",
+      "link": "https://auchan.ru/product/grushi_pakham_kg_ves/",
+      "price": "219.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34430,
+      "name": "Груши Санта Мария, вес",
+      "link": "https://auchan.ru/product/grushi_santa_mariya_ves/",
+      "price": "239.90",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 45287,
+      "name": "Груши Форелл, вес",
+      "link": "https://auchan.ru/product/grushi_forell_kg/",
+      "price": "199.90",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32223,
+      "name": "Дайкон, вес",
+      "link": "https://auchan.ru/product/daykon_vesovoy/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 616758,
+      "name": "Дыня Гуляби ~ 2 кг",
+      "link": "https://auchan.ru/product/dynya_gulyabi/",
+      "price": "65.90",
+      "promo_price": "54.90",
+      "brand": null
+    },
+    {
+      "id": 32509,
+      "name": "Кабачки Цукини зеленые, вес",
+      "link": "https://auchan.ru/product/kabachki_cukkini_ves/",
+      "price": "129.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 655645,
+      "name": "Кабачки свежие, вес",
+      "link": "https://auchan.ru/product/kabachki-svezhie-ves/",
+      "price": "129.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32252,
+      "name": "Капуста Брокколи, вес",
+      "link": "https://auchan.ru/product/1apusta-brokkoli-ves/",
+      "price": "399.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 951457,
+      "name": "Капуста Брюссельская, 300 г",
+      "link": "https://auchan.ru/product/kapusta-bryusselskaya-300-g/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32227,
+      "name": "Капуста Кольраби, вес",
+      "link": "https://auchan.ru/product/kapusta_kolrabi_belaya_ves/",
+      "price": "219.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32235,
+      "name": "Капуста краснокочанная, вес",
+      "link": "https://auchan.ru/product/kapusta_krasnokachannaya_ves/",
+      "price": "49.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32228,
+      "name": "Капуста цветная, вес",
+      "link": "https://auchan.ru/product/kapusta-cvetnaya-ves/",
+      "price": "249.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 517858,
+      "name": "Картофель для жарки, 3 кг",
+      "link": "https://auchan.ru/product/kartofel-dlya-zharki-3-kg/",
+      "price": "129.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 818695,
+      "name": "Киви спелое RTE, 3 шт",
+      "link": "https://auchan.ru/product/kivi-speloe-rte-3sht/",
+      "price": "149.99",
+      "promo_price": "89.90",
+      "brand": null
+    },
+    {
+      "id": 36416,
+      "name": "Киви, 1 упаковка",
+      "link": "https://auchan.ru/product/kivi-v-korzinke-1-sht/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34442,
+      "name": "Киви, вес",
+      "link": "https://auchan.ru/product/kivi_ves/",
+      "price": "199.99",
+      "promo_price": "99.90",
+      "brand": null
+    },
+    {
+      "id": 152163,
+      "name": "Клубника, 200 г",
+      "link": "https://auchan.ru/product/klubnika-sht/",
+      "price": "279.90",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 53293,
+      "name": "Кокосовый орех, 1 шт",
+      "link": "https://auchan.ru/product/kokosovyy-oreh-1-sht/",
+      "price": "109.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 138426,
+      "name": "Кукуруза мини, 1 упаковка",
+      "link": "https://auchan.ru/product/kukuruza-mini-v-upakovke-sht/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 36588,
+      "name": "Кукуруза, 1 упаковка",
+      "link": "https://auchan.ru/product/kukuruza-upakovka-sht/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 813361,
+      "name": "Кукуруза, 1 шт",
+      "link": "https://auchan.ru/product/kukuruza_sht/",
+      "price": "49.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 409446,
+      "name": "Кумкват, 250 г",
+      "link": "https://auchan.ru/product/kumkvat-upakovka-250-g/",
+      "price": "399.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 751936,
+      "name": "Лайм, 2 шт",
+      "link": "https://auchan.ru/product/laym_1_up_2_sht/",
+      "price": "59.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 748902,
+      "name": "Лимоны Узбекистан 2 шт, 1 упаковка ~ 150 г",
+      "link": "https://auchan.ru/product/limony-uzbekskie-upakovka-1sht/",
+      "price": "139.90",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 478675,
+      "name": "Лимоны, вес",
+      "link": "https://auchan.ru/product/limony_korobka_ves/",
+      "price": "159.99",
+      "promo_price": "129.90",
+      "brand": null
+    },
+    {
+      "id": 32113,
+      "name": "Лук Порей, вес",
+      "link": "https://auchan.ru/product/luk_porey_kg_ves/",
+      "price": "229.99",
+      "promo_price": "159.90",
+      "brand": null
+    },
+    {
+      "id": 658936,
+      "name": "Лук белый чулок, 500 г",
+      "link": "https://auchan.ru/product/luk-belyy-chulok-500-gr/",
+      "price": "39.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 658938,
+      "name": "Лук красный  чулок, 500 г",
+      "link": "https://auchan.ru/product/luk-krasnyy-chulok-500-gr/",
+      "price": "39.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32125,
+      "name": "Лук красный, вес",
+      "link": "https://auchan.ru/product/luk_krasnyy_ves/",
+      "price": "59.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34865,
+      "name": "Лук плоский, вес",
+      "link": "https://auchan.ru/product/luk_ploskiy_ves/",
+      "price": "149.99",
+      "promo_price": "119.90",
+      "brand": null
+    },
+    {
+      "id": 875973,
+      "name": "Лук репчатый, вес",
+      "link": "https://auchan.ru/product/luk_repchatyy_ves/",
+      "price": "39.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32118,
+      "name": "Лук серебристый белый, вес",
+      "link": "https://auchan.ru/product/luk_serebristyy_kg_ves/",
+      "price": "79.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32695,
+      "name": "Манго спелое, вес",
+      "link": "https://auchan.ru/product/mango_speloe_ves/",
+      "price": "399.99",
+      "promo_price": "269.90",
+      "brand": null
+    },
+    {
+      "id": 335100,
+      "name": "Мандарин с листочком, вес",
+      "link": "https://auchan.ru/product/mandarin_s_listochkom_ves/",
+      "price": "269.90",
+      "promo_price": "229.90",
+      "brand": null
+    },
+    {
+      "id": 847791,
+      "name": "Маракуйя, 2 шт",
+      "link": "https://auchan.ru/product/marakuyya-2sht-1/",
+      "price": "139.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 574902,
+      "name": "Маракуйя, 250 г",
+      "link": "https://auchan.ru/product/makakuyya-250-g/",
+      "price": "259.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 46331,
+      "name": "Мелисса в горшочке, 140 г",
+      "link": "https://auchan.ru/product/melissa-agroholding-moskovskiy-v-gorshochke-sht/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 683443,
+      "name": "Микс салатов руколла радичио, 125 г",
+      "link": "https://auchan.ru/product/miks-salatov-fino-fresco-rukollo-radichio-125-g/",
+      "price": "139.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34803,
+      "name": "Морковь мытая, вес",
+      "link": "https://auchan.ru/product/morkov_mytaya_ves/",
+      "price": "49.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 36458,
+      "name": "Морковь пакет, 1 кг",
+      "link": "https://auchan.ru/product/morkov-fasovannaya-1-kg/",
+      "price": "59.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 46330,
+      "name": "Мята в горшочке, 1 упаковка",
+      "link": "https://auchan.ru/product/myata-agroholding-moskovskiy-v-gorshochke-sht/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 751733,
+      "name": "Огурец Бакинский, 300 г",
+      "link": "https://auchan.ru/product/ogurec-bakinskiy-300-g/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32373,
+      "name": "Огурец пупырчатый среднеплодный, вес",
+      "link": "https://auchan.ru/product/ogurec_pupyrchatyy_sredneplodnyy/",
+      "price": "129.99",
+      "promo_price": "59.90",
+      "brand": null
+    },
+    {
+      "id": 698976,
+      "name": "Огурцы корнишоны, 300 г",
+      "link": "https://auchan.ru/product/ogurcy-v-podlozhke-300-g/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 92201,
+      "name": "Огурцы короткоплодные, 450 г",
+      "link": "https://auchan.ru/product/ogurcy-korotkoplodnye-450-g/",
+      "price": "69.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34924,
+      "name": "Огурцы короткоплодные, вес",
+      "link": "https://auchan.ru/product/ogurcy_korotkoplodn_ves/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 408318,
+      "name": "Огурцы мелкопупырчатые, вес",
+      "link": "https://auchan.ru/product/ogurec_luhovickiy_ves/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 863949,
+      "name": "Огурцы среднеплодные гладкие, вес",
+      "link": "https://auchan.ru/product/ogurec_sredniy_gladkiy_ves/",
+      "price": "99.99",
+      "promo_price": "59.95",
+      "brand": null
+    },
+    {
+      "id": 319921,
+      "name": "Перец Ласточка, вес",
+      "link": "https://auchan.ru/product/perec_lastochka_kg/",
+      "price": "99.99",
+      "promo_price": "79.90",
+      "brand": null
+    },
+    {
+      "id": 470233,
+      "name": "Перец Халапеньо, 100 г",
+      "link": "https://auchan.ru/product/perec_halapeno_100g/",
+      "price": "49.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 755802,
+      "name": "Перец Чили зеленый, 100 г",
+      "link": "https://auchan.ru/product/perec-chili-zelenyy-100-g/",
+      "price": "49.99",
+      "promo_price": "29.90",
+      "brand": null
+    },
+    {
+      "id": 755793,
+      "name": "Перец Чили красный, 100 г",
+      "link": "https://auchan.ru/product/perec-chili-krasnyy-100-g/",
+      "price": "49.99",
+      "promo_price": "29.90",
+      "brand": null
+    },
+    {
+      "id": 34931,
+      "name": "Перец грунтовой, вес",
+      "link": "https://auchan.ru/product/perec_otkrytyy_grunt_ves/",
+      "price": "79.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 248237,
+      "name": "Перец жгучий mix, 1 упаковка",
+      "link": "https://auchan.ru/product/perec-zhguchiy-mix-sht/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32422,
+      "name": "Перец желтый, вес",
+      "link": "https://auchan.ru/product/perec_zheltyy_ves/",
+      "price": "299.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32435,
+      "name": "Перец красный, вес",
+      "link": "https://auchan.ru/product/perec_krasnyy_ves/",
+      "price": "259.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 123320,
+      "name": "Петрушка в горшочке, 150 г",
+      "link": "https://auchan.ru/product/petrushka-agroholding-moskovskiy-v-gorshochke-sht/",
+      "price": "79.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 818697,
+      "name": "Рамбутан, 150 г",
+      "link": "https://auchan.ru/product/rambutan-150gr/",
+      "price": "299.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 121100,
+      "name": "Редис  красный, 500 г",
+      "link": "https://auchan.ru/product/redis-krasnyy-v-upakovke-500-g/",
+      "price": "99.99",
+      "promo_price": "79.90",
+      "brand": null
+    },
+    {
+      "id": 36565,
+      "name": "Салат Айсберг, 1 штука",
+      "link": "https://auchan.ru/product/salat-aysberg-1-sht/",
+      "price": "139.99",
+      "promo_price": "99.90",
+      "brand": null
+    },
+    {
+      "id": 119224,
+      "name": "Салат Китайский, вес",
+      "link": "https://auchan.ru/product/salat_kitayskapusta_kit_ves/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 42703,
+      "name": "Салат Кудрявый Джаз в горшочке, 1 штука",
+      "link": "https://auchan.ru/product/salat-kudryavyy-moskovskiy-dzhaz-1sht/",
+      "price": "99.99",
+      "promo_price": "74.95",
+      "brand": null
+    },
+    {
+      "id": 123321,
+      "name": "Салат Листовой в горшочке, 1 штука",
+      "link": "https://auchan.ru/product/salat-listovoy-v-gorshochke-sht/",
+      "price": "79.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 491814,
+      "name": "Салат Ромэн Эксклюзив, 1 штука",
+      "link": "https://auchan.ru/product/salat-romen-agroholding-moskovskiy-eksklyuziv-sht/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 129155,
+      "name": "Салат Руккола, 1 штука",
+      "link": "https://auchan.ru/product/salat-rukkola-sht/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 42699,
+      "name": "Салат Саланова Блюз зеленый, 1 штука",
+      "link": "https://auchan.ru/product/salat-salanova-agroholding-moskovskiy-blyuz-zelenyy-170-g/",
+      "price": "109.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 161453,
+      "name": "Салат Фриллис  хрустящий в горшочке, 1 штука",
+      "link": "https://auchan.ru/product/salat-frillis-agroholding-moskovskiy-hrustyashchiy-v-gorshochke-sht/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 424815,
+      "name": "Салат листовой Дуболистный зелёный в горшочке, 1 штука",
+      "link": "https://auchan.ru/product/salat-listovoy-agroholding-moskovskiy-dubolistnyy-zelenyy-v-gorshochke-170-g/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 837332,
+      "name": "Салат листовой Месклан, 125 г",
+      "link": "https://auchan.ru/product/salat-mesklan-125g/",
+      "price": "139.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 854892,
+      "name": "Салат свежий Фриллис, 100 г",
+      "link": "https://auchan.ru/product/salat-svezhiy-vyborzhec-frillis-100-g/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32188,
+      "name": "Свекла, вес",
+      "link": "https://auchan.ru/product/svekla_ves/",
+      "price": "33.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32190,
+      "name": "Сельдерей корень, вес",
+      "link": "https://auchan.ru/product/selderey_koren_ves/",
+      "price": "229.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 58439,
+      "name": "Сельдерей стебли, 1 штука",
+      "link": "https://auchan.ru/product/selderey-stebli-v-upakovke-1-sht/",
+      "price": "79.99",
+      "promo_price": "59.90",
+      "brand": null
+    },
+    {
+      "id": 602347,
+      "name": "Слива сезонная, вес",
+      "link": "https://auchan.ru/product/sliva_sezonnaya_ves/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32781,
+      "name": "Слива синяя, вес",
+      "link": "https://auchan.ru/product/sliva_sinyaya_ves/",
+      "price": "179.99",
+      "promo_price": "149.90",
+      "brand": null
+    },
+    {
+      "id": 782912,
+      "name": "Смесь салатная Аликанте микс, 130 г",
+      "link": "https://auchan.ru/product/salatnyy_miks_alikante_130g/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 782930,
+      "name": "Смесь салатная Цезарь, 150 г",
+      "link": "https://auchan.ru/product/salatnyy_miks_cezar_150g/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34869,
+      "name": "Социальный товар Капуста белокочанная, вес",
+      "link": "https://auchan.ru/product/kapusta_bk_ves/",
+      "price": "25.97",
+      "promo_price": "21.97",
+      "brand": null
+    },
+    {
+      "id": 438781,
+      "name": "Социальный товар Картофель белый (2 -2.5 кг), 1 упаковка ~ 2,5 кг",
+      "link": "https://auchan.ru/product/kartofel-belyy-fruttauer-3-kg/",
+      "price": "20.97",
+      "promo_price": "14.97",
+      "brand": null
+    },
+    {
+      "id": 118063,
+      "name": "Социальный товар Лук репчатый, 1 упаковка ~ 1,5 кг",
+      "link": "https://auchan.ru/product/luk_repchatyy_ves_fas/",
+      "price": "28.97",
+      "promo_price": "20.97",
+      "brand": null
+    },
+    {
+      "id": 910626,
+      "name": "Социальный товар Морковь, вес",
+      "link": "https://auchan.ru/product/morkov_ves/",
+      "price": "22.97",
+      "promo_price": "21.97",
+      "brand": null
+    },
+    {
+      "id": 118064,
+      "name": "Социальный товар Свекла, вес",
+      "link": "https://auchan.ru/product/svekla_ves_fas/",
+      "price": "39.97",
+      "promo_price": "17.97",
+      "brand": null
+    },
+    {
+      "id": 339045,
+      "name": "Томат Махитос, вес",
+      "link": "https://auchan.ru/product/tomat_mahitos_ves/",
+      "price": "249.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 602327,
+      "name": "Томат Узбекистан, вес",
+      "link": "https://auchan.ru/product/tomat_uzbekistan_ves/",
+      "price": "379.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 373652,
+      "name": "Томат Черри желтый, 250 г",
+      "link": "https://auchan.ru/product/tomat-moe-leto-cherri-mirabel-250-g/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 755935,
+      "name": "Томаты Кумато, вес",
+      "link": "https://auchan.ru/product/tomaty_kumato_ves/",
+      "price": "279.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 758775,
+      "name": "Томаты Фламенко сливовидные, 450 г",
+      "link": "https://auchan.ru/product/tomat_flamenko_slivovidn_450g/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 373606,
+      "name": "Томаты Черри  красные, 250 г",
+      "link": "https://auchan.ru/product/tomaty-cherri-krasnye-250-g/",
+      "price": "139.99",
+      "promo_price": "119.90",
+      "brand": null
+    },
+    {
+      "id": 373651,
+      "name": "Томаты Черри  на ветке, 250 г",
+      "link": "https://auchan.ru/product/tomaty-cherri-a-more-250-g/",
+      "price": "149.99",
+      "promo_price": "119.90",
+      "brand": null
+    },
+    {
+      "id": 566240,
+      "name": "Томаты Черри сливовидные, 250 г",
+      "link": "https://auchan.ru/product/tomaty-cherri-slivovidnye-250-g/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 934440,
+      "name": "Томаты коктейльные красные на ветке, 350 г",
+      "link": "https://auchan.ru/product/tomat-kokteylnyy-krasn-350gr/",
+      "price": "159.99",
+      "promo_price": "119.90",
+      "brand": null
+    },
+    {
+      "id": 689502,
+      "name": "Томаты мини на ветке, 500 г",
+      "link": "https://auchan.ru/product/tomaty-mini-na-vetke-500-gr/",
+      "price": "239.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 121105,
+      "name": "Томаты розовые, вес",
+      "link": "https://auchan.ru/product/tomat_rozovyy_ves/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 943850,
+      "name": "Томаты сливовидные Фламенко, вес",
+      "link": "https://auchan.ru/product/tomaty-slivovidnye-flamenko/",
+      "price": "279.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 596906,
+      "name": "Томаты сливовидные, 600 г",
+      "link": "https://auchan.ru/product/tomaty-slivovidnye-600-gr/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 45300,
+      "name": "Томаты сливовидные, вес",
+      "link": "https://auchan.ru/product/tomat_slivovidnyy_ves/",
+      "price": "189.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 704973,
+      "name": "Томаты, 600 г",
+      "link": "https://auchan.ru/product/tomaty-v-upakovke-600-g/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 862965,
+      "name": "Томаты, вес",
+      "link": "https://auchan.ru/product/tomat__ves/",
+      "price": "169.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 640538,
+      "name": "Тыква Баттернат, вес",
+      "link": "https://auchan.ru/product/tykva_batternat_kg/",
+      "price": "59.99",
+      "promo_price": "39.90",
+      "brand": null
+    },
+    {
+      "id": 311589,
+      "name": "Тыква Оранжевая круглая, вес",
+      "link": "https://auchan.ru/product/tykva_oranzhevaya_kruglaya_ves/",
+      "price": "59.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 123319,
+      "name": "Укроп в горшочке, 1 шт",
+      "link": "https://auchan.ru/product/ukrop-agroholding-moskovskiy-v-gorshochke-sht/",
+      "price": "79.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 36421,
+      "name": "Физалис, 1 упаковка",
+      "link": "https://auchan.ru/product/fizalis-andes-fruits-v-upakovke-90-g/",
+      "price": "259.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 788227,
+      "name": "Хурма шоколадная, вес",
+      "link": "https://auchan.ru/product/hurma_shokoladnaya_ves/",
+      "price": "169.99",
+      "promo_price": "129.90",
+      "brand": null
+    },
+    {
+      "id": 141069,
+      "name": "Чеснок, 3 шт",
+      "link": "https://auchan.ru/product/chesnok-v-upakovke-3-sht/",
+      "price": "44.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 32110,
+      "name": "Чеснок, вес",
+      "link": "https://auchan.ru/product/chesnok_ves/",
+      "price": "299.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 683455,
+      "name": "Шпинат мини, 125 г",
+      "link": "https://auchan.ru/product/shpinat-mini-125-g/",
+      "price": "149.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 319937,
+      "name": "Яблоки Айдаред, вес",
+      "link": "https://auchan.ru/product/yabloki_aydared_ves/",
+      "price": "99.99",
+      "promo_price": "89.90",
+      "brand": null
+    },
+    {
+      "id": 45297,
+      "name": "Яблоки Гала, вес",
+      "link": "https://auchan.ru/product/yabloki_gala_kg_ves/",
+      "price": "89.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34388,
+      "name": "Яблоки Голден, вес",
+      "link": "https://auchan.ru/product/yabloki_golden_ves/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 34392,
+      "name": "Яблоки Гренни Смит, вес",
+      "link": "https://auchan.ru/product/yabloki_grenni_smit_ves/",
+      "price": "99.99",
+      "promo_price": "89.90",
+      "brand": null
+    },
+    {
+      "id": 873088,
+      "name": "Яблоки Дарк Барон, вес",
+      "link": "https://auchan.ru/product/yabloki-dark-baron-ves/",
+      "price": "139.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 230019,
+      "name": "Яблоки Ред Делишес новый урожай, вес",
+      "link": "https://auchan.ru/product/yabloko_red_del_nov_ur/",
+      "price": "129.99",
+      "promo_price": "89.90",
+      "brand": null
+    }
+  ]
+}

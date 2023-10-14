@@ -1,0 +1,4799 @@
+{
+  "subcategory": "Колбасы, ветчина",
+  "count": 599,
+  "region": "Москва и область",
+  "products": [
+    {
+      "id": 266517,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Докторская (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbdoktorskaya_mdb_bo/",
+      "price": "903.99",
+      "promo_price": "399.00",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 266527,
+      "name": "Ветчина «Мясной Дом Бородина» для завтрака в белковой оболочке (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/vetchina_dzavtraka_vs_bo_vu/",
+      "price": "887.99",
+      "promo_price": "399.95",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 858999,
+      "name": "Колбаса «Мясной Дом Бородина» Любительская, 500 г",
+      "link": "https://auchan.ru/product/mdb-lyubitelskaya-b-o-v-u-500g/",
+      "price": "492.99",
+      "promo_price": "229.95",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 140903,
+      "name": "Колбаса вареная «Велком» Докторская (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/doktorbelkozin_rv_iz_ohlmyasa_vu/",
+      "price": "905.99",
+      "promo_price": "449.95",
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 67638,
+      "name": "Колбаса вареная Клинский Умка детская сливочная, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-umka-detskaya-slivochnaya-200-g/",
+      "price": "197.99",
+      "promo_price": "99.95",
+      "brand": "Клинский"
+    },
+    {
+      "id": 927661,
+      "name": "Колбаса вареная «Каждый день» Докторская классическая второй сорт охлажденная, 150 г",
+      "link": "https://auchan.ru/product/kd-kolbasa-var-nar-b-zhira-150g/",
+      "price": "71.98",
+      "promo_price": "35.95",
+      "brand": "Каждый день"
+    },
+    {
+      "id": 298017,
+      "name": "Колбаса варено-копченая «Папа может» Сервелат Австрийский, 420 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenyy-servelat-papa-mozhet-avstraliyskiy-420g/",
+      "price": "312.99",
+      "promo_price": "159.95",
+      "brand": null
+    },
+    {
+      "id": 427855,
+      "name": "Колбаса вареная «Владимирский стандарт» Докторская ГОСТ ц/ф, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-vladimirskiy-standart-doktorskaya-500-g/",
+      "price": "293.99",
+      "promo_price": "149.90",
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 520304,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» свиная, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-malahovskiy-myasokombinat-svinaya-300-g/",
+      "price": "508.99",
+      "promo_price": "259.00",
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 462135,
+      "name": "Колбаса «Каждый день» Сервелат Столичный (0,5-0,6 кг), 1 упаковка ~0,6 кг",
+      "link": "https://auchan.ru/product/kdservelat_stolichnyy_ves/",
+      "price": "229.99",
+      "promo_price": "119.95",
+      "brand": "Каждый день"
+    },
+    {
+      "id": 985369,
+      "name": "Колбаса вареная Delikaiser Болонская с чесночком, 400 г",
+      "link": "https://auchan.ru/product/bolonskaya-s-chesnochkom-400g/",
+      "price": "264.99",
+      "promo_price": "139.90",
+      "brand": "Delikaiser"
+    },
+    {
+      "id": 707081,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Докторская в белковой оболочке, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-myasnoy-dom-borodina-doktorskaya-v-belkovoy-obolochke-500-g/",
+      "price": "369.49",
+      "promo_price": "199.95",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 75385,
+      "name": "Ветчина «Окраина» Идеальный бутерброд, 360 г",
+      "link": "https://auchan.ru/product/vetch-idealnyy-buterbrod-360g/",
+      "price": "313.99",
+      "promo_price": "169.95",
+      "brand": "Окраина"
+    },
+    {
+      "id": 305711,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Любительская (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbvarlyubitelskaya_bo_mdb/",
+      "price": "936.99",
+      "promo_price": "519.00",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 79485,
+      "name": "Колбаса варено-копченая «Окраина» Сырвелат, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-syrvelat-okr-v-k-250g/",
+      "price": "365.99",
+      "promo_price": "199.95",
+      "brand": "Окраина"
+    },
+    {
+      "id": 950771,
+      "name": "Ветчина вареная «Тавр» для Завтрака, 500 г",
+      "link": "https://auchan.ru/product/vetchina-varenaya-tavr-dlya-zavtraka-500-g/",
+      "price": "395.49",
+      "promo_price": "219.00",
+      "brand": "ТАВР"
+    },
+    {
+      "id": 37735,
+      "name": "Колбаса сырокопченая «Ремит» Испанская мраморная (0,3-0,6 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_sv_ispanskaya_mramor/",
+      "price": "1602.99",
+      "promo_price": "899.95",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 48886,
+      "name": "Колбаса сырокопченая «Черкизово» Premium Сальчичон, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-salchichon-s-k-vu-300g/",
+      "price": "474.99",
+      "promo_price": "268.00",
+      "brand": "Черкизово"
+    },
+    {
+      "id": 427426,
+      "name": "Колбаса вареная «Вязанка» Молокуша (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbvarmolochnaya_vyazanka/",
+      "price": "583.49",
+      "promo_price": "329.00",
+      "brand": "Вязанка"
+    },
+    {
+      "id": 480135,
+      "name": "Колбаса вареная «Велком» Молочная, 620 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-molochnaya-620-g/",
+      "price": "511.99",
+      "promo_price": "289.95",
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 12972,
+      "name": "Колбаса «Самирель» Краковская Мусульманская халяль, вес",
+      "link": "https://auchan.ru/product/krakovskaya-musulmanskaya-ves/",
+      "price": "959.99",
+      "promo_price": "549.00",
+      "brand": "Самирель"
+    },
+    {
+      "id": 165420,
+      "name": "Колбаса сырокопченая «Ближние Горки» Тоскана (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/toskana_sk_bg/",
+      "price": "1386.99",
+      "promo_price": "799.00",
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 81615,
+      "name": "Колбаса «Рублевский» Докторская в белкозине, 530 г",
+      "link": "https://auchan.ru/product/doktorskaya-v-belkozine-530-gr/",
+      "price": "571.99",
+      "promo_price": "329.00",
+      "brand": "Рублевский"
+    },
+    {
+      "id": 28229,
+      "name": "Колбаса вареная «Дым Дымыч» Докторская особая, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-doktorsk-osob-dd-400g/",
+      "price": "208.99",
+      "promo_price": "122.90",
+      "brand": "Дым Дымыч"
+    },
+    {
+      "id": 53375,
+      "name": "Колбаса варено-копченая «Рублевский» Сервелат Ореховый, вес",
+      "link": "https://auchan.ru/product/servelat-orehovyy-v-k-ves/",
+      "price": "1512.99",
+      "promo_price": "899.00",
+      "brand": "Рублевский"
+    },
+    {
+      "id": 392346,
+      "name": "Сервелат варено-копченый «Рублевский» Московский, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-rublevskiy-servelat-moskovskiy-350-g/",
+      "price": "422.99",
+      "promo_price": "249.00",
+      "brand": "Рублевский"
+    },
+    {
+      "id": 761261,
+      "name": "Колбаса сырокопченая «Иней» Сальчичон нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolb_sk_salchichon_nar_100g/",
+      "price": "215.99",
+      "promo_price": "129.90",
+      "brand": "Иней"
+    },
+    {
+      "id": 935135,
+      "name": "Колбаса сырокопченая SCHNELLER Салями с перцем, вес",
+      "link": "https://auchan.ru/product/kolbasa-salyami-s-percem-s-k-kg/",
+      "price": "143.80",
+      "promo_price": "85.90",
+      "brand": "SCHNELLER"
+    },
+    {
+      "id": 985366,
+      "name": "Колбаса вареная Delikaiser Докторская ГОСТ, 400 г",
+      "link": "https://auchan.ru/product/doktorskaya-gost-400g/",
+      "price": "264.99",
+      "promo_price": "159.90",
+      "brand": "Delikaiser"
+    },
+    {
+      "id": 174334,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Брауншвейгская (0,4-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-braunshveygskaya-s-k/",
+      "price": "1651.99",
+      "promo_price": "999.00",
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 761269,
+      "name": "Ассорти колбасное сырокопченое «Иней» Чоризо Милано нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolb_sk_chorizomilano_100g/",
+      "price": "211.99",
+      "promo_price": "129.90",
+      "brand": "Иней"
+    },
+    {
+      "id": 989315,
+      "name": "Колбаса вареная «Папа может» Классическая, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-var-klassicheskaya-400g/",
+      "price": "230.99",
+      "promo_price": "139.90",
+      "brand": null
+    },
+    {
+      "id": 779355,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат Российский, 840 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-ostankino-servelat-rossiyskiy-840-g/",
+      "price": "589.49",
+      "promo_price": "358.00",
+      "brand": "Останкино"
+    },
+    {
+      "id": 938619,
+      "name": "Колбаса «Россиянка» Юбилейная, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-rossiyanka-yubilelnaya-200-g/",
+      "price": "189.49",
+      "promo_price": "114.90",
+      "brand": "Россиянка"
+    },
+    {
+      "id": 7283,
+      "name": "Колбаса «Агросила» сыро-копченая Байрам халяль, 360 г",
+      "link": "https://auchan.ru/product/kolb-s-k-bayram-halyal-360g/",
+      "price": "427.99",
+      "promo_price": "259.00",
+      "brand": "Агросила"
+    },
+    {
+      "id": 283781,
+      "name": "Колбаса полукопченая «Самирель» Конская Халяль, 350 г",
+      "link": "https://auchan.ru/product/kolbkonskaya_halyal_pk_350g/",
+      "price": "482.99",
+      "promo_price": "299.00",
+      "brand": "Самирель"
+    },
+    {
+      "id": 79143,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Нямми Обезьянка, 70 г",
+      "link": "https://auchan.ru/product/mdb-kolb-obezyanka-nyammi-70g/",
+      "price": "182.99",
+      "promo_price": "114.90",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 30195,
+      "name": "Колбаса сырокопченая «ММК» Мраморная, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-mramornaya-s-k-200g/",
+      "price": "397.99",
+      "promo_price": "249.00",
+      "brand": "ММК"
+    },
+    {
+      "id": 79144,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Нямми Солнышко, 70 г",
+      "link": "https://auchan.ru/product/mdb-kolb-solnyshko-nyammi-70g/",
+      "price": "182.99",
+      "promo_price": "114.90",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 575206,
+      "name": "Колбаса «Агросила» сафар халяль сырокопченая, 180 г",
+      "link": "https://auchan.ru/product/kolbasa_safar_halyal_sk_180g/",
+      "price": "225.99",
+      "promo_price": "142.90",
+      "brand": "Агросила"
+    },
+    {
+      "id": 897345,
+      "name": "Колбаса Fuet Полусухая, вес",
+      "link": "https://auchan.ru/product/kolbasa-fuet-polusuhaya-s-v/",
+      "price": "205.10",
+      "promo_price": "129.90",
+      "brand": "Fuet"
+    },
+    {
+      "id": 71741,
+      "name": "Колбаса «ДЫМОВ» Салями сырокопченая, вес",
+      "link": "https://auchan.ru/product/kolb-salyami-dymov-s-k-ves/",
+      "price": "1541.99",
+      "promo_price": "989.95",
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 763776,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Брауншвейгская, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-malahovskiy-myasokombinat-braunshveygskaya-250-g/",
+      "price": "464.99",
+      "promo_price": "299.00",
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 48370,
+      "name": "Колбаса «Бахрушинъ» Докторская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-doktorskaya-400g-3/",
+      "price": "356.99",
+      "promo_price": "229.00",
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 984917,
+      "name": "Колбаса вареная «БахрушинЪ» Любительская (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolb-var-lyubitelskaya-sinyuga/",
+      "price": "1134.99",
+      "promo_price": "729.00",
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 657275,
+      "name": "Сервелат варено-копченый «Ближние Горки» Гурман, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-blizhnie-gorki-servelat-gurman-500-g/",
+      "price": "368.49",
+      "promo_price": "239.00",
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 393870,
+      "name": "Колбаса ливерная «Рублевский» Яичная (0,3-0,6 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolblivernaya_yaichnaya_no_vu/",
+      "price": "883.99",
+      "promo_price": "579.00",
+      "brand": "Рублевский"
+    },
+    {
+      "id": 543951,
+      "name": "Колбаса сырокопченая «Ремит» Ореховый (0,3-0,6 кг), 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbservelat_orehovyy_sk_ves/",
+      "price": "1680.99",
+      "promo_price": "1089.00",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 76371,
+      "name": "Колбаса сырокопченая «Царицыно» Дворянская (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_dvorsk_1s_specup_ves/",
+      "price": "1935.99",
+      "promo_price": "1249.00",
+      "brand": "Царицыно"
+    },
+    {
+      "id": 6549,
+      "name": "Колбаса сыровяленая Casademont Чоризо нарезка, 70 г",
+      "link": "https://auchan.ru/product/kolb-s-v-chorizo-70g/",
+      "price": "197.99",
+      "promo_price": "129.90",
+      "brand": "Casademont"
+    },
+    {
+      "id": 736633,
+      "name": "Колбаса сырокопченая «Черкизово» Прошутто Премиум нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbsk_proshutto_narezka_100g/",
+      "price": "177.99",
+      "promo_price": "116.90",
+      "brand": "Черкизово"
+    },
+    {
+      "id": 836703,
+      "name": "Колбаса вареная «Ближние горки» Докторская ГОСТ, 450 г",
+      "link": "https://auchan.ru/product/doktorskaya-gost-b-o-450g-bg/",
+      "price": "361.99",
+      "promo_price": "239.00",
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 476117,
+      "name": "Колбаса вареная «Вязанка» Докторская ГОСТ, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-vyazanka-doktorskaya-400-g/",
+      "price": "287.49",
+      "promo_price": "189.90",
+      "brand": "Вязанка"
+    },
+    {
+      "id": 479579,
+      "name": "Колбаса сырокопченая «Ремит» Ассорти TRIO MIO нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-remit-assorti-trio-mio-narezka-100-g/",
+      "price": "196.49",
+      "promo_price": "129.90",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 659385,
+      "name": "Колбаса полукопченая «Идель» говяжья, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-caricyno-govyazhya-500-g/",
+      "price": "209.49",
+      "promo_price": "139.90",
+      "brand": "Идель"
+    },
+    {
+      "id": 330365,
+      "name": "Колбаса вареная «Царицыно» Русская с натуральным молоком (0,4-0,6 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolrusskaya_s_natmolok1s_d80/",
+      "price": "402.99",
+      "promo_price": "269.00",
+      "brand": "Царицыно"
+    },
+    {
+      "id": 984920,
+      "name": "Колбаса сырокопченая «БахрушинЪ» Сервелат Прованс (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-s-k-servelat-provans/",
+      "price": "2062.99",
+      "promo_price": "1399.00",
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 859170,
+      "name": "Колбаса «Индилайт» Грандос с филе индейки батон, 400 г",
+      "link": "https://auchan.ru/product/kolb-grandos-s-file-ind-400g/",
+      "price": "288.99",
+      "promo_price": "199.90",
+      "brand": "Индилайт"
+    },
+    {
+      "id": 536587,
+      "name": "Колбаса вареная «Мясницкий ряд» Любительская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-myasnickiy-ryad-lyubitelskaya-gost-fibrouz-400-g/",
+      "price": "314.99",
+      "promo_price": "219.00",
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 277500,
+      "name": "Колбаса сырокопченая Schneller Крупнокусковая (0,7-1 кг) , 1 упаковка ~ 1 кг",
+      "link": "https://auchan.ru/product/kolbkrupnokuskovaya_skkg/",
+      "price": "1390.99",
+      "promo_price": "969.00",
+      "brand": "SCHNELLER"
+    },
+    {
+      "id": 515261,
+      "name": "Колбаса сырокопченая «Ремит» Сальчичон нарезка, 70 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-remit-salchichon-narezka-70-g/",
+      "price": "156.99",
+      "promo_price": "109.90",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 953216,
+      "name": "Колбаса варено-копченная «Ремит» Сервелат, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchennaya-remit-servelat-400-g/",
+      "price": "496.99",
+      "promo_price": "359.00",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 60861,
+      "name": "Ветчина «Папа Может!» рубленая, 300 г",
+      "link": "https://auchan.ru/product/vetchina-rublenaya-300g/",
+      "price": "239.99",
+      "promo_price": "169.90",
+      "brand": "Папа Может!"
+    },
+    {
+      "id": 679345,
+      "name": "Ветчина вареная «Клинский» для тостов, нарезка, 120 г",
+      "link": "https://auchan.ru/product/vetchina-varenaya-klinskiy-dlya-tostov-narezka-120-g/",
+      "price": "138.99",
+      "promo_price": "98.90",
+      "brand": "Клинский"
+    },
+    {
+      "id": 859024,
+      "name": "Колбаса полукопченая «Идель» Халяль из баранины,  500 г",
+      "link": "https://auchan.ru/product/kolb-p-k-os-s-baraninoy-500g/",
+      "price": "233.99",
+      "promo_price": "169.90",
+      "brand": "Идель"
+    },
+    {
+      "id": 984922,
+      "name": "Колбаса варено-копченая «БахрушинЪ» Балыковая (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbasa-v-k-balykovaya-v-u/",
+      "price": "1090.99",
+      "promo_price": "799.00",
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 885803,
+      "name": "Колбаса варено-копченый «Папа может» Сервелат Русский, 310 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenyy-papa-mozhet-servelat-russkiy-310-g/",
+      "price": "268.99",
+      "promo_price": "199.90",
+      "brand": null
+    },
+    {
+      "id": 299515,
+      "name": "Колбаса варено-копченый «Черкизово»  Премиум Сервелат ГОСТ срез, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenyy-cherkizovo-premium-servelat-gost-srez-500-g/",
+      "price": "469.99",
+      "promo_price": "349.00",
+      "brand": "Черкизово"
+    },
+    {
+      "id": 859200,
+      "name": "Колбаса варено-копченая Сервелат «Ремит» Мускатный (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa-servelat-muskatnyy-v-k/",
+      "price": "1061.99",
+      "promo_price": "789.00",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 789115,
+      "name": "Колбаса сыровяленая «Огзар» Салями из индейки нарезка, 80 г",
+      "link": "https://auchan.ru/product/salyami_ogzar_sv_narezka_80g/",
+      "price": "242.99",
+      "promo_price": "179.90",
+      "brand": "Огзар"
+    },
+    {
+      "id": 965176,
+      "name": "Колбаса вареная «Клинский» Докторская, 400 г",
+      "link": "https://auchan.ru/product/doktorskaya-var-400g/",
+      "price": "323.99",
+      "promo_price": "239.00",
+      "brand": "Клинский"
+    },
+    {
+      "id": 801294,
+      "name": "Колбаса полукопченая «Мясницкий ряд» Краковская, 300 г",
+      "link": "https://auchan.ru/product/kolbpk_krakovskaya_no_300g/",
+      "price": "279.99",
+      "promo_price": "209.00",
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 76725,
+      "name": "Колбаса «РЕМИТ» сырокопченая свиная, вес",
+      "link": "https://auchan.ru/product/kolbasa-svinaya-s-k-ves/",
+      "price": "1591.99",
+      "promo_price": "1199.00",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 7249,
+      "name": "Колбаса сырокопченая «Ближние Горки» Сальчичон полусухая (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolbasa-salchichon-s-k-v-u-bg/",
+      "price": "155.60",
+      "promo_price": "120.00",
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 66583,
+      "name": "Колбаса сырокопченая «Ремит» Итальянская (0,4-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolb_sk_italyanskaya_classik/",
+      "price": "1548.49",
+      "promo_price": "1199.95",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 519294,
+      "name": "Колбаса сырокопченая «Окраина» Салями Немецкая (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbsk_salyami_nemeckaya_fibr/",
+      "price": "1803.99",
+      "promo_price": "1399.00",
+      "brand": "Окраина"
+    },
+    {
+      "id": 880608,
+      "name": "Колбаса «Агросила» Казылык Тантана с чесноком, 170 г",
+      "link": "https://auchan.ru/product/kazylyk-tantana-chesn-s-v-170g/",
+      "price": "403.99",
+      "promo_price": "319.00",
+      "brand": "Агросила"
+    },
+    {
+      "id": 335050,
+      "name": "Колбаса вареная «Ремит» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-remit-doktorskaya-500-g/",
+      "price": "401.99",
+      "promo_price": "319.00",
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 99423,
+      "name": "Колбаса сырокопченая «Ближние Горки» Брауншвейгская ГОСТ (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolsk_braunshveygskaya_gost_bg/",
+      "price": "1997.99",
+      "promo_price": "1599.95",
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 950308,
+      "name": "Колбаса варено-копченая «Окраина» Сервелат Ореховый (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/servelat_orehovyy_vk_fibr/",
+      "price": "1049.99",
+      "promo_price": "839.00",
+      "brand": "Окраина"
+    },
+    {
+      "id": 43338,
+      "name": "Ветчина «Папа Может!» Филейная, 400 г",
+      "link": "https://auchan.ru/product/vetch-fileynaya-papa-mozhet-400g/",
+      "price": "277.99",
+      "promo_price": "224.90",
+      "brand": "Папа Может!"
+    },
+    {
+      "id": 471564,
+      "name": "Колбаса сырокопченая «Клинский» Парме , 360 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-klinskiy-parme-polusuhaya-360-g/",
+      "price": "533.49",
+      "promo_price": "439.00",
+      "brand": "Клинский"
+    },
+    {
+      "id": 343676,
+      "name": "Колбаса полукопченая «Мясной Дом Бородина» Краковская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-myasnoy-dom-borodina-krakovskaya-400-g/",
+      "price": "418.49",
+      "promo_price": "349.00",
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 48046,
+      "name": "Колбаса сырокопченая «Ближние горки» Салями Дель-Гарди, вес",
+      "link": "https://auchan.ru/product/kolb-salyami-del-gardi-s-k-ves/",
+      "price": "1527.99",
+      "promo_price": "1299.95",
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 730930,
+      "name": "Колбаса сырокопчёная «Рублевский» Лионская полусухая, 270 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-rublevskiy-lionskaya-polusuhaya-270-g/",
+      "price": "454.99",
+      "promo_price": "399.80",
+      "brand": "Рублевский"
+    },
+    {
+      "id": 73863,
+      "name": "Колбаса сырокопченая «Мясницкий ряд» Прошутто, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-proshutto-s-k-200g/",
+      "price": "243.99",
+      "promo_price": "219.00",
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 94753,
+      "name": "Колбаса сырокопченая «Останкино» Посольская нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-posolskaya-s-k-100g/",
+      "price": "129.99",
+      "promo_price": "119.90",
+      "brand": "Останкино"
+    },
+    {
+      "id": 861788,
+      "name": "Колбаски варено-копченые «Папа Может» Снэки, 70 г",
+      "link": "https://auchan.ru/product/kolb-sneki-papa-mozhet-v-k-70g/",
+      "price": "133.99",
+      "promo_price": "124.90",
+      "brand": null
+    },
+    {
+      "id": 14277,
+      "name": "Колбаса сырокопченая «Останкино» Чоризо, 245 г",
+      "link": "https://auchan.ru/product/kolbasa-chorizo-s-k-245g/",
+      "price": "318.99",
+      "promo_price": "299.00",
+      "brand": "Останкино"
+    },
+    {
+      "id": 730931,
+      "name": "Колбаса сырокопчёная «Рублевский» Миланская полусухая, 270 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-rublevskiy-milanskaya-polusuhaya-270-g/",
+      "price": "420.99",
+      "promo_price": "399.80",
+      "brand": "Рублевский"
+    },
+    {
+      "id": 13613,
+      "name": "Колбаса сырокопченая АШАН Красная птица Брауншвейская, 100 г",
+      "link": "https://auchan.ru/product/kp-kol-braunshveygskaya-s-k-100g/",
+      "price": "159.99",
+      "promo_price": "105.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 13615,
+      "name": "Колбаса сырокопченая АШАН Красная птица Сальчичон в нарезке, 100 г",
+      "link": "https://auchan.ru/product/kp-kolb-salchichon-sk-nar-100g/",
+      "price": "139.99",
+      "promo_price": "105.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 13612,
+      "name": "Колбаса сырокопченая АШАН Красная птица Сальчичон с паприкой в нарезке, 100 г",
+      "link": "https://auchan.ru/product/kp-salchichon-paprik-nar-100g/",
+      "price": "129.99",
+      "promo_price": "105.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 19093,
+      "name": "Колбаса сыровяленная АШАН Красная птица Турино в нарезке, 100 г",
+      "link": "https://auchan.ru/product/kp-kolbasa-turino-s-v-nar-100g/",
+      "price": "129.99",
+      "promo_price": "105.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 74834,
+      "name": "Колбаса АШАН Золотая птица Ассорти из сырокопченых колбас Милано и Палермо, 100 г",
+      "link": "https://auchan.ru/product/zp-nar-sk-milano-palermo-100g/",
+      "price": "139.99",
+      "promo_price": "119.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 74831,
+      "name": "Колбаса АШАН Золотая птица Ассорти из сырокопченых колбас Милано и Сальчичон, 100 г",
+      "link": "https://auchan.ru/product/zp-nar-s-k-milan-salchich-100gr/",
+      "price": "139.99",
+      "promo_price": "119.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 74833,
+      "name": "Колбаса АШАН Золотая птица Ассорти из сырокопченых колбас, 100 г",
+      "link": "https://auchan.ru/product/zp-nar-assorti-sk-kolb-100-gr/",
+      "price": "139.99",
+      "promo_price": "119.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 13611,
+      "name": "Колбаса сырокопченая АШАН Красная птица Салями в нарезке, 100 г",
+      "link": "https://auchan.ru/product/kp-salyam-sk-melkozer-nar-100g/",
+      "price": "119.99",
+      "promo_price": "105.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 651209,
+      "name": "Колбаса вареная «Мясницкий ряд» Докторская ГОСТ, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-myasnickiy-ryad-doktorskaya-gost-400-g/",
+      "price": "129.95",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 943941,
+      "name": "Колбаса вареная «Велком» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-doktorskaya-500-g-1/",
+      "price": "415.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 7204,
+      "name": "Колбаса варено-копченая «Ближние горки» Сервелат нарезка, 90 г",
+      "link": "https://auchan.ru/product/kolbasa-servelat-v-k-90g-bg/",
+      "price": "160.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 7229,
+      "name": "Колбаса варено-копченая «Ближние горки» Рубленая, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-rublenaya-v-k-350g-bg/",
+      "price": "317.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 419522,
+      "name": "Колбаса варено-копченая «Вязанка» Сервелат Столичный (0,3-0,6 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/servvk_stolichnyy_vyazanka_vu/",
+      "price": "756.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 68816,
+      "name": "Колбаса варено-копченая «Бахрушинъ» Сервелат Кремлёвский, вес",
+      "link": "https://auchan.ru/product/servelat-kremlevskiy-v-k-ves-2/",
+      "price": "1244.99",
+      "promo_price": null,
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 985372,
+      "name": "Колбаса варено-копченая Delikaiser Сервелат мраморный, 400 г",
+      "link": "https://auchan.ru/product/servelat-mramornyy-400g/",
+      "price": "319.99",
+      "promo_price": null,
+      "brand": "Delikaiser"
+    },
+    {
+      "id": 936123,
+      "name": "Колбаса вареная «Вязанка» со шпиком, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-vyazanka-so-shpikom-500g/",
+      "price": "341.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 952417,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Сальчичон, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-salchichon-s-k-300g/",
+      "price": "602.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 32133,
+      "name": "Колбаса вареная «Вязанка» Сливушка, 375 г",
+      "link": "https://auchan.ru/product/kolb-var-slivushka-375g/",
+      "price": "239.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 971464,
+      "name": "Колбаса сырокопченая Cante Grande Сальчичон (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa-salchichon-s-k-ves-2/",
+      "price": "141.50",
+      "promo_price": null,
+      "brand": "Cante Grande"
+    },
+    {
+      "id": 167155,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Салями нежная, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-malahovskiy-myasokombinat-salyami-nezhnaya-250-g/",
+      "price": "281.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 989292,
+      "name": "Ветчина АШАН Красная птица из индейки в нарезке, 150 г",
+      "link": "https://auchan.ru/product/kp-vetchina-iz-indeyki-150g/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 965833,
+      "name": "Колбаса вареная АШАН Красная птица Докторская нарезка, 150 г",
+      "link": "https://auchan.ru/product/kp-kolbasa-doktorskaya-nar-150g/",
+      "price": "109.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 924155,
+      "name": "Колбаса вареная АШАН Красная птица Любительская, 500 г",
+      "link": "https://auchan.ru/product/kp-lyubitelskaya-gost-500gr/",
+      "price": "285.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 965831,
+      "name": "Колбаса вареная АШАН Красная птица Докторская нарезка, 300 г",
+      "link": "https://auchan.ru/product/kp-kolbasa-doktorskaya-nar-300g/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 20861,
+      "name": "Колбаса сырокопченая АШАН Красная птица Сальчичон с перцем в нарезке, 100 г",
+      "link": "https://auchan.ru/product/p-salchichon-s-percem-100g/",
+      "price": "139.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 45385,
+      "name": "Сервелат АШАН Красная птица мускатный нарезка, 100 г",
+      "link": "https://auchan.ru/product/kp-servelat-v-k-muskat-nar100g/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 28602,
+      "name": "Ветчина АШАН Красная птица из окорока в нарезке, 100 г",
+      "link": "https://auchan.ru/product/kp-vetchina-iz-okoroka-100-gr/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 62860,
+      "name": "Колбаски АШАН Красная птица баварские на гриле, 300 г",
+      "link": "https://auchan.ru/product/kp-kolbaski-bavar-gril-300-gr/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 19366,
+      "name": "Колбаса сырокопченая АШАН Красная птица Ароматная, 100 г",
+      "link": "https://auchan.ru/product/kp-aromatnaya-sk-nar-100gr/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 36237,
+      "name": "Колбаса вареная АШАН Красная птица Языковая, 500 г",
+      "link": "https://auchan.ru/product/kp-kolbasa-var-yazykovaya-500g/",
+      "price": "329.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 28597,
+      "name": "Колбаса сырокопченая АШАН Красная птица Чоризо в нарезке, 100 г",
+      "link": "https://auchan.ru/product/kp-kolb-s-k-chorizo-nar-100gr/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 244129,
+      "name": "Колбаса полукопченая «Владимирский стандарт» Кремлевская с грудинкой, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-vladimirskiy-standart-kremlevskaya-s-grudinkoy-350-g/",
+      "price": "230.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 14282,
+      "name": "Колбаса вареная «Папа Может!» Филейная (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolb-fileynaya-papa-mozhet-ves/",
+      "price": "53.90",
+      "promo_price": null,
+      "brand": "Папа Может!"
+    },
+    {
+      "id": 885802,
+      "name": "Колбаса вареная «Папа может» Филейная, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-papa-mozhet-fileynaya-500-g/",
+      "price": "244.49",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 532365,
+      "name": "Колбаса сыровяленая Casademont Fuet Extra с сыром, 110 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-casademont-fuet-extra-s-syrom-110-g/",
+      "price": "330.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 167387,
+      "name": "Колбаса сыровяленая Casademont Сальчичон Экстра (0,4-0,6 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sv_salchichon_ekstra/",
+      "price": "1876.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 966143,
+      "name": "Колбаса сыровяленая Casademont Мини Фуэт, 90 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-casademont-mini-fuet-90-g/",
+      "price": "240.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 532367,
+      "name": "Колбаса сыровяленая Casademont Fuet Extra с инжиром, 110 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-casademont-fuet-extra-s-inzhirom-110-g/",
+      "price": "356.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 6545,
+      "name": "Колбаса сыровяленая Casademont Сальчичон Экстра нарезка, 70 г",
+      "link": "https://auchan.ru/product/kolb-s-v-salchichon-ekstra-70g/",
+      "price": "197.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 85274,
+      "name": "Колбаса сыровяленая Casademont Лонганиза (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sv_longaniza_kg/",
+      "price": "3238.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 65018,
+      "name": "Колбаса сыровяленая «Casademont » Фуэт Экстра, 150 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-casademont-fuet-ekstra-150-g/",
+      "price": "389.49",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 11548,
+      "name": "Колбаса сыровяленая Casademont Лонганиза нарезка, 90 г",
+      "link": "https://auchan.ru/product/kol-s-v-longaniza-narezka-90g/",
+      "price": "372.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 532358,
+      "name": "Колбаса сыровяленая Casademont Fuet Extra с перцем, 110 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-casademont-fuet-extra-s-percem-110-g/",
+      "price": "326.99",
+      "promo_price": null,
+      "brand": "Casademont"
+    },
+    {
+      "id": 995240,
+      "name": "Ветчина из окорока «ВЕЛКОМ» нарезка, 100 г",
+      "link": "https://auchan.ru/product/vetchina-iz-okoroka-100g/",
+      "price": "126.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 68175,
+      "name": "Колбаса вареная «Велком» Молочная, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-molochnaya-500-g/",
+      "price": "404.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 523138,
+      "name": "Колбаса вареная «Велком» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-doktorskaya-500-g/",
+      "price": "368.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 285493,
+      "name": "Колбаса вареная «Велком» Докторская в синюге (0,3-0,5 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/doktorskaya_v_sinyuge_vu_kusok/",
+      "price": "885.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 120657,
+      "name": "Колбаса вареная «Велком» Докторская, 620 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-doktorskaya-620-g/",
+      "price": "499.49",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 68178,
+      "name": "Колбаса вареная «Велком» Языковая, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-yazykovaya-kusok-500-g/",
+      "price": "445.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 37616,
+      "name": "Колбаса вареная «Велком» Телячья, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-telyachya-kusok-500-g/",
+      "price": "393.49",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 68176,
+      "name": "Колбаса вареная «Велком» Русская кусок, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-russkaya-kusok-500-g/",
+      "price": "442.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 940508,
+      "name": "Колбаса вареная «Велком» Любительская кусок, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velkom-lyubitelskaya-kusok-500-g/",
+      "price": "466.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 418572,
+      "name": "Колбаса сыровяленая «Велком» Ассорти Салями Милано Салями Фелино Чоризо нарезка, 150 г",
+      "link": "https://auchan.ru/product/nabmilanchorfelingzs150g/",
+      "price": "251.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 297152,
+      "name": "Колбаса вареная «Папа может» Докторская Люкс (0,2-0,3 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolb_var_doktorskaya_lyuks_co/",
+      "price": "721.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 806100,
+      "name": "Колбаса «Велком» Краковская полукопченая, 360 г",
+      "link": "https://auchan.ru/product/kolbpk_krakovskaya_no_360g/",
+      "price": "420.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 24691,
+      "name": "Колбаса вареная «Останкино» Папа может, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-ostankino-papa-mozhet-500-g/",
+      "price": "312.49",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 736479,
+      "name": "Колбаса полукопченая «Велком» Одесская, 360 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-velkom-odesskaya-360-g/",
+      "price": "354.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 207425,
+      "name": "Колбаски Охотничьи «Велком» полукопченые, 300 г",
+      "link": "https://auchan.ru/product/kolbaski-ohotnichi-velkom-polukopchenye-300-g/",
+      "price": "367.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 379496,
+      "name": "Колбаса вареная «Папа может» Мясная, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-papa-mozhet-500-g/",
+      "price": "259.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 996636,
+      "name": "Колбаса сырокопченая «Папа Может!» Охотничья (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-ohotn-papa-mozhet-s-k/",
+      "price": "114.70",
+      "promo_price": null,
+      "brand": "Папа Может!"
+    },
+    {
+      "id": 228742,
+      "name": "Колбаса полукопченая «Папа может» Чесночная, 420 г",
+      "link": "https://auchan.ru/product/kolbasa-papa-mozhet-chesnochnaya-polukopchenaya-420-g/",
+      "price": "314.49",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 67605,
+      "name": "Колбаса варено-копченая «Папа может» Сервелат Финский (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/servelat-v-k-finskiy-v-u/",
+      "price": "698.49",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 7238,
+      "name": "Колбаса «Папа Может!» сырокопченая охотничья, 220 г",
+      "link": "https://auchan.ru/product/kolbasa-ohotnichya-s-k-220g/",
+      "price": "262.99",
+      "promo_price": null,
+      "brand": "Папа Может!"
+    },
+    {
+      "id": 742165,
+      "name": "Колбаса «Велком» Бордо сырокопченая, 380 г",
+      "link": "https://auchan.ru/product/kolbasa-velkom-bordo-syrokopchenaya-380-g/",
+      "price": "602.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 861767,
+      "name": "Колбаса полукопченая «Папа может» Краковская традиция, 330 г",
+      "link": "https://auchan.ru/product/krakovskaya-tradiciya-p-k-330g/",
+      "price": "272.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 745891,
+      "name": "Колбаса сырокопченая «Велком» Кальяри, 235 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-velkom-kalyari-235-g/",
+      "price": "499.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 37510,
+      "name": "Колбаса сырокопченая «Велком» Миланская (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_milanskaya_velkom/",
+      "price": "1746.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 736496,
+      "name": "Колбаса сырокопченая «Велком» Миланская сухая нарезка, 150 г",
+      "link": "https://auchan.ru/product/milanskaya_sk_gzs_150g_nar/",
+      "price": "293.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 736509,
+      "name": "Колбаса сырокопченая «Велком» Велкомовская сухая нарезка, 150 г",
+      "link": "https://auchan.ru/product/velkomovskaya_sk_gzs_150g_nar/",
+      "price": "289.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 757048,
+      "name": "Колбаса сырокопченая «Велком» Романо (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_romano_vu/",
+      "price": "1755.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 332247,
+      "name": "Колбаса сырокопченая «Велком» Романо, 235 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-velkom-romano-235-g/",
+      "price": "433.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 721876,
+      "name": "Колбаса сырокопченая «Велком» Брауншвейгская, 150 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-velkom-braunshveygskaya-150-g/",
+      "price": "288.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 418628,
+      "name": "Колбаса сырокопченая «Велком» Ассорти Брауншвейгская Велкомовская Миланская нарезка, 150 г",
+      "link": "https://auchan.ru/product/nabbraunvelkommilan_gzs150g/",
+      "price": "293.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 141149,
+      "name": "Колбаса сырокопченая «Велком» Брауншвейгская (0,4-0,6 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/braunshveygskaya_sk_iz_ohl_myasa/",
+      "price": "1849.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 120663,
+      "name": "Колбаса варено-копченая «Велком» Домашнего Копчения, 470 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-velkom-domashnego-kopcheniya-470-g/",
+      "price": "620.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 995219,
+      "name": "Колбаса варено-копченая «ВЕЛКОМ» Сервелат Финский нарезка, 100 г",
+      "link": "https://auchan.ru/product/servelat-finskiy-100g/",
+      "price": "115.99",
+      "promo_price": null,
+      "brand": "ВЕЛКОМ"
+    },
+    {
+      "id": 144766,
+      "name": "Колбаса вареная «Мясницкий ряд» Докторская (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolvardoktorskaya_kata_bo/",
+      "price": "753.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 936017,
+      "name": "Колбаса вареная «Мясницкий ряд» Докторская От шефа, 470 г",
+      "link": "https://auchan.ru/product/kolbasa-doktorskaya-otshefa-470g/",
+      "price": "308.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 948707,
+      "name": "Колбаса сыровяленая «Мясницкий ряд» Сальчичон нарезка, 90 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-myasnickiy-ryad-salchichon-narezka-90-g/",
+      "price": "171.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 948672,
+      "name": "Колбаса сыровяленая Верона «Мясницкий ряд», нарезка, 90 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-myasnickiy-ryad-verona-narezka-90-g/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 144780,
+      "name": "Колбаса варено-копченая «Мясницкий ряд» Салями по-Фински (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbvk_salyami_po_finski/",
+      "price": "888.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 299970,
+      "name": "Колбаса варено-копченая «Мясницкий ряд» Сервелат Европейский (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/servelat_vk_evropeyskiy/",
+      "price": "817.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 859175,
+      "name": "Колбаса «Мясницкий ряд» Праздничная (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-prazdnichnaya-s-k/",
+      "price": "152.00",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 859177,
+      "name": "Колбаса «Мясницкий ряд» Престиж (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-prestizh-s-k/",
+      "price": "146.10",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 844099,
+      "name": "Ветчина «Черкизово» Нежная из индейки, 450 г",
+      "link": "https://auchan.ru/product/vetch-nezhnaya-iz-ind-450g/",
+      "price": "352.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 941303,
+      "name": "Ветчина вареная «Черкизово» По-черкизовски нарезка, 200 г",
+      "link": "https://auchan.ru/product/vetchina-po-cherkiz-nar-200-gr/",
+      "price": "163.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 732915,
+      "name": "Колбаса вареная «Черкизово» Молочная по-Черкизовски (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolbvar_molochnaya_po_cherk1kg/",
+      "price": "516.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 941247,
+      "name": "Колбаса вареная «Черкизово» Классическая нарезка, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-var-klassich-nar-200g/",
+      "price": "154.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 969844,
+      "name": "Колбаса вареная «Черкизово» Ароматная По-Черкизовски (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolb-var-aromat-po-cherkiz-ves/",
+      "price": "60.40",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 732666,
+      "name": "Колбаса вареная «Черкизово» Докторская по-Черкизовски, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-cherkizovo-doktorskaya-po-cherkizovski-500-g/",
+      "price": "289.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 736626,
+      "name": "Колбаса вареная «Черкизово» Молочная по-Черкизовски, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-cherkizovo-molochnaya-po-cherkizovski-400-g/",
+      "price": "209.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 736628,
+      "name": "Колбаса сырокопченая «Черкизово» Салями Фламенко, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-cherkizovo-salyami-flamenko-250-g/",
+      "price": "389.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 431546,
+      "name": "Колбаса сырокопченая «Черкизово»  премиум Салями Фламенко нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-cherkizovo-premium-salyami-flamenko-narezka-400-g/",
+      "price": "172.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 737260,
+      "name": "Салями «Черкизово» Астория срез, 225 г",
+      "link": "https://auchan.ru/product/salyami-cherkizovo-astoriya-srez-225-g/",
+      "price": "279.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 736629,
+      "name": "Колбаса сырокопченая «Черкизово» Салямини, 180 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-cherkizovo-salyamini-180-g/",
+      "price": "225.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 736638,
+      "name": "Колбаса сырокопченая «Черкизово» Салями Астория нарезка, 85 г",
+      "link": "https://auchan.ru/product/kolbsk_salyami_astoriya_nar_85g/",
+      "price": "123.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 343775,
+      "name": "Колбаса сырокопченая «Черкизово» Салями в специях (0,6-0,9 кг) , 1 упаковка  ~ 0,7 кг",
+      "link": "https://auchan.ru/product/kolbsk_prazdnichnaya_v_speciyah/",
+      "price": "1294.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 941357,
+      "name": "Колбаса сырокопченая «Черкизово» Сервелетти пресованная (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-s-k-vu-serveletti-pres/",
+      "price": "134.50",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 941283,
+      "name": "Колбаса сырокопченая «Черкизово» Сервелетти, 250 г",
+      "link": "https://auchan.ru/product/serveletti-sk-press-250g/",
+      "price": "369.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 642404,
+      "name": "Сальчичон сырокопченый «Черкизово» премиум, нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-cherkizovo-premium-salchichon-narezka-100g/",
+      "price": "184.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 855802,
+      "name": "Колбаса сырокопченая «Черкизово» Брауншвейгская ГОСТ, 200 г",
+      "link": "https://auchan.ru/product/sk-braunshveygskaya-gost-0-2kg/",
+      "price": "355.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 732918,
+      "name": "Колбаса сырокопченая «Черкизово» Бородинская (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbsk_borodinskaya_1kg/",
+      "price": "1073.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 736636,
+      "name": "Колбаса сырокопченая «Черкизово» Бородинская срез, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-cherkizovo-borodinskaya-srez-200-g/",
+      "price": "241.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 563324,
+      "name": "Колбаса сырокопченая «Черкизово» Преображенская, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-cherkizovo-preobrazhenskaya-300-g/",
+      "price": "330.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 941272,
+      "name": "Колбаса сырокопченая «Черкизово» Премиум Сальчичон с розовым перцем, 300 г",
+      "link": "https://auchan.ru/product/salchichon-s-roz-perc-sk-300g/",
+      "price": "524.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 721750,
+      "name": "Колбаса сырокопченая «Черкизово» Сальчичон (0,3-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_salchichon/",
+      "price": "1307.49",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 836734,
+      "name": "Колбаса «Черкизово» Варшавская полукопченая, 350 г",
+      "link": "https://auchan.ru/product/varshavskaya-trad-pk-350g/",
+      "price": "174.49",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 836743,
+      "name": "Колбаса полукопченая «Черкизово» Чесночная, 300 г",
+      "link": "https://auchan.ru/product/chesnochnaya-pk-300g/",
+      "price": "187.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 941289,
+      "name": "Мясной снек «Черкизово» Классический, 70 г",
+      "link": "https://auchan.ru/product/myasnoy-snek-klassich-sk-70g/",
+      "price": "150.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 941292,
+      "name": "Мясной снек «Черкизово» Классический из индейки, 70 г",
+      "link": "https://auchan.ru/product/myasnoy-snek-iz-indeyki-sk-70g/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 953237,
+      "name": "Колбаса варено-копченая «Черкизово» Премиум Имперская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-cherkizovo-premium-imperskaya-500-g/",
+      "price": "521.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 736625,
+      "name": "Колбаса варено-копченая «Черкизово» Балыковая по-Черкизовски, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-cherkizovo-balykovaya-po-cherkizovski-400-g/",
+      "price": "294.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 233962,
+      "name": "Колбаса варено-копченая «Черкизово»  Premium Имперская (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/imperskaya_vk/",
+      "price": "1018.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 859927,
+      "name": "Колбаса «Черкизово» Брауншвейгская нарезка, 85 г",
+      "link": "https://auchan.ru/product/braunshveygskaya-sk-gost-85g/",
+      "price": "170.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 299517,
+      "name": "Колбаса варено-копченая «Черкизово» Московская Премиум, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-cherkizovo-premium-500-g/",
+      "price": "535.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 473581,
+      "name": "Колбаса ливерная «Черкизово» с печенью, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-livernaya-cherkizovo-ukrainskaya-s-pechenyu-400-g/",
+      "price": "106.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 575668,
+      "name": "Ветчина «Ближние Горки» из окорока, 500 г",
+      "link": "https://auchan.ru/product/vetchina-blizhnie-gorki-iz-okoroka-500-g/",
+      "price": "421.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 831321,
+      "name": "Колбаса «Дымов» сырокопчёная Сальчичон, 260 г",
+      "link": "https://auchan.ru/product/kol-salchichon-sk-260g/",
+      "price": "364.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 641824,
+      "name": "Колбаса вареная «Ближние Горки» Докторская ГОСТ (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/doktorskaya_vs_vu_gost/",
+      "price": "466.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 99377,
+      "name": "Колбаса вареная «Ближние Горки» Докторская ГОСТ, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-blizhnie-gorki-doktorskaya-gost-500-g/",
+      "price": "420.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 473550,
+      "name": "Колбаса Ливерная «Ближние Горки» Яичная ГОСТ, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-livernaya-blizhnie-gorki-yaichnaya-gost-300-g/",
+      "price": "220.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 7209,
+      "name": "Колбаса варено-копченая «Ближние горки» Балыковая нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-balykovaya-v-k-100g-bg/",
+      "price": "147.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 625623,
+      "name": "Колбаса варено-копченая «Ближние Горки» Кремлевская (0,2-0,5 кг) , 1 упаковка  ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kremlevskaya_vk/",
+      "price": "1214.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 884234,
+      "name": "Сервелат варено-копченый «Ближние Горки» ГОСТ, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-blizhnie-gorki-servelat-gost-500-g/",
+      "price": "567.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 884233,
+      "name": "Колбаса варено-копченая «Ближние Горки» Балыковая, 490 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-blizhnie-gorki-balykovaya-490-g/",
+      "price": "453.49",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 657292,
+      "name": "Колбаса варено-копченая «Ближние Горки» Царская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-blizhnie-gorki-carskaya-500-g/",
+      "price": "549.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 7230,
+      "name": "Колбаса варено-копченая «Ближние горки» Сервелат Австрийский, 330 г",
+      "link": "https://auchan.ru/product/kolb-serv-avstriyskiy-v-k-330g/",
+      "price": "330.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 99432,
+      "name": "Колбаса сырокопченая «Ближние Горки» Миланская (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbsk_milanskaya_bg/",
+      "price": "1562.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 7201,
+      "name": "Колбаса сырокопченая «Ближние горки» Тоскана нарезка, 75 г",
+      "link": "https://auchan.ru/product/kolbasa-toskana-s-k-v-u-75g-bg/",
+      "price": "188.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 99435,
+      "name": "Колбаса сырокопченая «Ближние Горки» Салями Итальянская (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbsk_salyami_italyanskaya_bg/",
+      "price": "1545.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 7175,
+      "name": "Колбаса сырокопченая «Ближние горки» Салями Итальянская нарезка, 75 г",
+      "link": "https://auchan.ru/product/kolb-salyam-italyanskaya-s-k-75g/",
+      "price": "186.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 625647,
+      "name": "Колбаски полукопченые «Ближние Горки» Охотничьи (0,2-0,5 кг) , 1 упаковка  ~ 0,3 кг",
+      "link": "https://auchan.ru/product/ohotnichi_kolbaski_gost_vs/",
+      "price": "1208.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 300662,
+      "name": "Ветчина «Дымов» с окороком, 400 г",
+      "link": "https://auchan.ru/product/vetchina-dymov-s-okorokom-400-g/",
+      "price": "233.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 981745,
+      "name": "Колбаса вареная «ДЫМОВ» нарезка, 150 г",
+      "link": "https://auchan.ru/product/kolb-varenaya-dymov-nar-150-g/",
+      "price": "131.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 300660,
+      "name": "Колбаса вареная «Дымов» Докторская ГОСТ, 500 г",
+      "link": "https://auchan.ru/product/kolbdoktorskaya_gost_pa_500g/",
+      "price": "336.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 770787,
+      "name": "Колбаса полукопченая «Дымов» Краковская ГОСТ, 400 г",
+      "link": "https://auchan.ru/product/kolbkrakovskaya_gost_400g/",
+      "price": "382.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 902396,
+      "name": "Салями Финская «Дымов» полукопченая, 330 г",
+      "link": "https://auchan.ru/product/salyami-finskaya-dymov-polukopchenaya-330-g/",
+      "price": "267.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 902368,
+      "name": "Колбаса варено-копченая «Дымов» Сервелат, 330 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-dymov-servelat-330-g/",
+      "price": "344.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 820932,
+      "name": "Сервелат варено-копченый «Дымов» Ореховый, 330 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-dymov-orehovyy-330-g/",
+      "price": "398.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 951095,
+      "name": "Колбаса варено-копченая «Дымов» Сервелат Швейцарский, 330 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-dymov-servelat-shveycarskiy-330-g/",
+      "price": "283.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 902230,
+      "name": "Сервелат варено-копченый «Дымов» Кремлевский, 330 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-dymov-servelat-kremlevskiy-330-g/",
+      "price": "306.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 108038,
+      "name": "Колбаса варено-копченый «Дымов» Сервелат Кремлевский нарезка, 110 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenyy-dymov-servelat-kremlevskiy-narezka-110-g/",
+      "price": "129.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 781245,
+      "name": "Колбаски сырокопченые «Дымов» Пиколини сметана лук, 50 г",
+      "link": "https://auchan.ru/product/kolpikolini_smetanaluksk50g/",
+      "price": "90.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 781251,
+      "name": "Колбаски сырокопченые «Дымов» Пиколини Хамон, 50 г",
+      "link": "https://auchan.ru/product/kolbpikolini_hamonsk_50g/",
+      "price": "95.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 781243,
+      "name": "Колбаски сырокопченые «Дымов» Пиколини аджика, 50 г",
+      "link": "https://auchan.ru/product/kolbpikolini_adzhika_sk__50g/",
+      "price": "88.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 781252,
+      "name": "Колбаски сырокопченые «Дымов» Пиколини Дижонская горчица, 50 г",
+      "link": "https://auchan.ru/product/kolpikolini_dizhgorchic_sk50g/",
+      "price": "94.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 986942,
+      "name": "Колбаса сырокопченая «ДЫМОВ» Салями Итальянская (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/salyami-italyanskaya-s-k-ves/",
+      "price": "158.00",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 994519,
+      "name": "Колбаса сырокопченая «ДЫМОВ» Австрийская нарезка, 90 г",
+      "link": "https://auchan.ru/product/kolbasa-avstriyskaya-90g/",
+      "price": "169.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 165382,
+      "name": "Колбаса сырокопченая «ДЫМОВ» Коньячная нарезка, 90 г",
+      "link": "https://auchan.ru/product/kolbasa-s-k-konyachnaya-nar-90g/",
+      "price": "143.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 994550,
+      "name": "Колбаса сырокопченая «ДЫМОВ» Австрийская, 230 г",
+      "link": "https://auchan.ru/product/kolbasa-avstriyskaya-230g/",
+      "price": "294.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 328516,
+      "name": "Колбаса сырокопченая «Дымов» Пепперони (0,4-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasapepperonisk/",
+      "price": "1248.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 990513,
+      "name": "Колбаса сырокопченая «Дымов» Коньячная (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_konyachnaya_dymov/",
+      "price": "1124.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 199429,
+      "name": "Колбаса сырокопченая «Дымов» Брауншвейгская полусухая (0,4-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolb-s-k-braunshveygskaya-gost-1/",
+      "price": "1552.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 924617,
+      "name": "Колбаса «ДЫМОВ» Балыковая, 330 г",
+      "link": "https://auchan.ru/product/kolb-balykovaya-v-k-srez-330g/",
+      "price": "405.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 448134,
+      "name": "Ветчина «Папа Может!» с индейкой, 400 г",
+      "link": "https://auchan.ru/product/vetchina-s-indeykoy-ostankino-400-g/",
+      "price": "270.99",
+      "promo_price": null,
+      "brand": "Папа Может!"
+    },
+    {
+      "id": 781720,
+      "name": "Колбаса варено-копченая «Папа может» Сервелат Финский, 100 г",
+      "link": "https://auchan.ru/product/servelat_finskiy_100_g/",
+      "price": "126.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 965315,
+      "name": "Ветчина «Индилайт» Кампана из бедра индейки батон, 400 г",
+      "link": "https://auchan.ru/product/vetchina-kampana-bedr-ind-400g/",
+      "price": "357.99",
+      "promo_price": null,
+      "brand": "Индилайт"
+    },
+    {
+      "id": 905744,
+      "name": "Ветчина «Индилайт» Мраморная нарезка, 120 г",
+      "link": "https://auchan.ru/product/vetchina-mramornaya-narezka-120g/",
+      "price": "155.99",
+      "promo_price": null,
+      "brand": "Индилайт"
+    },
+    {
+      "id": 905718,
+      "name": "Ветчина «Индилайт» Кампана из бедра индейки, нарезка, 120 г",
+      "link": "https://auchan.ru/product/vetch-kampana-iz-bedr-ind-120g/",
+      "price": "155.99",
+      "promo_price": null,
+      "brand": "Индилайт"
+    },
+    {
+      "id": 965311,
+      "name": "Ветчина «Индилайт» Кампана из грудки индейки батон, 400 г",
+      "link": "https://auchan.ru/product/vetchina-kampana-grud-ind-400g/",
+      "price": "357.99",
+      "promo_price": null,
+      "brand": "Индилайт"
+    },
+    {
+      "id": 859171,
+      "name": "Колбаса «Индилайт» Индейка Докторская батон, 400 г",
+      "link": "https://auchan.ru/product/kolb-indeyka-doktorskaya-400g/",
+      "price": "280.99",
+      "promo_price": null,
+      "brand": "Индилайт"
+    },
+    {
+      "id": 949127,
+      "name": "Ветчина «Мясной Дом Бородина» Деликатесная из индейки, 330 г",
+      "link": "https://auchan.ru/product/vetchina-myasnoy-dom-borodina-delikatesnaya-iz-indeyki-330-g/",
+      "price": "424.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 994556,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Докторская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-doktorskaya-400g-2/",
+      "price": "399.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 504515,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-myasnoy-dom-borodina-doktorskaya-500-g/",
+      "price": "447.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 19914,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Докторская, 190 г",
+      "link": "https://auchan.ru/product/mdb-doktorskaya-nar-190-g/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 995009,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Докторская без глютена (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa-doktorskaya-kg/",
+      "price": "98.50",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 859002,
+      "name": "Колбаса «Мясной Дом Бородина» Молочная, 500 г",
+      "link": "https://auchan.ru/product/mdb-molochnaya-b-o-v-u-500-g/",
+      "price": "449.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 799572,
+      "name": "Колбаса «Мясной Дом Бородина» Молочная вареная, 400 г",
+      "link": "https://auchan.ru/product/mdb_molochnaya_bo_kus_400g/",
+      "price": "369.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 995008,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Телячья, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-telyachya-400g-sht/",
+      "price": "471.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 995144,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Телячья (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa-telechya/",
+      "price": "110.80",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 995007,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Любительская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-lyubitelskaya-400g-sht/",
+      "price": "398.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 782984,
+      "name": "Колбаса вареная «Мясной Дом Бородина» Сливочная мини, 400 г",
+      "link": "https://auchan.ru/product/mdb_slivochnaya_bo_vu_400_g/",
+      "price": "372.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 799573,
+      "name": "Колбаса «Мясной Дом Бородина» Сливочная вареная, 400 г",
+      "link": "https://auchan.ru/product/mdb_slivochnaya_bo_kus_400g/",
+      "price": "377.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 739401,
+      "name": "Колбаса варено-копченая «Мясной Дом Бородина» Московская, 320 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-myasnoy-dom-borodina-moskovskaya-320-g/",
+      "price": "486.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 858996,
+      "name": "Колбаса варено-копченая «Мясной Дом Бородина» Сервелат Финский (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/mdb-servelat-finskiy-v-k-v-u/",
+      "price": "117.20",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 320054,
+      "name": "Колбаса варено-копченая «Мясной Дом Бородина» Сервелат, 320 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-myasnoy-dom-borodina-servelat-320-g/",
+      "price": "399.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 165399,
+      "name": "Колбаса варено-копченая «Мясной Дом Бородина» Сервелат Королевский, 320 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-myasnoy-dom-borodina-servelat-korolevskiy-320-g/",
+      "price": "328.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 571206,
+      "name": "Колбаски Охотничьи «Мясной Дом Бородина» полукопченые, 230 г",
+      "link": "https://auchan.ru/product/kolbaski-ohotnichi-myasnoy-dom-borodina-polukopchenye-230-g/",
+      "price": "322.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 26685,
+      "name": "Колбаски вареные «Мясной Дом Бородина» Крошка Нямми, 240 г",
+      "link": "https://auchan.ru/product/kolbaski-varenye-myasnoy-dom-borodina-kroshka-nyammi-240-g/",
+      "price": "230.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 515872,
+      "name": "Колбаса полукопченая «Мясной Дом Бородина» Крымская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-myasnoy-dom-borodina-krymskaya-500-g/",
+      "price": "509.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 906042,
+      "name": "Колбаса «Мясной дом Бородина» Лацио нарезка, 70 г",
+      "link": "https://auchan.ru/product/mdb-kolbasa-lacio-s-k-70g/",
+      "price": "190.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 906049,
+      "name": "Колбаса «Мясной дом Бородина» Янтарная нарезка, 70 г",
+      "link": "https://auchan.ru/product/mdb-kolbasa-yantarnaya-s-k-70-g/",
+      "price": "233.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 906048,
+      "name": "Колбаса «Мясной дом Бородина» Шервудская нарезка, 70 г",
+      "link": "https://auchan.ru/product/mdb-kolb-shervudskaya-s-k-70-g/",
+      "price": "178.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 781740,
+      "name": "Колбаса вареная «Останкино» Докторская, 350 г",
+      "link": "https://auchan.ru/product/doktorskaya_gost_var_vu_350_g/",
+      "price": "258.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 707077,
+      "name": "Колбаса вареная «Останкино» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-ostankino-doktorskaya-500-g/",
+      "price": "333.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 781751,
+      "name": "Колбаса вареная «Останкино» Русская, 350 г",
+      "link": "https://auchan.ru/product/russkaya_gost_var_vu_350_g/",
+      "price": "261.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 49299,
+      "name": "Колбаса сырокопченая «Останкино» Брауншвейгская (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolb-s-k-braunshveygskaya-gost/",
+      "price": "1760.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 532149,
+      "name": "Колбаса сырокопченая «Останкино» Салями мелкозерненая, 120 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-ostankino-salyami-melkozerchennaya-120-g/",
+      "price": "157.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 532139,
+      "name": "Колбаса сырокопченая «Останкино» салями мелкозерненая (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/salyami_melkozernennaya_sk/",
+      "price": "1104.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 24673,
+      "name": "Колбаса сырокопченая «Останкино» Ароматная (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_aromatnaya_sk/",
+      "price": "1030.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 92077,
+      "name": "Колбаса сырокопченая «Останкино» Еврейская (0,3-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbsk_evreyskaya_gost/",
+      "price": "2018.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 749407,
+      "name": "Колбаса сырокопченая «Останкино» Пресижн в декоративных специях (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolsk_presizhn_v_dekspeciyah/",
+      "price": "1318.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 164734,
+      "name": "Колбаса сырокопченая «Останкино» Ароматная нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-ostankino-aromatnaya-narezka-100-g/",
+      "price": "142.49",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 555683,
+      "name": "Колбаса сырокопченая «Останкино» Салями Итальянская, 150 г",
+      "link": "https://auchan.ru/product/kolbasa-ostankino-italyanskaya-salyami-150-g/",
+      "price": "204.49",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 332318,
+      "name": "Колбаса сырокопченая «Останкино» Пресижн, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-ostankino-presizhn-250-g/",
+      "price": "309.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 228043,
+      "name": "Колбаса сырокопченая «Останкино» Юбилейная (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-s-k-yubileynaya/",
+      "price": "1025.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 571014,
+      "name": "Колбаса полукопченая «Останкино» Салями Финская, 620 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-salyami-ostankino-620-g/",
+      "price": "443.49",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 803239,
+      "name": "Колбаса полукопченая «Останкино» Салями Венская, 420 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-ostankino-salyami-venskaya-420-g/",
+      "price": "322.49",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 119419,
+      "name": "Колбаса полукопченная «Останкино» Салями Венская (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/salyami_pk_venskaya_vu/",
+      "price": "680.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 119385,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат Коньячный (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/servelat_vk_konyachnyy_vu/",
+      "price": "851.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 781719,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат Швейцарский нарезка, 100 г",
+      "link": "https://auchan.ru/product/servelat_shveycarskiy_100_g/",
+      "price": "155.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 803204,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат Европейский, 420 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-ostankino-evropeyskiy-420-g/",
+      "price": "354.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 988310,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат Кремлевский, 840 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-ostankino-kremlevskiy-840-g/",
+      "price": "588.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 228643,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат зернистый, 420 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-ostankino-servelat-zernistyy-420-g/",
+      "price": "344.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 779351,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат Зернистый, 840 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-ostankino-zernistyy-840-g/",
+      "price": "592.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 803251,
+      "name": "Колбаса варено-копченая «Останкино» Сервелат Российский, 420 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-ostankino-rossiyskiy-420-g/",
+      "price": "296.99",
+      "promo_price": null,
+      "brand": "Останкино"
+    },
+    {
+      "id": 278444,
+      "name": "Колбаса вареная «Великолукский мясокомбинат» Докторская ГОСТ, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velikolukskiy-myasokombinat-doktorskaya-gost-500-g/",
+      "price": "259.99",
+      "promo_price": null,
+      "brand": "Великолукский мясокомбинат"
+    },
+    {
+      "id": 10226,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Брауншвейгская нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolb-braunshveygskaya-s-k-100g/",
+      "price": "221.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 37501,
+      "name": "Колбаса сырокопченая «Царицыно» Пикантная с миксом перцев, 220 г",
+      "link": "https://auchan.ru/product/kolb-pikantnaya-sk-s-per-220gr/",
+      "price": "306.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 657472,
+      "name": "Колбаса сырокопченая «Раменский Деликатес» Сервелат Прованс из утки (0,3-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/servelat_provans_sk_vu/",
+      "price": "1576.99",
+      "promo_price": null,
+      "brand": "Раменский Деликатес"
+    },
+    {
+      "id": 45938,
+      "name": "Продукт мясной «Агрокомплекс» Террин вареный из свинины, 400 г",
+      "link": "https://auchan.ru/product/terrin-var-iz-svin-agrok-400g/",
+      "price": "154.99",
+      "promo_price": null,
+      "brand": "Агрокомплекс"
+    },
+    {
+      "id": 979617,
+      "name": "Ветчина «БАРС», 325 г",
+      "link": "https://auchan.ru/product/vetchina_bars_325gr/",
+      "price": "267.99",
+      "promo_price": null,
+      "brand": "БАРС"
+    },
+    {
+      "id": 859187,
+      "name": "Колбаса «Ремит» с чесноком (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolb-s-chesnokom-s-k/",
+      "price": "136.60",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 7281,
+      "name": "Ветчина «Просто Вкусно» халяль, 500 г",
+      "link": "https://auchan.ru/product/vetchina-halyal-500g/",
+      "price": "126.99",
+      "promo_price": null,
+      "brand": "Просто Вкусно"
+    },
+    {
+      "id": 69563,
+      "name": "Колбаса «ДЫМОВ» Салями сырокопченая, 230 г",
+      "link": "https://auchan.ru/product/kolb-s-k-salyami-dymov-230gr/",
+      "price": "389.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 28227,
+      "name": "Ветчина вареная «Дым Дымыч», 400 г",
+      "link": "https://auchan.ru/product/vetchina-dym-dymych-400g/",
+      "price": "284.99",
+      "promo_price": null,
+      "brand": "Дым Дымыч"
+    },
+    {
+      "id": 937859,
+      "name": "Колбаса варено-копченая «Черный кабан» Свиная, 290 г",
+      "link": "https://auchan.ru/product/kolbasa-svinaya-v-k-290g/",
+      "price": "282.99",
+      "promo_price": null,
+      "brand": "Черный кабан"
+    },
+    {
+      "id": 787843,
+      "name": "Ветчина «Вязанка» Филейская, 500 г",
+      "link": "https://auchan.ru/product/vetchina-starodvorskie-kolbasy-vyazanka-stolichnaya-500-g/",
+      "price": "344.49",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 519295,
+      "name": "Колбаса вареная «Окраина» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-okraina-doktorskaya-500-g/",
+      "price": "369.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 545858,
+      "name": "Колбаса вареная «Великолукский мясокомбинат» Любительская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velikolukskiy-myasokombinat-lyubitelskaya-500-g/",
+      "price": "256.99",
+      "promo_price": null,
+      "brand": "Великолукский мясокомбинат"
+    },
+    {
+      "id": 618835,
+      "name": "Ветчина варено-копченая из индейки «Каждый день» , 150 г",
+      "link": "https://auchan.ru/product/kdvetchiz_indeyki150servvak/",
+      "price": "79.98",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 848280,
+      "name": "Колбаса «Атяшево» Краинская, 400 г",
+      "link": "https://auchan.ru/product/kolb-p-k-krainskaya-n-o-400g/",
+      "price": "150.99",
+      "promo_price": null,
+      "brand": "Атяшево"
+    },
+    {
+      "id": 66336,
+      "name": "Ветчина «Вязанка» Сливушка с индейкой, 400 г",
+      "link": "https://auchan.ru/product/vetch-slivushka-s-ind-vyazan-0-4g/",
+      "price": "325.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 157875,
+      "name": "Колбаса сыровяленая «Охотный Ряд» Австрийская (0,3-0,6 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbavstriyskaya_svyal_vs/",
+      "price": "1769.99",
+      "promo_price": null,
+      "brand": "Охотный Ряд"
+    },
+    {
+      "id": 659387,
+      "name": "Колбаса вареная «Идель» Докторская особая халяль, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-caricyno-doktorskaya-osobaya-halyal-500-g/",
+      "price": "178.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 61726,
+      "name": "Колбаса варено-копченая «САФА» Сабинская халяль, 400 г",
+      "link": "https://auchan.ru/product/kolb-sabinskaya-halyal-v-k-400g/",
+      "price": "390.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 88831,
+      "name": "Колбаса варено-копченая «Папа Может!» Сервелат Финский, 420 г",
+      "link": "https://auchan.ru/product/servelat-finskiy-pm-420g/",
+      "price": "329.99",
+      "promo_price": null,
+      "brand": "Папа Может!"
+    },
+    {
+      "id": 60817,
+      "name": "Колбаса сырокопченая «Кочевники» Суннитская халяль, вес",
+      "link": "https://auchan.ru/product/kolbasa-sunnitsk-s-k-v-u-halyal/",
+      "price": "2401.99",
+      "promo_price": null,
+      "brand": "Кочевники"
+    },
+    {
+      "id": 479275,
+      "name": "Колбаса варено-копченая «Егорьевская КГФ» Сервелат Мускатный нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-egorevskaya-kgf-servelat-muskatnyy-narezka-100-g/",
+      "price": "114.99",
+      "promo_price": null,
+      "brand": "Егорьевская КГФ"
+    },
+    {
+      "id": 85044,
+      "name": "Колбаса «Черкизово» Докторская вареная нарезка, 150 г",
+      "link": "https://auchan.ru/product/kolb-var-doktorskaya-nar-150g/",
+      "price": "112.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 871633,
+      "name": "Колбаса вареная «Владимирский стандарт» Докторская стандарт1 сорт, 500 г",
+      "link": "https://auchan.ru/product/kolb-doktorskaya-vs-c-f-500g/",
+      "price": "259.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 572740,
+      "name": "Колбаса варено-копченая «Окраина» Сервелат Европейский (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/servelat_vk_evropeyskiy_vu/",
+      "price": "949.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 300707,
+      "name": "Колбаса вареная «Стародворье» Докторская традиционная, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-starodvore-doktorskaya-500-g/",
+      "price": "239.99",
+      "promo_price": null,
+      "brand": "Стародворье"
+    },
+    {
+      "id": 951094,
+      "name": "Колбаса варено-копченый «Снежана» Сервелат Финский, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenyy-snezhana-servelat-finskiy-300-g/",
+      "price": "300.99",
+      "promo_price": null,
+      "brand": "Снежана"
+    },
+    {
+      "id": 164730,
+      "name": "Колбаса сырокопченая «Ремит» Салями Миланская (0,3-0,6 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbsk_salyami_milanskaya/",
+      "price": "1662.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 59365,
+      "name": "Колбаса сырокопченая «РЕМИТ» нарезка Салями в сыре, 70 г",
+      "link": "https://auchan.ru/product/nar-s-k-salyami-v-syre-70g/",
+      "price": "175.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 518762,
+      "name": "Колбаса полукопченая «Владимирский стандарт» Кремлевская с грудинкой (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbasa_pk_kremlev_s_grudin/",
+      "price": "598.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 479582,
+      "name": "Колбаса сырокопченая «Ремит» Итальянская нарезка, 70 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-remit-italyanskaya-narezka-70-g/",
+      "price": "155.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 885800,
+      "name": "Сервелат варено-копченый «Мираторг» ГОСТ, 375 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-miratorg-gost-375-g/",
+      "price": "400.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 575679,
+      "name": "Колбаса вареная «Ремит» Любительская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-remit-lyubitelskaya-400-g/",
+      "price": "361.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 551626,
+      "name": "Колбаса вареная «Царицыно» Докторская ГОСТ (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/doktorskayagostohl_var_vs/",
+      "price": "503.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 905896,
+      "name": "Колбаса сыровяленая «Ремит» Ферарезе нарезка, 70 г",
+      "link": "https://auchan.ru/product/narezka-ferarreze-s-v-70g/",
+      "price": "151.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 837765,
+      "name": "Колбаса сырокопченая «Клинский» Миланская (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_skmilanskayask_vu/",
+      "price": "1737.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 48926,
+      "name": "Колбаса вареная «КампоМос» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-var-dokt-ekstra-500g/",
+      "price": "185.99",
+      "promo_price": null,
+      "brand": "КампоМос"
+    },
+    {
+      "id": 353129,
+      "name": "Колбаса сырокопченая «Каждый день» Браунштадская нарезка, 150 г",
+      "link": "https://auchan.ru/product/kdbraunshtadskayanar_150_g/",
+      "price": "129.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 897045,
+      "name": "Колбаса «Сафа» Крымская Халяль, 580 г",
+      "link": "https://auchan.ru/product/kolb-p-k-krymskaya-halyal-580g/",
+      "price": "399.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 25709,
+      "name": "Колбаса полукопченая «Заповедные» Краковская, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-krakovskaya-p-k-300-gr/",
+      "price": "253.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 347978,
+      "name": "Колбаса сырокопченая «Сафа» Зернистая Халяль (0,2-0,5 кг) , 1 упаковка  ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolsk_zernistaya_halyal_vu/",
+      "price": "1809.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 796729,
+      "name": "Колбаса вареная «Ремит» Докторская (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_doktorskaya_vs_bo/",
+      "price": "765.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 741877,
+      "name": "Колбаса варено-копченая «Владимирский стандарт» Сервелат Кремлевский, 350 г",
+      "link": "https://auchan.ru/product/serv_kremlevskiy_vk_350g/",
+      "price": "207.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 507800,
+      "name": "Колбаса сырокопченая «Каждый день» Салями Туринская, 300 г",
+      "link": "https://auchan.ru/product/kdsalyami_turin_sk_300g/",
+      "price": "155.98",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 73865,
+      "name": "Колбаса сырокопченая «Мясницкий ряд» Пепперони, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-pepperoni-s-k-200g/",
+      "price": "284.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 170835,
+      "name": "Колбаса ливерная «Микоян» Традиционная, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-livernaya-mikoyan-tradicionnaya-400-g/",
+      "price": "93.99",
+      "promo_price": null,
+      "brand": "Микоян"
+    },
+    {
+      "id": 427952,
+      "name": "Колбаса вареная «Владимирский стандарт» Докторская ГОСТ (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolbdoktorskaya_gost_vs_cf/",
+      "price": "577.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 145546,
+      "name": "Сервелат варено-копченая «ЭКОЛЬ» Халяль, 700 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenaya-ekol-halyal-700-g/",
+      "price": "656.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 523088,
+      "name": "Ветчина варено-копченая «Каждый день» из окорока, 150 г",
+      "link": "https://auchan.ru/product/kdvetchina_iz_okoroka_150_g/",
+      "price": "65.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 924548,
+      "name": "Колбаса «РЕМИТ» Чешская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-cheshskaya-pk-400g/",
+      "price": "386.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 84934,
+      "name": "Колбаса вареная «Рузком» Байрам, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-ruzkom-bayram-300-g/",
+      "price": "69.99",
+      "promo_price": null,
+      "brand": "Рузком"
+    },
+    {
+      "id": 422842,
+      "name": "Колбаса вареная «Ремит» Докторская (0,3-0,6 кг), 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbdoktorskaya_krugi_vs_no/",
+      "price": "891.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 435289,
+      "name": "Колбаса варено-копченая «Рублевский» Московская (0,2-0,6 кг) , 1 упаковка  ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbasa_moskovskaya_minonvk/",
+      "price": "1611.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 659388,
+      "name": "Колбаса вареная «Идель» Особая с телятиной Халяль, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-caricyno-osobaya-s-telyatinoy-halyal-500-g/",
+      "price": "203.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 737258,
+      "name": "Колбаса вареная «Владимирский стандарт» Любительская 1 Сорт (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolblyubitelskaya_1sort_vs/",
+      "price": "46.60",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 984889,
+      "name": "Колбаса сыровяленая Cortador Итальянская нарезка, 80 г",
+      "link": "https://auchan.ru/product/kolbasa-s-v-italyanskaya-80g/",
+      "price": "154.99",
+      "promo_price": null,
+      "brand": "Cortador"
+    },
+    {
+      "id": 49008,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Великорусская (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_velikorusskaya/",
+      "price": "1319.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 659350,
+      "name": "Колбаса вареная «Идель» Оригинальная с говядиной Халяль, 1 кг",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-caricyno-originalnaya-s-govyadinoy-halyal-1-kg/",
+      "price": "368.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 949103,
+      "name": "Сервелат сырокопченый «Ремит» Престиж, 215 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-servelat-remit-prestizh-215-g/",
+      "price": "358.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 724659,
+      "name": "Колбаса вареная «ЭКОЛЬ» Салам из говядины Халяль, 450 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-ekol-salam-iz-govyadiny-halyal-450-g/",
+      "price": "200.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 60790,
+      "name": "Колбаски полукопченые «Кочевники» Бараньи халяль, 340 г",
+      "link": "https://auchan.ru/product/kolbaski-barani-halyal-p-k340g/",
+      "price": "439.99",
+      "promo_price": null,
+      "brand": "Кочевники"
+    },
+    {
+      "id": 937659,
+      "name": "Колбаса сырокопченая «Клинский» Миланская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-s-k-milanskaya-400g/",
+      "price": "672.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 263790,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Пепперони (0,4-0,6 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_pepperoni_kg/",
+      "price": "1257.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 145532,
+      "name": "Колбаса Венгерская «ЭКОЛЬ» Халяль нарезка, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-ekol-vengerskaya-halyal-narezka-250-g/",
+      "price": "166.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 312332,
+      "name": "Колбаски сырокопченые «Малаховский мясокомбинат» Охотничьи, 200 г",
+      "link": "https://auchan.ru/product/kolbaski-syrokopchenye-malahovskiy-myasokombinat-ohotnichi-200-g/",
+      "price": "292.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 117529,
+      "name": "Колбаса сырокопченая «Клинский» Брауншвейгская (0,4-0,6 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolb_braunshveygsksk_klin_ves/",
+      "price": "2207.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 471545,
+      "name": "Колбаса варено-копченая «Рублевский» Московская, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-rublevskiy-moskovskaya-300-g/",
+      "price": "459.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 280670,
+      "name": "Колбаса сырокопченая «Охотный Ряд» Испанская (0,4-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_ispanskaya_sk_ves/",
+      "price": "1419.99",
+      "promo_price": null,
+      "brand": "Охотный Ряд"
+    },
+    {
+      "id": 379804,
+      "name": "Колбаса Брауншвейгская сырокопченая «Егорьевская КГФ», полусухая, нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-egorevskaya-kgf-braunshveygskaya-polusuhaya-narezka-100-g/",
+      "price": "200.99",
+      "promo_price": null,
+      "brand": "Егорьевская КГФ"
+    },
+    {
+      "id": 280717,
+      "name": "Колбаса варено-копченая «Микоян» Итальянская вяленая (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbitalyanskaya_vyalvk_ves/",
+      "price": "1263.99",
+      "promo_price": null,
+      "brand": "Микоян"
+    },
+    {
+      "id": 106035,
+      "name": "Колбаски вареные «Ремит» Белые Мюнхенские, 400 г",
+      "link": "https://auchan.ru/product/kolbaski-varenye-remit-belye-myunhenskie-400-g/",
+      "price": "278.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 235811,
+      "name": "Колбаса сырокопченная «Ремит» Салями Княжеская Трапеза (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/salyami_knyazhtrapeza_sk_ves/",
+      "price": "1395.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 37734,
+      "name": "Колбаса сырокопченая «Ремит» Бургундская (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_sv_burgundskaya/",
+      "price": "1747.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 267863,
+      "name": "Колбаса сырокопченая «Рублевский» Дель Торо Саброзо (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/k_sa_del_torosabrozo_psuh/",
+      "price": "2774.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 960719,
+      "name": "Колбаса вареная «Царицыно» Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-caricyno-doktorskaya-500-g/",
+      "price": "289.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 72502,
+      "name": "Колбаса «МясоСольСпеции» Лисецкая варено-копченая, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-v-k-liseckaya-250g/",
+      "price": "266.99",
+      "promo_price": null,
+      "brand": "МясоСольСпеции"
+    },
+    {
+      "id": 335047,
+      "name": "Сервелат варено-копченый «Ремит» Австрийский, 400 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-remit-avstriyskiy-400-g/",
+      "price": "348.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 399946,
+      "name": "Колбаса вареная «Атяшево» Докторская ГОСТ (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolb-var-doktorskaya-gost-ves/",
+      "price": "401.99",
+      "promo_price": null,
+      "brand": "Атяшево"
+    },
+    {
+      "id": 43661,
+      "name": "Колбаса «Заповедные» Элитная, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-elitnaya-s-k-250-gr/",
+      "price": "379.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 542809,
+      "name": "Колбаса сырокопченая «Шельф» Кремлевская, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-shelf-kremlevskaya-300-g/",
+      "price": "365.99",
+      "promo_price": null,
+      "brand": "Шельф"
+    },
+    {
+      "id": 48364,
+      "name": "Сервелат копчено-вареный «Бахрушинъ» ГОСТ, 300 г",
+      "link": "https://auchan.ru/product/kolb-servelat-gost-300-gr-v-k/",
+      "price": "445.99",
+      "promo_price": null,
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 936158,
+      "name": "Ветчина запеченная «Вязанка» Запекуша с сочным окороком (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/vetchina-zapekusha-s-okorokom/",
+      "price": "792.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 38579,
+      "name": "Колбаски сырокопченые «Мясо так мясо» Чоризо мини, 90 г",
+      "link": "https://auchan.ru/product/chorizo-mini-90g/",
+      "price": "213.99",
+      "promo_price": null,
+      "brand": "Мясо так мясо"
+    },
+    {
+      "id": 53666,
+      "name": "Колбаса вареная «Владимирский стандарт» Сочно-молочная, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-sochnomolochnaya-400-g/",
+      "price": "194.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 636176,
+      "name": "Сервелат варено-копченый «Бахрушинъ» Финский, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-bahrushin-servelat-finskiy-300-g/",
+      "price": "330.99",
+      "promo_price": null,
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 43613,
+      "name": "Колбаски сырокопченые «Мясницкий ряд» Kabanos Original, 60 г",
+      "link": "https://auchan.ru/product/kabanos-original-60-g/",
+      "price": "108.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 858841,
+      "name": "Колбаса «Баварушка» Салями Филейбургская зернистая, 350 г",
+      "link": "https://auchan.ru/product/salyami-bavarushka-350g/",
+      "price": "334.99",
+      "promo_price": null,
+      "brand": "Баварушка"
+    },
+    {
+      "id": 43630,
+      "name": "Колбаса «Заповедные» Миланская, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-milanskaya-s-k-250-gr/",
+      "price": "325.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 58885,
+      "name": "Колбаса варено-копченая «САФА» Сервелат Деликатесный, 580 г",
+      "link": "https://auchan.ru/product/serv-delikatecnyy-halyal-580g/",
+      "price": "895.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 37418,
+      "name": "Колбаса вареная «Царицыно» Языковая, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-yazykovaya-varenaya-400-g/",
+      "price": "265.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 53321,
+      "name": "Колбаса вареная «Рублевский» Докторская, вес",
+      "link": "https://auchan.ru/product/kolbasa-doktorskaya-ves/",
+      "price": "883.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 794618,
+      "name": "Колбаса вареная «Идель» К чаю, 400 г",
+      "link": "https://auchan.ru/product/kolbasa_k_chayu_400g_var_caric/",
+      "price": "181.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 49565,
+      "name": "Колбаса сырокопченая «Рублёвский» Сальчичон, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-salchichon-s-k-350-gr/",
+      "price": "604.99",
+      "promo_price": null,
+      "brand": "Рублёвский"
+    },
+    {
+      "id": 43396,
+      "name": "Колбаса вареная Delikaiser три мяса, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varen-tri-myasa-0-4-kg/",
+      "price": "264.99",
+      "promo_price": null,
+      "brand": "Delikaiser"
+    },
+    {
+      "id": 951616,
+      "name": "Колбаса Столичная сырокопчёная «Егорьевская КГФ», нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-egorevskaya-kgf-stolichnaya-narezka-100-g/",
+      "price": "213.99",
+      "promo_price": null,
+      "brand": "Егорьевская КГФ"
+    },
+    {
+      "id": 48831,
+      "name": "Колбаса сырокопченая «Черкизово» Premium сервелетти и прошутто, 85 г",
+      "link": "https://auchan.ru/product/kolbasa-servel-proshut-s-k-85g/",
+      "price": "169.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 219912,
+      "name": "Колбаски сырокопченые «Ремит» Kabanos Chicken, 70 г",
+      "link": "https://auchan.ru/product/kolbaski-syrokopchenye-remit-kabanos-chicken-70-g/",
+      "price": "109.49",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 935138,
+      "name": "Колбаса сырокопченая SCHNELLER Салями с трюфелем, вес",
+      "link": "https://auchan.ru/product/kolbasa-salyami-s-tryuf-s-k-kg/",
+      "price": "89.20",
+      "promo_price": null,
+      "brand": "SCHNELLER"
+    },
+    {
+      "id": 984892,
+      "name": "Колбаса сырокопченая Cortador Палермо нарезка, 80 г",
+      "link": "https://auchan.ru/product/kolb-palermo-s-k-80g/",
+      "price": "176.99",
+      "promo_price": null,
+      "brand": "Cortador"
+    },
+    {
+      "id": 858974,
+      "name": "Ветчина «Клинский» для тостов нарезка, 210 г",
+      "link": "https://auchan.ru/product/vetch-dlya-tostov-210g-nar/",
+      "price": "233.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 796734,
+      "name": "Колбаса варено-копченая «Ремит» Сервелат Ореховый (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_servelat_orehovyy_vk/",
+      "price": "1123.49",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 61798,
+      "name": "Колбаса сырокопченая «Коломенское» Сервелат Европейский, вес",
+      "link": "https://auchan.ru/product/kolb-sk-servelat-evropeyskiy/",
+      "price": "1556.99",
+      "promo_price": null,
+      "brand": "Коломенское"
+    },
+    {
+      "id": 74884,
+      "name": "Колбаса вареная «Ближние горки» Любительская ГОСТ, 330 г",
+      "link": "https://auchan.ru/product/kolbasa-lyubitelskaya-gost-330g/",
+      "price": "278.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 351670,
+      "name": "Колбаса сырокопченая «Каждый день» Браунштадская, 300 г",
+      "link": "https://auchan.ru/product/kdbraunshtadskayask_300_gr/",
+      "price": "239.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 659408,
+      "name": "Колбаса полукопченая «Идель» Мусульманская Халяль (0,2-0,7 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/musulmanskayapapk/",
+      "price": "435.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 73862,
+      "name": "Колбаса вареная «Мясницкий ряд» Каждому по вкусу, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-kazhdomu-po-vkusu-400g/",
+      "price": "237.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 456000,
+      "name": "Колбаса вареная «Рублевский» Докторская (0,2-0,4 кг) , 1 упаковка  ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolbdoktorskaya_gost_v_belk/",
+      "price": "992.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 427900,
+      "name": "Колбаса вареная «Владимирский стандарт» Русская ГОСТ ц/ф, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-vladimirskiy-standart-russkaya-500-g/",
+      "price": "297.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 858787,
+      "name": "Колбаса вареная «Стародворье» Дугушка Молочная (0,6-1 кг), 1 упаковка ~ 0,88 кг",
+      "link": "https://auchan.ru/product/kolb-molochnaya-dugushka-ves/",
+      "price": "51.50",
+      "promo_price": null,
+      "brand": "Стародворье"
+    },
+    {
+      "id": 20426,
+      "name": "Колбаса докторская «Мираторг» вареная, 470 г",
+      "link": "https://auchan.ru/product/kolbasa-var-doktorskaya-p-a-470/",
+      "price": "322.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 43608,
+      "name": "Колбаса вареная «Мясницкий ряд» Докторская, 400 г",
+      "link": "https://auchan.ru/product/doktorskaya-gost-pgn-400-g/",
+      "price": "328.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 117560,
+      "name": "Колбаса вареная «Клинский» Докторская (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbasa_doktorskaya_vs_klin_ves/",
+      "price": "787.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 323250,
+      "name": "Колбаса вареная «Каждый день» Юбилейная, 500 г",
+      "link": "https://auchan.ru/product/kdkolbasa_yubileynaya_500g/",
+      "price": "129.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 281354,
+      "name": "Колбаса сырокопченая «Рублевский» Брауншвейгская (0,3-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/k_sabraunshveygskayaskvs/",
+      "price": "2273.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 66630,
+      "name": "Колбаса сырокопченая «Ремит» Брауншвейгская нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-remit-braunshveygskaya-narezka-100-g/",
+      "price": "226.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 848571,
+      "name": "Ветчина «Рублевский» для завтрака, 400 г",
+      "link": "https://auchan.ru/product/vetchina-rublevskiy-dlya-zavtraka-400-g/",
+      "price": "385.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 83065,
+      "name": "Колбаса «Царицыно» сырокопченая охотничья, 250 г",
+      "link": "https://auchan.ru/product/kolb-ohotnichya-sk-250g/",
+      "price": "280.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 476192,
+      "name": "Колбаса вареная «Стародворье» Докторская Стародворская (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbvardoktorsk_starodvore/",
+      "price": "542.99",
+      "promo_price": null,
+      "brand": "Стародворье"
+    },
+    {
+      "id": 164729,
+      "name": "Колбаса сырокопченая «Ремит» Абриколетте (0,3-0,6 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_abrikolette/",
+      "price": "1446.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 725696,
+      "name": "Колбаса варено-копченая «Стародворье» Сервелат Кремлевский (0,2-0,5 кг) , 1 упаковка  ~ 0,35 кг",
+      "link": "https://auchan.ru/product/servelat-kremlevskiy-vk-ves/",
+      "price": "624.99",
+      "promo_price": null,
+      "brand": "Стародворье"
+    },
+    {
+      "id": 53714,
+      "name": "Колбаса сырокопченая «Снежана» Чоризо полусухая нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-chorizo-p-s-s-k-100g/",
+      "price": "203.99",
+      "promo_price": null,
+      "brand": "Снежана"
+    },
+    {
+      "id": 984894,
+      "name": "Колбаса сыровяленая Cortador Сальчичон нарезка, 80 г",
+      "link": "https://auchan.ru/product/kolb-salchichon-s-v-80g/",
+      "price": "175.99",
+      "promo_price": null,
+      "brand": "Cortador"
+    },
+    {
+      "id": 69560,
+      "name": "Колбаса «ДЫМОВ» вареная Добруша докторская, 400 г",
+      "link": "https://auchan.ru/product/kolb-dokt-gost-dobrusha-400-gr/",
+      "price": "309.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 60981,
+      "name": "Джерики сыровяленые «Мясной продукт» из оленины, 50 г",
+      "link": "https://auchan.ru/product/chipsy-iz-oleniny-mp-50g/",
+      "price": "442.99",
+      "promo_price": null,
+      "brand": "Мясной продукт"
+    },
+    {
+      "id": 74886,
+      "name": "Колбаса варено-копченая «Ближние горки» Сервелат зернистный, 330 г",
+      "link": "https://auchan.ru/product/servelat-zernistyy-v-k-330g-bg/",
+      "price": "251.99",
+      "promo_price": null,
+      "brand": "Ближние горки"
+    },
+    {
+      "id": 506055,
+      "name": "Колбаса вареная «Клинский» Докторская (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/doktorskaya_v_natob_vakupak/",
+      "price": "963.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 297863,
+      "name": "Колбаса вареная «Ремит» Телячья ГОСТ, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-telyachya-remit-gost-400-g/",
+      "price": "499.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 630660,
+      "name": "Колбаски Охотничьи «Окраина» полукопченые, 320 г",
+      "link": "https://auchan.ru/product/kolbaski-ohotnichi-okraina-polukopchenye-320-g/",
+      "price": "401.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 912827,
+      "name": "Колбаса вареная «Каждый день» Классическая, 500 г",
+      "link": "https://auchan.ru/product/kdkolb_kupecheskaya_no_500g/",
+      "price": "189.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 985504,
+      "name": "Колбаса вареная «Окраина» Идеальный бутерброд, 530 г",
+      "link": "https://auchan.ru/product/kolb-var-ideal-buter-530g/",
+      "price": "473.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 621307,
+      "name": "Колбаса варено-копченая «Каждый день» Салями Финская (0,5-0,6 кг), 1 упаковка ~0,6 кг",
+      "link": "https://auchan.ru/product/kdsalyami_finskaya_vk_ves/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 735629,
+      "name": "Колбаса сырокопченая «Мираторг» Брауншвейгская, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-miratorg-braunshveygskaya-300-g/",
+      "price": "546.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 300712,
+      "name": "Колбаса вареная «Стародворье» Молочная стародворская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-starodvore-molochnaya-500-g/",
+      "price": "271.99",
+      "promo_price": null,
+      "brand": "Стародворье"
+    },
+    {
+      "id": 627787,
+      "name": "Колбаса ливерная «Атяшево» печеночная, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-livernaya-atyashevo-pechenochnaya-250-g/",
+      "price": "51.99",
+      "promo_price": null,
+      "brand": "Атяшево"
+    },
+    {
+      "id": 335048,
+      "name": "Колбаса варено-копченый «Ремит» Сервелат Ореховый, 360 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenyy-remit-servelat-orehovyy-360-g/",
+      "price": "423.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 476446,
+      "name": "Колбаса вареная «Царицыно» Докторская с натуральным молоком (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/doktorskaya_s_naturmolokom_1s/",
+      "price": "437.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 300799,
+      "name": "Колбаса сырокопченая «Иней» Литовская нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa_sk_litovskaya_nar100g/",
+      "price": "193.99",
+      "promo_price": null,
+      "brand": "Иней"
+    },
+    {
+      "id": 794719,
+      "name": "Колбаса полукопченая «Атяшево» Чесночная, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-atyashevo-chesnochnaya-200-g/",
+      "price": "54.99",
+      "promo_price": null,
+      "brand": "Атяшево"
+    },
+    {
+      "id": 476204,
+      "name": "Ветчина «Вязанка» Филейская (0,2-0,5 кг), 1 упаковка ~ 0,45 кг",
+      "link": "https://auchan.ru/product/vetchina_stolichnaya_vyazanka_ves/",
+      "price": "693.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 25023,
+      "name": "Колбаса вареная «Рублевский» Молочная в белковой оболочке, 560 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-rublevskiy-molochnaya-v-belkovoy-obolochke-560-g/",
+      "price": "459.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 881039,
+      "name": "Колбаса «Агросила» Казылык Тантана с паприкой, 170 г",
+      "link": "https://auchan.ru/product/kazylyk-tantana-papr-s-v-170g/",
+      "price": "407.99",
+      "promo_price": null,
+      "brand": "Агросила"
+    },
+    {
+      "id": 43658,
+      "name": "Колбаса «Заповедные» Филино, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-filino-s-k-250-gr/",
+      "price": "380.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 59585,
+      "name": "Колбаса сыровяленая Salumi di Reggiо Строльгино с фенхелем, 110 г",
+      "link": "https://auchan.ru/product/kolb-s-v-strolgino-fenhel110g/",
+      "price": "228.99",
+      "promo_price": null,
+      "brand": "Salumi di Reggiо"
+    },
+    {
+      "id": 76724,
+      "name": "Колбаса вареная «Vego» Кремлевская без глютена, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-var-kremlevskaya-500gr/",
+      "price": "502.99",
+      "promo_price": null,
+      "brand": "Vego"
+    },
+    {
+      "id": 994004,
+      "name": "Колбаса полукопченая «Самирель» Чужук Халяль, 350 г",
+      "link": "https://auchan.ru/product/chuzhuk-iz-koniny-350g-sht/",
+      "price": "631.99",
+      "promo_price": null,
+      "brand": "Самирель"
+    },
+    {
+      "id": 43660,
+      "name": "Колбаса «Заповедные» Бостони, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-bostoni-s-k-250-gr/",
+      "price": "309.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 31453,
+      "name": "Колбаса сырокопченая «Дым Дымыч» Отличная, 250 г",
+      "link": "https://auchan.ru/product/otlichnaya-s-k-tm-dd-250g/",
+      "price": "294.99",
+      "promo_price": null,
+      "brand": "Дым Дымыч"
+    },
+    {
+      "id": 786367,
+      "name": "Колбаса полукопченая Vego Московская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa_pk_moskovskaya400g/",
+      "price": "510.99",
+      "promo_price": null,
+      "brand": "Vego"
+    },
+    {
+      "id": 61773,
+      "name": "Колбаса варено-копченая «Снежана» Сервелат Ореховый, 300 г",
+      "link": "https://auchan.ru/product/servelat-vk-orehovyy-vu-300gr/",
+      "price": "340.99",
+      "promo_price": null,
+      "brand": "Снежана"
+    },
+    {
+      "id": 38575,
+      "name": "Колбаски сырокопченые «Мясо так мясо» Фуэт мини, 90 г",
+      "link": "https://auchan.ru/product/fuet-mini-90g/",
+      "price": "213.99",
+      "promo_price": null,
+      "brand": "Мясо так мясо"
+    },
+    {
+      "id": 786351,
+      "name": "Колбаса вареная Vego Докторская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa_vardoktorskaya500g/",
+      "price": "448.99",
+      "promo_price": null,
+      "brand": "Vego"
+    },
+    {
+      "id": 61783,
+      "name": "Колбаса сырокопченая «Коломенское» Мини салями, 260 г",
+      "link": "https://auchan.ru/product/kolbasa-sk-mini-salyami-260gr/",
+      "price": "375.99",
+      "promo_price": null,
+      "brand": "Коломенское"
+    },
+    {
+      "id": 59583,
+      "name": "Колбаса сыровяленая Salumi di Reggiо Строльгино с трюфелем, 110 г",
+      "link": "https://auchan.ru/product/kolb-s-v-strolgino-tryuf-110g/",
+      "price": "228.99",
+      "promo_price": null,
+      "brand": "Salumi di Reggiо"
+    },
+    {
+      "id": 549794,
+      "name": "Колбаса варено-копченая «Владимирский стандарт» Сервелат Владимирский (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbasa_vk_servelat/",
+      "price": "555.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 961014,
+      "name": "Колбаса вареная «Царицыно» Докторская с натуральным молоком, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-caricyno-doktorskaya-s-naturalnym-molokom-500-g/",
+      "price": "221.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 289141,
+      "name": "Колбаса сырокопченая «Дым Дымычъ» Премьера, 200 г",
+      "link": "https://auchan.ru/product/kolbpremera_sk_vu_200g/",
+      "price": "139.90",
+      "promo_price": null,
+      "brand": "Дым Дымыч"
+    },
+    {
+      "id": 476200,
+      "name": "Колбаса вареная «Вязанка» Докторская ГОСТ (0,3-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbvardoktorskaya__gost/",
+      "price": "698.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 507802,
+      "name": "Колбаса сырокопченая «Каждый день» Салями Туринская нарезка, 150 г",
+      "link": "https://auchan.ru/product/kdsalyam_turin_sk_nar150/",
+      "price": "99.98",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 659378,
+      "name": "Колбаса вареная «Идель» Султанская халяль, 1 кг",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-caricyno-sultanskaya-halyal-1-kg/",
+      "price": "407.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 43573,
+      "name": "Колбаса варено-копченая «Мясной Дом Бородина» Сервелат (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/mdb-servelat-v-k-ves/",
+      "price": "1338.99",
+      "promo_price": null,
+      "brand": "Мясной Дом Бородина"
+    },
+    {
+      "id": 734503,
+      "name": "Колбаса сырокопченая «Микоян» Свиная (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_svinaya/",
+      "price": "1171.99",
+      "promo_price": null,
+      "brand": "Микоян"
+    },
+    {
+      "id": 859004,
+      "name": "Колбаса «Заповедные продукты» Фуэт, 150 г",
+      "link": "https://auchan.ru/product/fuet-s-v-150g/",
+      "price": "285.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 45945,
+      "name": "Колбаса «Агрокомплекс» Кровяная крестьянская, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-krovyanaya-krest-agr350g/",
+      "price": "103.99",
+      "promo_price": null,
+      "brand": "Агрокомплекс"
+    },
+    {
+      "id": 741878,
+      "name": "Колбаса полукопченая «ЭКО» Сельская Халяль, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-eko-selskaya-halyal-350-g/",
+      "price": "110.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 696624,
+      "name": "Колбаса сырокопченая «Ремит» Княжеская трапеза, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-remit-knyazheskaya-trapeza-100-g/",
+      "price": "181.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 897027,
+      "name": "Колбаса «Сафа» Домино Халяль, 580 г",
+      "link": "https://auchan.ru/product/kolb-p-k-domino-halyal-v-k-580g/",
+      "price": "363.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 572744,
+      "name": "Колбаса сырокопченая «Окраина» Салями Богатырь (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolsk_salyami_bogatyrskaya_fib/",
+      "price": "1806.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 754656,
+      "name": "Колбаса «Клинский» Мини салями, 300 г",
+      "link": "https://auchan.ru/product/mini-salyami-s-k-300gr/",
+      "price": "417.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 761825,
+      "name": "Колбаса вареная «Рузком» Султанская халяль, 1 кг",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-ruzkom-sultanskaya-halal-1-kg/",
+      "price": "258.99",
+      "promo_price": null,
+      "brand": "Рузком"
+    },
+    {
+      "id": 978947,
+      "name": "Колбаса сырокопченая «Каждый день» Посольская, 300 г",
+      "link": "https://auchan.ru/product/posolskaya-sk-300g/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 81622,
+      "name": "Колбаса «Рублевский» Молочная в белкозине, 530 г",
+      "link": "https://auchan.ru/product/molochnaya-v-belkozine-530-gr/",
+      "price": "434.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 912728,
+      "name": "Колбаса варено-копченая «Ремит» Сервелат коньячный (0,2-0,7 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_servelat_konyach_vk_vu/",
+      "price": "1150.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 106103,
+      "name": "Колбаски варено-копченые «Микоян» Snexi ароматные, 100 г",
+      "link": "https://auchan.ru/product/kolbaski-varenokopchenye-mikoyan-snexi-aromatnye-100-g/",
+      "price": "163.99",
+      "promo_price": null,
+      "brand": "Snexi"
+    },
+    {
+      "id": 245326,
+      "name": "Колбаса сырокопченая «Царицыно» Брауншвейгский (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/servsk_braunshveygskiy_press/",
+      "price": "1176.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 82904,
+      "name": "Сервелат полукопченый Восточный «Сафа» Халяль, 580 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-safa-servelat-vostochnyy-halyal-580-g/",
+      "price": "475.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 48413,
+      "name": "Колбаса варено-копченая «Черкизово» Сервелат Финский нарезка, 150 г",
+      "link": "https://auchan.ru/product/servelat-finskiy-v-k-nar-150g/",
+      "price": "147.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 69582,
+      "name": "Колбаса варено-копченая «Заповедные» Сервелат Классический, вес",
+      "link": "https://auchan.ru/product/servelat-klassicheskiy-v-k-v-u/",
+      "price": "754.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 558212,
+      "name": "Колбаса «Каждый день» Купеческая нарезка, 150 г",
+      "link": "https://auchan.ru/product/kdkolb_kupecheskaya_nar_150g/",
+      "price": "69.98",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 550657,
+      "name": "Колбаса Старорусская сырокопченая «Царицыно», нарезка, 150 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-caricyno-starorusskaya-narezka-150-g/",
+      "price": "171.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 284966,
+      "name": "Колбаса вареная «Самирель» Докторская Халяль, 450 г",
+      "link": "https://auchan.ru/product/kolbvardoktorskhalyal_450g/",
+      "price": "284.99",
+      "promo_price": null,
+      "brand": "Самирель"
+    },
+    {
+      "id": 885798,
+      "name": "Колбаса полукопченая «Мираторг» Краковская, 430 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-miratorg-krakovskaya-430-g/",
+      "price": "468.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 735634,
+      "name": "Ветчина «Мираторг» для завтрака, 400 г",
+      "link": "https://auchan.ru/product/vetchina-miratorg-dlya-zavtraka-400-g/",
+      "price": "317.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 725057,
+      "name": "Колбаса вареная «Вязанка» Филейская, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-vyazanka-klassicheskaya-500-g/",
+      "price": "294.49",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 725840,
+      "name": "Колбаса вареная «Рублевский» Телячья, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-rublevskiy-telyachya-400-g/",
+      "price": "422.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 880276,
+      "name": "Колбаса вареная «Балтия» Испанская с оливками (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolb_var_ispanskaya_s_olivkami/",
+      "price": "661.99",
+      "promo_price": null,
+      "brand": "Балтия"
+    },
+    {
+      "id": 298836,
+      "name": "Колбаса сырокопченая «Ремит» Фиеста (0,3-0,5 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_fiesta_remit/",
+      "price": "1367.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 701871,
+      "name": "Ветчина «Окраина» для тостов (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/vetchina_dlya_tostov__pgn_ods/",
+      "price": "740.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 724677,
+      "name": "Колбаса полукопченая Горская «ЭКО» Халяль минибатон, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-ekol-gorskaya-halyal-minibaton-350-g/",
+      "price": "187.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 75411,
+      "name": "Колбаса вареная «Окраина» Кроха, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-kroha-300g/",
+      "price": "237.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 949729,
+      "name": "Колбаса варено-копченая «Владимирский стандарт» Сервелат зернистый (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/servelat-zernistyy-v-k-401/",
+      "price": "62.90",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 952427,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Чоризо (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-chorizo-v-u/",
+      "price": "210.60",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 83119,
+      "name": "Колбаса «Рублевский» сырокопченая Парадная, 270 г",
+      "link": "https://auchan.ru/product/kolbasa-paradnaya-s-k-270gr/",
+      "price": "459.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 20430,
+      "name": "Колбаса варено-копченая «Мираторг» Балыковая, 375 г",
+      "link": "https://auchan.ru/product/kolbasa-balykovaya-v-k-v-u-375g/",
+      "price": "325.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 298713,
+      "name": "Колбаса вареная «ЭКОЛЬ» Халяль, 750 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-ekol-halyal-750-g/",
+      "price": "558.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 983585,
+      "name": "Колбаса варено-копченая «Мираторг» Сервелат Кремлевский, 375 г",
+      "link": "https://auchan.ru/product/servelat-kreml-miratorg-375g/",
+      "price": "412.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 627836,
+      "name": "Колбаса «Каждый День» Фризанте сырокопченая, 300 г",
+      "link": "https://auchan.ru/product/kdborodinskaya_sk_vu_sht_300g/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 885799,
+      "name": "Колбаса варено-копченая «Мираторг» Московская, 375 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-miratorg-moskovskaya-375-g/",
+      "price": "526.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 323260,
+      "name": "Колбаса вареная «Каждый день» Классическая с телятиной охлажденная, 400 г",
+      "link": "https://auchan.ru/product/kdkolbklass_telyat_vu_400_g/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 794648,
+      "name": "Колбаса полукопченая «Идель» Особая с зирой, 400 г",
+      "link": "https://auchan.ru/product/kolb_osob_s_ziroy_400g_pk_car/",
+      "price": "172.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 316280,
+      "name": "Колбаса сырокопченая «Царицыно» Брауншвейгская (0,4-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_braun_ves/",
+      "price": "1070.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 298715,
+      "name": "Колбаса полукопченая «ЭКОЛЬ» Говяжья Халяль, 600 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-ekol-govyazhya-halyal-600-g/",
+      "price": "384.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 53574,
+      "name": "Ветчина «Владимирский стандарт» Мясо-сочная, 400 г",
+      "link": "https://auchan.ru/product/vetchina-myasosochnaya-400-g/",
+      "price": "248.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 794844,
+      "name": "Сервелат варено-копченый «Стародворье» Кремлевский, 350 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-starodvore-kremlevskiy-350-g/",
+      "price": "231.99",
+      "promo_price": null,
+      "brand": "Стародворье"
+    },
+    {
+      "id": 244122,
+      "name": "Колбаса полукопченая «Владимирский стандарт» Салями Домашняя, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-vladimirskiy-standart-salyami-domashnyaya-350-g/",
+      "price": "180.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 471579,
+      "name": "Колбаса вареная «Великолукский мясокомбинат» Докторская ГОСТ, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-velikolukskiy-myasokombinat-doktorskaya-gost-500-g-1/",
+      "price": "275.99",
+      "promo_price": null,
+      "brand": "Великолукский мясокомбинат"
+    },
+    {
+      "id": 871634,
+      "name": "Колбаса вареная «Владимирский стандарт» Любительская, 500 г",
+      "link": "https://auchan.ru/product/kolb-lyubitelskaya-vs-c-f-500g/",
+      "price": "249.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 725832,
+      "name": "Колбаса вареная «Рублевский» Русская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-rublevskiy-russkaya-400-g/",
+      "price": "378.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 741603,
+      "name": "Колбаса варено-копченая «Снежана» сервелат Швейцарский, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-snezhana-servelat-shveycarskiy-300-g/",
+      "price": "236.99",
+      "promo_price": null,
+      "brand": "Снежана"
+    },
+    {
+      "id": 53586,
+      "name": "Колбаса вареная «Владимирский стандарт» Мясо-сочная, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-var-myasosochnaya-400-g/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 104389,
+      "name": "Колбаса вареная Delikaiser Чайная ГОСТ, 400 г",
+      "link": "https://auchan.ru/product/kolb-chaynaya-gost-0-4-kg/",
+      "price": "193.99",
+      "promo_price": null,
+      "brand": "Delikaiser"
+    },
+    {
+      "id": 87214,
+      "name": "Набор нарезка «РЕМИТ» Ассорти с салями и прошутто, 100 г",
+      "link": "https://auchan.ru/product/nar-salyami-proshutto-100g/",
+      "price": "254.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 380258,
+      "name": "Колбаса варено-копченая «Егорьевская КГФ» Московская (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbvk_moskovskaya_vs/",
+      "price": "997.99",
+      "promo_price": null,
+      "brand": "Егорьевская КГФ"
+    },
+    {
+      "id": 735641,
+      "name": "Колбаса сырокопченая «Мираторг» Сервелат, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-syrokopchenaya-miratorg-servelat-300-g/",
+      "price": "547.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 938211,
+      "name": "Колбаса вареная «Дым Дымычъ» со сливками (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_varso_slivkamitmdd/",
+      "price": "434.99",
+      "promo_price": null,
+      "brand": "Дым Дымыч"
+    },
+    {
+      "id": 139289,
+      "name": "Ветчина варено-копченая «Царицыно» Тверская, 200 г",
+      "link": "https://auchan.ru/product/vetchina-vareno-kopchenaya-caricyno-tverskaya-200-g/",
+      "price": "235.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 999677,
+      "name": "Колбаса вареная «Каждый день» Купеческая охлажденная, 500 г",
+      "link": "https://auchan.ru/product/kdkupecheskaya_vu500g/",
+      "price": "189.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 984895,
+      "name": "Колбаса сырокопченая Cortador Чоризо полусухая нарезка, 80 г",
+      "link": "https://auchan.ru/product/kolb-polusuhaya-s-k-chorizo-80g/",
+      "price": "188.99",
+      "promo_price": null,
+      "brand": "Cortador"
+    },
+    {
+      "id": 781278,
+      "name": "Колбаса варено-копченая «Микоян» Тоскана, 350 г",
+      "link": "https://auchan.ru/product/servelat_toskana_vk_350g/",
+      "price": "297.99",
+      "promo_price": null,
+      "brand": "Микоян"
+    },
+    {
+      "id": 59581,
+      "name": "Колбаса сыровяленая полусухая Salumi di Reggiо Строльгино, 110 г",
+      "link": "https://auchan.ru/product/kolb-s-v-p-suh-strolgino-110g/",
+      "price": "228.99",
+      "promo_price": null,
+      "brand": "Salumi di Reggiо"
+    },
+    {
+      "id": 69566,
+      "name": "Колбаса сырокопченая «ДЫМОВ» Сервелат, 230 г",
+      "link": "https://auchan.ru/product/kolb-s-k-servelat-dymov-230gr/",
+      "price": "349.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 43653,
+      "name": "Колбаса «Заповедные» Праздничная, 250 г",
+      "link": "https://auchan.ru/product/kolbasa-prazdnichnaya-s-k-250-gr/",
+      "price": "317.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 786346,
+      "name": "Колбаса вареная Vego Нежирная, 500 г",
+      "link": "https://auchan.ru/product/kolbasa_varenaya_nezhirnaya500g/",
+      "price": "419.99",
+      "promo_price": null,
+      "brand": "Vego"
+    },
+    {
+      "id": 69576,
+      "name": "Колбаса «ДЫМОВ» Салями сырокопченая Наполи, 90 г",
+      "link": "https://auchan.ru/product/kolb-s-k-salyami-napoli-90gr/",
+      "price": "162.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 74006,
+      "name": "Ветчина «Дюжий двор» Нежная, 400 г",
+      "link": "https://auchan.ru/product/vetchina-nezhnaya-0-4-kg/",
+      "price": "141.99",
+      "promo_price": null,
+      "brand": "Дюжий двор"
+    },
+    {
+      "id": 786357,
+      "name": "Колбаса полукопченая Vego Салями, 400 г",
+      "link": "https://auchan.ru/product/kolbasa_pk_salyami400g/",
+      "price": "510.99",
+      "promo_price": null,
+      "brand": "Vego"
+    },
+    {
+      "id": 786359,
+      "name": "Колбаса полукопченая Vego Сервелат, 400 г",
+      "link": "https://auchan.ru/product/kolbasa_pk_servelat400g/",
+      "price": "510.99",
+      "promo_price": null,
+      "brand": "Vego"
+    },
+    {
+      "id": 838239,
+      "name": "Сервелат варено-копченый «Великолукский мясокомбинат» Зернистый, 400 г",
+      "link": "https://auchan.ru/product/servelat-zernistyy-400g-v-u/",
+      "price": "262.99",
+      "promo_price": null,
+      "brand": "Великолукский мясокомбинат"
+    },
+    {
+      "id": 300661,
+      "name": "Салями Венская «Дымов» полукопченая, 330 г",
+      "link": "https://auchan.ru/product/salyami-venskaya-dymov-polukopchenaya-330-g/",
+      "price": "295.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 724480,
+      "name": "Колбаса полукопченая «ЭКОЛЬ» Говяжья Халяль минибатон, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-ekol-govyazhya-halyal-minibaton-350-g/",
+      "price": "212.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 83122,
+      "name": "Колбаса «Рублевский» сырокопченая Боровицкая, 270 г",
+      "link": "https://auchan.ru/product/kolbasa-borovickaya-s-k-270-gr/",
+      "price": "480.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 73864,
+      "name": "Колбаса сырокопченая «Мясницкий ряд» Старорусская трапеза, 200 г",
+      "link": "https://auchan.ru/product/kolbasa-starorusskaya-s-k-200g/",
+      "price": "351.99",
+      "promo_price": null,
+      "brand": "Мясницкий ряд"
+    },
+    {
+      "id": 60978,
+      "name": "Чипсы сыровяленые «Мясной продукт» из свинины, 50 г",
+      "link": "https://auchan.ru/product/chipsy-iz-svininy-mp-50g/",
+      "price": "163.99",
+      "promo_price": null,
+      "brand": "Мясной продукт"
+    },
+    {
+      "id": 10196,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Салями Нежная нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolb-salyami-nezhnaya-s-k-nar-100/",
+      "price": "206.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 60985,
+      "name": "Чипсы сыровяленые «Мясной продукт» из мраморной говядины, 50 г",
+      "link": "https://auchan.ru/product/chipsy-iz-mramornoy-govyad-mp50g/",
+      "price": "241.99",
+      "promo_price": null,
+      "brand": "Мясной продукт"
+    },
+    {
+      "id": 725806,
+      "name": "Колбаса вареная «Рублевский» Любительская, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-rublevskiy-lyubitelskaya-400-g/",
+      "price": "373.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 71752,
+      "name": "Колбаса «ДЫМОВ» вареная Докторская, 400 г",
+      "link": "https://auchan.ru/product/kolb-dokt-dobrusha-gost-b-s-400/",
+      "price": "374.99",
+      "promo_price": null,
+      "brand": "ДЫМОВ"
+    },
+    {
+      "id": 167278,
+      "name": "Колбаса сыровяленая «Заповедные продукты» Салями Валенсия (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/salyami_sv_valensiya/",
+      "price": "1152.99",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 794862,
+      "name": "Колбаса полукопченая «Великолукский мясокомбинат» По-Краковски категории В, 300 г",
+      "link": "https://auchan.ru/product/kolbasa_pk_po_krakovs_300g/",
+      "price": "214.99",
+      "promo_price": null,
+      "brand": "Великолукский мясокомбинат"
+    },
+    {
+      "id": 117558,
+      "name": "Колбаса вареная «Клинский» Молочная (0,2-0,4 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbasa_molochnaya_klin_pa_ves/",
+      "price": "790.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 83136,
+      "name": "Колбаса «Царицыно» Сервелат Российский особый, 400 г",
+      "link": "https://auchan.ru/product/kolb-serv-rossiyskiy-400gr/",
+      "price": "290.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 84936,
+      "name": "Колбаса варено-копченая «Рузком» Мусульманская, 600 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-ruzkom-musulmanskaya-600-g/",
+      "price": "219.99",
+      "promo_price": null,
+      "brand": "Рузком"
+    },
+    {
+      "id": 859019,
+      "name": "Колбаса «Заповедные продукты» Сальчичон (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/salchichon-sk/",
+      "price": "100.00",
+      "promo_price": null,
+      "brand": "Заповедные"
+    },
+    {
+      "id": 972176,
+      "name": "Колбаса вареная «Сафа» Молочная Халяль полиамидная оболочка, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-safa-molochnaya-halyal-poliamidnaya-obolochka-500-g/",
+      "price": "280.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 517915,
+      "name": "Колбаса сырокопченая «БахрушинЪ» Монреаль салями нарезка, 100 г",
+      "link": "https://auchan.ru/product/kolbasa-s-k-monreal-100g-nar/",
+      "price": "202.99",
+      "promo_price": null,
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 10478,
+      "name": "Колбаса сырокопченая «РЕМИТ» Боярская Трапеза в специях (0,2-0,5 кг), 1 упаковка ~ 0,35 кг",
+      "link": "https://auchan.ru/product/kolb-s-k-boyarskaya-trapeza-ves/",
+      "price": "175.60",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 10477,
+      "name": "Колбаса сырокопченая «РЕМИТ» Салями в сыре (0,2-0,5 кг), 1 упаковка ~ 0,35 кг",
+      "link": "https://auchan.ru/product/kolb-s-k-salyami-v-syre-ves/",
+      "price": "176.20",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 963532,
+      "name": "Колбаса вареная «Рублевский» Докторская (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolbdoktorsksinvs_krkus/",
+      "price": "1046.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 476202,
+      "name": "Колбаса вареная «Вязанка» Филейская (0,3-0,7 кг), 1 упаковка ~ 0,45 кг",
+      "link": "https://auchan.ru/product/kolbvarvyazanka_klassicheskaya/",
+      "price": "589.49",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 950314,
+      "name": "Колбаса варено-копченая «Окраина» Кремлевская (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/kolbasa_vk__kremlevskaya_fibr/",
+      "price": "808.99",
+      "promo_price": null,
+      "brand": "Окраина"
+    },
+    {
+      "id": 219959,
+      "name": "Колбаски сырокопченые «Ремит» Kabanos Chili, 70 г",
+      "link": "https://auchan.ru/product/kolbaski-syrokopchennye-remit-kabanos-chili-70-g/",
+      "price": "109.49",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 462122,
+      "name": "Ветчина «Каждый день» из индейки, 400 г",
+      "link": "https://auchan.ru/product/kdvetchina_iz_indeyki_400g/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 994542,
+      "name": "Колбаса «Клинский» Докторская вареная, 450 г",
+      "link": "https://auchan.ru/product/kolbasa-doktorskaya-450g-1/",
+      "price": "421.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 69219,
+      "name": "Колбаса «КампоМос» Докторская Экстра, вес",
+      "link": "https://auchan.ru/product/kolb-var-doktorskaya-ekstra-ves-2/",
+      "price": "333.99",
+      "promo_price": null,
+      "brand": "КампоМос"
+    },
+    {
+      "id": 858966,
+      "name": "Колбаса «Клинский» Испанская, 85 г",
+      "link": "https://auchan.ru/product/kolb-ispanskaya-s-k-85g-nar/",
+      "price": "153.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 87205,
+      "name": "Набор нарезка «РЕМИТ» Ассорти с прошутто и бургундская, 100 г",
+      "link": "https://auchan.ru/product/nar-proshutto-burgundskaya-100g/",
+      "price": "254.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 989867,
+      "name": "Колбаса полукопченая «РЕМИТ» Краковская ГОСТ, 350 г",
+      "link": "https://auchan.ru/product/kolb-p-k-krakovskaya-gost-350g/",
+      "price": "410.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 5621,
+      "name": "Колбаса Cortador Мортаделла вареная, 170 г",
+      "link": "https://auchan.ru/product/kolbasa-var-mortadella-170g/",
+      "price": "349.99",
+      "promo_price": null,
+      "brand": "Cortador"
+    },
+    {
+      "id": 166929,
+      "name": "Колбаса вареная «Рублевский» Языковая (0,2-0,3 кг) , 1 упаковка  ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolbvaryazykovaya_v_sinyuge_vu/",
+      "price": "1152.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 265774,
+      "name": "Колбаса «Сафа» Говяжья Халяль вареная, 500 г",
+      "link": "https://auchan.ru/product/kolb-govyazhya-var-halyal-500g/",
+      "price": "248.99",
+      "promo_price": null,
+      "brand": "САФА"
+    },
+    {
+      "id": 859161,
+      "name": "Колбаса «Востряково» Домашняя ливерная, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-livernaya-400g/",
+      "price": "93.99",
+      "promo_price": null,
+      "brand": "Востряково"
+    },
+    {
+      "id": 936139,
+      "name": "Ветчина «Вязанка» Запекуша c cочным окороком, 420 г",
+      "link": "https://auchan.ru/product/vetchina-zapekusha-420g/",
+      "price": "407.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 858807,
+      "name": "Колбаса вареная «Вязанка» с индейкой, 450 г",
+      "link": "https://auchan.ru/product/kolb-s-indeykoy-vyazanka-0-45kg/",
+      "price": "366.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 37500,
+      "name": "Колбаса сырокопченая «Царицыно» Дижонская с горчицей, 220 г",
+      "link": "https://auchan.ru/product/kolb-dizhonskaya-s-gorch-220gr/",
+      "price": "314.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 548216,
+      "name": "Колбаса вареная «Владимирский стандарт» Докторская 1 сорт, 500 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-vladimirskiy-standart-doktorskaya-1-sort-500-g/",
+      "price": "218.99",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    },
+    {
+      "id": 245325,
+      "name": "Колбаса вареная «Царицыно» Молочная ГОСТ (0,3-0,5 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbasa_varmolochnaya_gost_pa/",
+      "price": "529.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 725694,
+      "name": "Ветчина  «Вязанка» с индейкой (0,2-0,5 кг), 1 упаковка ~ 0,3 кг",
+      "link": "https://auchan.ru/product/vetchina_vyazanka_s_indeykoy_ves/",
+      "price": "74.60",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 59367,
+      "name": "Колбаса сырокопченая «РЕМИТ» нарезка Миланская, 70 г",
+      "link": "https://auchan.ru/product/nar-s-k-salyami-milanskaya-70g/",
+      "price": "145.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 636175,
+      "name": "Колбаса полукопченая «Бахрушинъ» Домашняя жареная, 430 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-bahrushin-domashnyaya-zharenaya-430-g/",
+      "price": "378.99",
+      "promo_price": null,
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 756614,
+      "name": "Колбаса полукопченая «ЭКО» Дорожная Халяль, 300 г",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-eko-dorozhnaya-halyal-300-g/",
+      "price": "145.99",
+      "promo_price": null,
+      "brand": "ЭКО"
+    },
+    {
+      "id": 742934,
+      "name": "Ветчина с индейкой «Империя Вкуса», 800 г",
+      "link": "https://auchan.ru/product/vetchina-s-indeykoy-imperiya-vkusa-800-g/",
+      "price": "421.99",
+      "promo_price": null,
+      "brand": "Империя Вкуса"
+    },
+    {
+      "id": 935140,
+      "name": "Колбаса сырокопченая SCHNELLER Тирольская, вес",
+      "link": "https://auchan.ru/product/kolbasa-tirolskaya-s-k-kg/",
+      "price": "93.50",
+      "promo_price": null,
+      "brand": "SCHNELLER"
+    },
+    {
+      "id": 546944,
+      "name": "Колбаса «Каждый день» Сытная, 400 г",
+      "link": "https://auchan.ru/product/kdkolbasa_sytnaya_400_gr/",
+      "price": "42.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 119318,
+      "name": "Колбаса сырокопченая «Рублевский» Еврейская полусухая (0,4-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_sk_evreyskaya_gost/",
+      "price": "2287.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 341051,
+      "name": "Колбаса сырокопченая «Ремит» Княжеская Трапеза (0,3-0,6 кг), 1 упаковка ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolb_sk_knyazheskaya_trapeza/",
+      "price": "1457.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 983586,
+      "name": "Колбаса варено-копченая «Мираторг» Сервелат Финский нарезка, 100 г",
+      "link": "https://auchan.ru/product/servelat-finskiy-miratorg-100g/",
+      "price": "103.99",
+      "promo_price": null,
+      "brand": "Мираторг"
+    },
+    {
+      "id": 776292,
+      "name": "Колбаса варено-копченая «Великолукский мясокомбинат» Сервелат финский, 400 г",
+      "link": "https://auchan.ru/product/servelat_finskiy_400g_ohl/",
+      "price": "245.99",
+      "promo_price": null,
+      "brand": "Великолукский мясокомбинат"
+    },
+    {
+      "id": 859038,
+      "name": "Колбаса варено-копченая «Челны-бройлер» Сервелат Венский, 300 г",
+      "link": "https://auchan.ru/product/servelat-venskiy-300-g/",
+      "price": "332.99",
+      "promo_price": null,
+      "brand": "Челны-Бройлер"
+    },
+    {
+      "id": 767567,
+      "name": "Ветчина со свиным окороком «Империя Вкуса», 400 г",
+      "link": "https://auchan.ru/product/vetchina-so-svinym-okorokom-imperiya-vkusa-400-g/",
+      "price": "213.99",
+      "promo_price": null,
+      "brand": "Империя Вкуса"
+    },
+    {
+      "id": 1698,
+      "name": "Колбаса сырокопченая Cante Grande Fuet, 180 г",
+      "link": "https://auchan.ru/product/kolbasa-s-v-fuet-180g/",
+      "price": "345.99",
+      "promo_price": null,
+      "brand": "Cante Grande"
+    },
+    {
+      "id": 767593,
+      "name": "Ветчина из окорока «Каждый день», 400 г",
+      "link": "https://auchan.ru/product/kdvetchina_iz_okoroka_400_g/",
+      "price": "99.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 659404,
+      "name": "Колбаса полукопченая «Идель» Кавказская Особая, вес",
+      "link": "https://auchan.ru/product/kolbasa-polukopchenaya-caricyno-kavkazskaya-osobaya-440-g/",
+      "price": "570.99",
+      "promo_price": null,
+      "brand": "Идель"
+    },
+    {
+      "id": 328949,
+      "name": "Колбаса сыровяленая «Охотный Ряд» Швейцарская (0,3-0,6 кг) , 1 упаковка  ~ 0,4 кг",
+      "link": "https://auchan.ru/product/kolbshveycarskaya_svyal/",
+      "price": "1700.99",
+      "promo_price": null,
+      "brand": "Охотный Ряд"
+    },
+    {
+      "id": 41740,
+      "name": "Колбаса сыровяленая «Царицыно» Фуэт (0,4-0,7 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbfuet_sv_vs_no_caricyno/",
+      "price": "2035.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 797744,
+      "name": "Колбаса полукопченая «Царицыно» Особая, 400 г",
+      "link": "https://auchan.ru/product/kolb_pk_osobaya_s_adzhikoy_400g/",
+      "price": "217.99",
+      "promo_price": null,
+      "brand": "Царицыно"
+    },
+    {
+      "id": 859319,
+      "name": "Колбаса вареная «Клинский» Сливочная, 400 г",
+      "link": "https://auchan.ru/product/kolb-slivochnaya-p-a-400g/",
+      "price": "272.99",
+      "promo_price": null,
+      "brand": "Клинский"
+    },
+    {
+      "id": 908374,
+      "name": "Колбаса варено-копченая «Рублевский» Сервелат Гурман, 400 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-rublevskiy-servelat-gurman-400-g/",
+      "price": "632.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 48891,
+      "name": "Ветчина «Черкизово» Premium нежная из индейки, 150 г",
+      "link": "https://auchan.ru/product/vetchina-nezhnaya-iz-ind-nar-150g/",
+      "price": "172.99",
+      "promo_price": null,
+      "brand": "Черкизово"
+    },
+    {
+      "id": 912683,
+      "name": "Колбаса варено-копченая «Каждый день» Балыковая, 500 г",
+      "link": "https://auchan.ru/product/kdkolb_balykovaya_vk_500g/",
+      "price": "299.98",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 984921,
+      "name": "Колбаса сырокопченая «БахрушинЪ» Флоренция (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa-s-k-florenciya/",
+      "price": "1969.99",
+      "promo_price": null,
+      "brand": "Бахрушинъ"
+    },
+    {
+      "id": 479574,
+      "name": "Колбаса вареная «Ремит» Докторская, нарезка, 150 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-remit-doktorskaya-narezka-150-g/",
+      "price": "155.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 835854,
+      "name": "Колбаса сырокопченая «Рублевский» Пера нежная по-Французски (0,3-0,7 кг), 1 упаковка ~ 0,5 кг",
+      "link": "https://auchan.ru/product/pera_nezhnaya_po_fran_psuh/",
+      "price": "2345.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 794828,
+      "name": "Колбаса варено-копченая «Вязанка» Салями Финская, 350 г",
+      "link": "https://auchan.ru/product/kolbasa-vareno-kopchenaya-vyazanka-salyami-finskaya-350-g/",
+      "price": "309.99",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 221490,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» Алтайская в обсыпке (0,4-0,6 кг) , 1 упаковка  ~ 0,5 кг",
+      "link": "https://auchan.ru/product/kolbasa_altayskaya_sk_v_obs/",
+      "price": "1541.99",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 185038,
+      "name": "Колбаса сырокопченая «Малаховский мясокомбинат» свиная, вес",
+      "link": "https://auchan.ru/product/kolbasa_sk_svinaya_gost/",
+      "price": "165.40",
+      "promo_price": null,
+      "brand": "Малаховский мясокомбинат"
+    },
+    {
+      "id": 924216,
+      "name": "Колбаса «Каждый День» Сервелатная варено-копченая, 300 г",
+      "link": "https://auchan.ru/product/kd-servelatnaya-v-k-300g/",
+      "price": "79.99",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 725054,
+      "name": "Колбаса вареная «Вязанка» Молокуша, 450 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-vyazanka-molochnaya-500-g/",
+      "price": "294.49",
+      "promo_price": null,
+      "brand": "Вязанка"
+    },
+    {
+      "id": 893322,
+      "name": "Колбаса сыровяленая «Рублевский» Браво Маэстро, 150 г",
+      "link": "https://auchan.ru/product/kolbasa-syrovyalenaya-rublevskiy-bravo-maestro-150-g/",
+      "price": "386.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 48372,
+      "name": "Карпаччо из индейки Cortador нарезка, 80 г",
+      "link": "https://auchan.ru/product/karpachcho-iz-indeyki-s-k-80g/",
+      "price": "192.99",
+      "promo_price": null,
+      "brand": "Cortador"
+    },
+    {
+      "id": 908372,
+      "name": "Сервелат варено-копченый «Рублевский» Финский, 350 г",
+      "link": "https://auchan.ru/product/servelat-vareno-kopchenyy-rublevskiy-finskiy-350g/",
+      "price": "435.99",
+      "promo_price": null,
+      "brand": "Рублевский"
+    },
+    {
+      "id": 479576,
+      "name": "Колбаса вареная «Ремит» Телячья ГОСТ нарезка, 150 г",
+      "link": "https://auchan.ru/product/kolbasa-varenaya-remit-telyachya-gost-narezka-150-g/",
+      "price": "176.99",
+      "promo_price": null,
+      "brand": "РЕМИТ"
+    },
+    {
+      "id": 619253,
+      "name": "Салями «Каждый День» Финская, 150 г",
+      "link": "https://auchan.ru/product/kdsalyami_finskaya_pk_150gr/",
+      "price": "89.98",
+      "promo_price": null,
+      "brand": "Каждый день"
+    },
+    {
+      "id": 926004,
+      "name": "Колбаса «Владимирский стандарт» Молочная (0,2-0,4 кг), 1 упаковка ~ 0,25 кг",
+      "link": "https://auchan.ru/product/kolb-molochnaya-c-f-ves/",
+      "price": "49.10",
+      "promo_price": null,
+      "brand": "Владимирский стандарт"
+    }
+  ]
+}

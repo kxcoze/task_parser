@@ -1,0 +1,2943 @@
+{
+  "subcategory": "Сыры твердые и полутвердые",
+  "count": 367,
+  "region": "Москва и область",
+  "products": [
+    {
+      "id": 333922,
+      "name": "Сыр полутвердый Bonfesto Mozzarella Pizza 40% БЗМЖ, 250 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-bonfesto-mozzarella-pizza-40-250-g/",
+      "price": "278.99",
+      "promo_price": null,
+      "brand": "Bonfesto"
+    },
+    {
+      "id": 949178,
+      "name": "Сыр полутвердый Гауда «Милково» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-gauda-45-200g/",
+      "price": "162.99",
+      "promo_price": null,
+      "brand": "«Милково»"
+    },
+    {
+      "id": 969356,
+      "name": "Сыр полутвердый Российский «Милково» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-milkovo-rossiysk-50-200g/",
+      "price": "162.99",
+      "promo_price": null,
+      "brand": "«Милково»"
+    },
+    {
+      "id": 332548,
+      "name": "Сыр полутвердый «Сыры Кубани» Эмментальский молодой 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_emmentalskiy_mol45_1_kg/",
+      "price": "134.50",
+      "promo_price": "50.00",
+      "brand": "Сыры Кубани"
+    },
+    {
+      "id": 32114,
+      "name": "Сыр Cezare Графф Чезаре с ароматом топленого молока 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-cezare-graf-50-ves/",
+      "price": "83.40",
+      "promo_price": "38.00",
+      "brand": "Cezare"
+    },
+    {
+      "id": 101865,
+      "name": "Сыр твердый «Карлов Двор» граф 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_graf_denuar_45/",
+      "price": "128.10",
+      "promo_price": "63.00",
+      "brand": "Карлов двор"
+    },
+    {
+      "id": 883928,
+      "name": "Сыр твердый Castello Reggianido Пармезан выдержка 6 месяцев 33% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-castello-reggianido-parmezan-33-150-g/",
+      "price": "405.99",
+      "promo_price": "219.95",
+      "brand": "Castello"
+    },
+    {
+      "id": 784821,
+      "name": "Сыр твердый Palermo 6 месяцев 40% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_palermo_40_6mesfasov/",
+      "price": "160.00",
+      "promo_price": "99.90",
+      "brand": "Palermo"
+    },
+    {
+      "id": 46323,
+      "name": "Сыр полутвердый «Белебеевский» Йогуртовый Легкий 35% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr-yogur-legk-35-belebe-190g/",
+      "price": "236.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 404962,
+      "name": "Сыр полутвердый «Вкуснотеево» Тильзитер Премиум 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-vkusnoteevo-tilziter-premium-45-200-g/",
+      "price": "236.49",
+      "promo_price": "149.90",
+      "brand": "Вкуснотеево"
+    },
+    {
+      "id": 71953,
+      "name": "Сыр полутвердый «Азбука сыра» Костромской 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_kostromskoy_45_as_bzmzh/",
+      "price": "99.40",
+      "promo_price": "64.90",
+      "brand": "Азбука сыра"
+    },
+    {
+      "id": 790770,
+      "name": "Сыр полутвердый «Белебеевский» 45% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr_belebeevskiy_45_190g/",
+      "price": "228.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 790761,
+      "name": "Сыр полутвердый «Белебеевский» Башкирский медовый 50% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr_bashkirskiy_medovyy_50190g/",
+      "price": "228.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 790763,
+      "name": "Сыр полутвердый «Белебеевский» Гауда 45% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr_gauda_45_belebey_190g/",
+      "price": "228.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 790766,
+      "name": "Сыр полутвердый «Белебеевский» Голландский 45% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr_gollandskiy_45belebey190g/",
+      "price": "228.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 790764,
+      "name": "Сыр полутвердый «Белебеевский» Купеческий 52% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr_kupecheskiy_52belebey190g/",
+      "price": "228.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 790765,
+      "name": "Сыр полутвердый «Белебеевский» Российский 50% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr_rossiysk50belebey_190g/",
+      "price": "228.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 833767,
+      "name": "Сыр полутвердый Белебеевский Благородный дуэт 50% БЗМЖ, 190 г",
+      "link": "https://auchan.ru/product/syr-blagorodn-duet-belebey190g/",
+      "price": "228.99",
+      "promo_price": "149.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 833781,
+      "name": "Сыр полутвердый «Король сыров» классический 45% БЗМЖ, 375 г",
+      "link": "https://auchan.ru/product/syr-korol-syrov-klass-45-375g/",
+      "price": "414.99",
+      "promo_price": "279.00",
+      "brand": "Король сыров"
+    },
+    {
+      "id": 833784,
+      "name": "Сыр полутвердый «Король сыров» с ароматом топленого молока 40% БЗМЖ, 375 г",
+      "link": "https://auchan.ru/product/syr-korol-syrov-topl-mol-375g/",
+      "price": "414.99",
+      "promo_price": "279.00",
+      "brand": "Король сыров"
+    },
+    {
+      "id": 584364,
+      "name": "Сыр полутвердый «Сыры Кубани» Российский молодой 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syry-kubani-rossiyskiy-molodoy-50-200-g/",
+      "price": "222.99",
+      "promo_price": "149.95",
+      "brand": "Сыры Кубани"
+    },
+    {
+      "id": 18867,
+      "name": "Сыр полутвердый Маасдам Viola 45% БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-valio-polutverdyy-maasdam-45-120-g/",
+      "price": "193.99",
+      "promo_price": "129.90",
+      "brand": "Viola"
+    },
+    {
+      "id": 90144,
+      "name": "Сыр полутвердый Эмменталь Laplandia 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-emment-45-180g-laplandia/",
+      "price": "296.99",
+      "promo_price": "199.90",
+      "brand": "Laplandia"
+    },
+    {
+      "id": 746112,
+      "name": "Сыр полутвердый «Ларец» Классический 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_larec_klassicheskiy_50_shar/",
+      "price": "118.30",
+      "promo_price": "79.90",
+      "brand": "Ларец"
+    },
+    {
+      "id": 67584,
+      "name": "Сыр полутвердый «Эконива» Momente aus Schollbrunn 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-sholbrun-50-200g-ekoniva/",
+      "price": "205.99",
+      "promo_price": "139.90",
+      "brand": "Эконива"
+    },
+    {
+      "id": 750775,
+      "name": "Сыр полутвердый сливочный тертый Laplandia 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-oltermanni-valio-slivochnyy-tertyy-45-150-g/",
+      "price": "190.99",
+      "promo_price": "129.90",
+      "brand": "Laplandia"
+    },
+    {
+      "id": 970859,
+      "name": "Сыр твердый «Ламбер» 50% 1/2 шара БЗМЖ, 500 г",
+      "link": "https://auchan.ru/product/syr-lamber-50-1-2-shara-ves/",
+      "price": "132.50",
+      "promo_price": "89.90",
+      "brand": "Ламбер"
+    },
+    {
+      "id": 136879,
+      "name": "Сыр твердый «Ламбер» 50% БЗМЖ, 1 шар",
+      "link": "https://auchan.ru/product/cyr_lamber_50_vesovoy/",
+      "price": "1324.99",
+      "promo_price": "899.00",
+      "brand": "Ламбер"
+    },
+    {
+      "id": 927594,
+      "name": "Сыр полутвердый Natura Сливочный Легкий нарезка 16% БЗМЖ, 300 г",
+      "link": "https://auchan.ru/product/syr-natura-legkiy-30-nar-300g/",
+      "price": "430.99",
+      "promo_price": "299.00",
+      "brand": "Natura"
+    },
+    {
+      "id": 373436,
+      "name": "Сыр полутвердый «Сыробогатов» с ароматом топленого молока 40% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_korol_syrov_40_syrobogat/",
+      "price": "98.90",
+      "promo_price": "67.90",
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 247276,
+      "name": "Сыр полутвердый Голландский Viola 45% БЗМЖ, 220 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-valio-gollandskiy-45-220-g/",
+      "price": "274.99",
+      "promo_price": "189.90",
+      "brand": "Viola"
+    },
+    {
+      "id": 247277,
+      "name": "Сыр полутвердый Российский Viola БЗМЖ, 220 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-valio-rossiyskiy-220-g/",
+      "price": "274.49",
+      "promo_price": "189.90",
+      "brand": "Viola"
+    },
+    {
+      "id": 15837,
+      "name": "Сыр твердый Алтайский «Киприно» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-altayskiy-kiprino-200g/",
+      "price": "290.99",
+      "promo_price": "199.90",
+      "brand": "Киприно"
+    },
+    {
+      "id": 825900,
+      "name": "Сыр полутвердый «Радость вкуса» Легкий 35% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_legkiy_rad_vkusa_35/",
+      "price": "98.90",
+      "promo_price": "68.90",
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 564944,
+      "name": "Сыр полутвердый «Сыробогатов» Сливочный 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_slivochnyy_50_syrobogatov/",
+      "price": "94.90",
+      "promo_price": "66.90",
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 15838,
+      "name": "Сыр твердый Швейцарский «Киприно» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-shveycarskiy-kiprino-200g/",
+      "price": "286.99",
+      "promo_price": "199.90",
+      "brand": "Киприно"
+    },
+    {
+      "id": 988882,
+      "name": "Сыр Laime Пармезан 40% БЗМЖ, 185 г",
+      "link": "https://auchan.ru/product/syr-parmezan-layme-40-185g/",
+      "price": "392.99",
+      "promo_price": "279.00",
+      "brand": "Laime"
+    },
+    {
+      "id": 24137,
+      "name": "Сыр «Сыробогатов» Гауда 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-gauda-syrobogatov-45-180g/",
+      "price": "183.99",
+      "promo_price": "129.90",
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 72006,
+      "name": "Сыр полутвердый «Азбука сыра» Российский 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_rossiyskiy_50_mamadysh/",
+      "price": "102.30",
+      "promo_price": "72.90",
+      "brand": "Азбука сыра"
+    },
+    {
+      "id": 687506,
+      "name": "Сыр полутвердый «Ламбер» 50% БЗМЖ, 230 г",
+      "link": "https://auchan.ru/product/syr-lamber-50-230g/",
+      "price": "350.49",
+      "promo_price": "249.00",
+      "brand": "Ламбер"
+    },
+    {
+      "id": 342249,
+      "name": "Сыр полутвердый «Ламбер» Сливочный 55%, БЗМЖ, 1 шар",
+      "link": "https://auchan.ru/product/syr_slivoch_55_lamber_ves/",
+      "price": "1377.99",
+      "promo_price": "999.00",
+      "brand": "Ламбер"
+    },
+    {
+      "id": 865128,
+      "name": "Сыр полутвердый «Пестравка» Тильзитер 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syrtilziterpestr-45-fas200-g/",
+      "price": "197.99",
+      "promo_price": "139.90",
+      "brand": "Пестравка"
+    },
+    {
+      "id": 988081,
+      "name": "Сыр полутвердый «Сыробогатов» Тильзитер 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_tilziter_syrobogatov_45/",
+      "price": "94.40",
+      "promo_price": "66.90",
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 584375,
+      "name": "Сыр полутвердый «Сыры Кубани» Эдам 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syry-kubani-edam-45-200-g/",
+      "price": "222.99",
+      "promo_price": "159.90",
+      "brand": "Сыры Кубани"
+    },
+    {
+      "id": 976739,
+      "name": "Сыр полутвердый «Тысяча Озёр» Легкий нарезка 15% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-tysyacha-ozer-legk-nar-125g-bzmzh/",
+      "price": "169.99",
+      "promo_price": "119.90",
+      "brand": "Тысяча Озёр"
+    },
+    {
+      "id": 425685,
+      "name": "Сыр твердый «Сырная волость» Монарх 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_monarh_45/",
+      "price": "119.30",
+      "promo_price": "84.90",
+      "brand": "Сырная волость"
+    },
+    {
+      "id": 11998,
+      "name": "Сыр твердый Советский «Киприно» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-sovetskiy-kiprino-200g/",
+      "price": "279.99",
+      "promo_price": "199.90",
+      "brand": "Киприно"
+    },
+    {
+      "id": 648019,
+      "name": "Сыр полутвердый Natura Сливочный в нарезке 45% БЗМЖ, 300 г",
+      "link": "https://auchan.ru/product/syr-arla-natura-slivochnyy-v-narezke-45-300-g/",
+      "price": "407.49",
+      "promo_price": "299.00",
+      "brand": "Natura"
+    },
+    {
+      "id": 31550,
+      "name": "Сыр полутвердый «Сваля» Тильзитер 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-tilziter-svalya-45-180g/",
+      "price": "246.99",
+      "promo_price": "179.90",
+      "brand": "Сваля"
+    },
+    {
+      "id": 462576,
+      "name": "Сыр полутвердый Голландский Viola 45% БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-valio-golladskiy-45-120-g/",
+      "price": "176.99",
+      "promo_price": "129.90",
+      "brand": "Viola"
+    },
+    {
+      "id": 75268,
+      "name": "Сыр полутвердый Российский Viola БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-valio-rossiyskiy-fasovannyy-120-g/",
+      "price": "176.99",
+      "promo_price": "129.90",
+      "brand": "Viola"
+    },
+    {
+      "id": 694201,
+      "name": "Сыр твердый Cheese House эдам БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-cheese-house-edam-180-g/",
+      "price": "177.99",
+      "promo_price": "129.90",
+      "brand": null
+    },
+    {
+      "id": 902576,
+      "name": "Сыр твердый Dolce Granto Пармезан 40% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-parmezan-dolce-fasov-200g/",
+      "price": "354.99",
+      "promo_price": "259.00",
+      "brand": "Dolce Granto"
+    },
+    {
+      "id": 908599,
+      "name": "Сыр Колыбельский «ЭкоНива» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-kolybelskiy-en-50-200g/",
+      "price": "187.99",
+      "promo_price": "139.90",
+      "brand": "Эконива"
+    },
+    {
+      "id": 908621,
+      "name": "Сыр Щучанский «ЭкоНива» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-shchuchanskiy-en-50-200g/",
+      "price": "187.99",
+      "promo_price": "139.90",
+      "brand": "Эконива"
+    },
+    {
+      "id": 202978,
+      "name": "Сыр полутвердый La Paulina Моцарелла 42% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_mocarellaargentinaves/",
+      "price": "121.60",
+      "promo_price": "89.90",
+      "brand": "La Paulina"
+    },
+    {
+      "id": 584359,
+      "name": "Сыр полутвердый «Сыры Кубани» Голландский 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syry-kubani-gollandskiy-45-200-g/",
+      "price": "201.99",
+      "promo_price": "149.95",
+      "brand": "Сыры Кубани"
+    },
+    {
+      "id": 846483,
+      "name": "Сыр твердый «Карлов Двор» Пармезан выдержанный 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-parmezan-6m-karl-dvor-150g/",
+      "price": "350.99",
+      "promo_price": "259.00",
+      "brand": "Карлов двор"
+    },
+    {
+      "id": 338169,
+      "name": "Сыр твердый «Карлов Двор» пармезан БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-karlov-dvor-parmezan-200-g/",
+      "price": "335.99",
+      "promo_price": "249.00",
+      "brand": "Карлов двор"
+    },
+    {
+      "id": 501962,
+      "name": "Сыр Laime Пармезан колотый выдержанный 9 месяцев, 100 г",
+      "link": "https://auchan.ru/product/syr-kolotyy-parmezan-vyderzhannyy-9-mesyacev-100-g/",
+      "price": "280.99",
+      "promo_price": "209.95",
+      "brand": "Laime"
+    },
+    {
+      "id": 694746,
+      "name": "Сыр полутвердый «Белгородье» Российский 35% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_rossiyskiy35_bzmzh_belgor/",
+      "price": "91.70",
+      "promo_price": "68.90",
+      "brand": "Белгородье"
+    },
+    {
+      "id": 694715,
+      "name": "Сыр полутвердый «Белгородье» Тильзитер 35% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_tilziter_35_bzmzh_belgoro/",
+      "price": "91.70",
+      "promo_price": "68.90",
+      "brand": "Белгородье"
+    },
+    {
+      "id": 12385,
+      "name": "Сыр полутвердый Российский BELOGORE 50% БЗМЖ, Шар 360 г",
+      "link": "https://auchan.ru/product/syr-rossiyskiy-50-360g-shar/",
+      "price": "365.99",
+      "promo_price": "273.00",
+      "brand": "BELOGORE"
+    },
+    {
+      "id": 353,
+      "name": "Сыр твердый «Белебеевский» Belster Parmesan нарезка 40% БЗМЖ, 135 г",
+      "link": "https://auchan.ru/product/belster-parmezan-6m-nar-135g/",
+      "price": "238.99",
+      "promo_price": "179.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 902411,
+      "name": "Сыр Schonfeld Parmesan выдержанный 6 месяцев 43% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-parmezan-6-mes-shonf-ves-bzmzh/",
+      "price": "224.70",
+      "promo_price": "169.90",
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 24133,
+      "name": "Сыр «Сыробогатов» Голландский 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-golland-syrobogat-45-180g/",
+      "price": "183.99",
+      "promo_price": "139.90",
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 960029,
+      "name": "Сыр полутвердый «Тысяча Озёр» Сливочный нарезка 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-tysyacha-ozer-sliv-nar-125g/",
+      "price": "156.99",
+      "promo_price": "119.90",
+      "brand": "Тысяча Озёр"
+    },
+    {
+      "id": 940278,
+      "name": "Сыр полутвердый Тильзитер Viola 45% БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-valio-tilziter-narezka-45-120-g/",
+      "price": "171.99",
+      "promo_price": "129.90",
+      "brand": "Viola"
+    },
+    {
+      "id": 847836,
+      "name": "Сыр полутвердый «Богдаша» Сливочный 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-slivochnyy-bogdasha-200g/",
+      "price": "220.99",
+      "promo_price": "169.90",
+      "brand": "Богдаша"
+    },
+    {
+      "id": 266236,
+      "name": "Сыр полутвердый «Азбука сыра» Татарский Delux 50%, вес",
+      "link": "https://auchan.ru/product/syr_tatarskiy_delyuks__50/",
+      "price": "146.30",
+      "promo_price": "115.90",
+      "brand": "Азбука сыра"
+    },
+    {
+      "id": 38152,
+      "name": "Сыр полутвердый «Ларец» Золотой топленое молоко 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_zolot_larec_topl_mol_50/",
+      "price": "100.60",
+      "promo_price": "79.90",
+      "brand": "Ларец"
+    },
+    {
+      "id": 51106,
+      "name": "Сыр полутвердый «Радость вкуса» Большой куш 20% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-bolshoy-kush-20-rad-vk-ves/",
+      "price": "888.99",
+      "promo_price": "699.00",
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 920462,
+      "name": "Сыр полутвердый «Сваля» Легкий 35% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-legkiy-svalya-35-200gr-kus/",
+      "price": "251.99",
+      "promo_price": "199.00",
+      "brand": "Сваля"
+    },
+    {
+      "id": 597145,
+      "name": "Сыр полутвердый «Белебеевский» нарезка БЗМЖ, 140 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-belebeevskiy-narezka-140-g/",
+      "price": "173.99",
+      "promo_price": "139.90",
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 44435,
+      "name": "Сыр полутвердый «Ламбер» Тильзитер в нарезке 50% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-lamber-tilziter-v-narezke-50-150-g/",
+      "price": "272.99",
+      "promo_price": "219.00",
+      "brand": "Ламбер"
+    },
+    {
+      "id": 949156,
+      "name": "Сыр полутвердый Пошехонский «Милково» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-poshehonskiy-45-200g/",
+      "price": "162.99",
+      "promo_price": "129.90",
+      "brand": "«Милково»"
+    },
+    {
+      "id": 10161,
+      "name": "Сыр твёрдый 12 месяцев выдержки Dürr Classic, 50%, вес",
+      "link": "https://auchan.ru/product/syr-tverdyy-dyurr-50-12-ves/",
+      "price": "236.00",
+      "promo_price": "188.90",
+      "brand": null
+    },
+    {
+      "id": 833775,
+      "name": "Сыр твердый Пармезан «Жерар Депардье рекомендует»!» 40% Eccellente 40% БЗМЖ, 500 г",
+      "link": "https://auchan.ru/product/dpd-syr-parmedzh-nab-500gbzmzh/",
+      "price": "1333.99",
+      "promo_price": "1099.00",
+      "brand": null
+    },
+    {
+      "id": 612489,
+      "name": "Сыр твердый Швейцарский «Жерар Депардье рекомендует!» БЗМЖ, 500 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-deparde-rekomenduet-calvet-oleder-500-g/",
+      "price": "1055.99",
+      "promo_price": "869.00",
+      "brand": null
+    },
+    {
+      "id": 847834,
+      "name": "Сыр полутвердый Cheese House Pro Моцарелла Пицца 40% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-mocarella-picca-200g/",
+      "price": "192.99",
+      "promo_price": "159.90",
+      "brand": "Cheese House Pro"
+    },
+    {
+      "id": 637483,
+      "name": "Сыр полутвердый «Сыробогатов» Костромской 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_kostromskoy_45_syrobogatov/",
+      "price": "87.40",
+      "promo_price": "72.90",
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 38150,
+      "name": "Сыр твердый Dolce Granto Пармезан тертый 40% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-dolce-granto-ekstratverdyy-parmezan-dolche-tertyy-150-g/",
+      "price": "241.49",
+      "promo_price": "199.90",
+      "brand": "Dolce Granto"
+    },
+    {
+      "id": 145600,
+      "name": "Сыр полутвердый с плесенью BluDelice 56% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_blyudelis_56/",
+      "price": "286.90",
+      "promo_price": "239.90",
+      "brand": "BluDelice"
+    },
+    {
+      "id": 694627,
+      "name": "Сыр твердый Cheese Hause Гауда 20% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_gauda20_cheese_house_bzmzh/",
+      "price": "80.40",
+      "promo_price": "67.90",
+      "brand": "Cheese Hause"
+    },
+    {
+      "id": 959774,
+      "name": "Сыр твердый выдержанный 6 месяцев «ЭкоНива» Dürr 50%, 200 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-dyurr-50-6mes-200g/",
+      "price": "357.99",
+      "promo_price": "299.00",
+      "brand": "Эконива"
+    },
+    {
+      "id": 959748,
+      "name": "Сыр твердый выдержанный 3 месяца «ЭкоНива» Durr (Dürr) 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-dyurr-50-3mes-200g/",
+      "price": "293.99",
+      "promo_price": "249.00",
+      "brand": "Эконива"
+    },
+    {
+      "id": 384167,
+      "name": "Сыр твердый «Карлов двор» Пармезан Браво 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_parmezan_legurmano_45/",
+      "price": "140.50",
+      "promo_price": "125.90",
+      "brand": "Карлов двор"
+    },
+    {
+      "id": 915461,
+      "name": "Сыр твердый АШАН Красная птица Пармезан 34%, 200 г",
+      "link": "https://auchan.ru/product/kp-parmezan-kusok-200g/",
+      "price": "269.99",
+      "promo_price": "149.95",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 939785,
+      "name": "Сыр полутвердый Качотта АШАН Золотая птица БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/zp-syr-kachotta-s-paprikoy-i-tr-240g/",
+      "price": "399.99",
+      "promo_price": "299.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 939788,
+      "name": "Сыр полутвердый Качотта АШАН Золотая птица БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/zp-syr-kachotta-240-gr-bzmzh/",
+      "price": "399.99",
+      "promo_price": "299.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 939797,
+      "name": "Сыр полутвердый Качотта с пажитником АШАН Золотая птица БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/zp-kachotta-s-pazhitnikom-240-gr/",
+      "price": "399.99",
+      "promo_price": "299.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 939798,
+      "name": "Сыр полутвердый Качотта с черным перцем АШАН Золотая птица БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/zp-syr-kachotta-s-chernym-percem-240g/",
+      "price": "399.99",
+      "promo_price": "299.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 507893,
+      "name": "Сыр полутвердый АШАН Красная птица Гауда 45% нарезка БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-lakomo-gauda-48-narezka-150-g/",
+      "price": "149.99",
+      "promo_price": "115.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 507914,
+      "name": "Сыр полутвердый АШАН Красная птица Тильзитер нарезка 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-auchan-krasnaya-ptica-tilziter-narezka-45-150-g/",
+      "price": "146.99",
+      "promo_price": "115.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 507874,
+      "name": "Сыр твердый АШАН Красная птица Эдам 45% нарезка БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-lakomo-edam-40-narezka-150-g/",
+      "price": "146.99",
+      "promo_price": "115.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 91196,
+      "name": "Сыр полутвердый АШАН Красная птица Гауда 35% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-lakomo-gauda-48-250-g/",
+      "price": "159.99",
+      "promo_price": "129.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 91197,
+      "name": "Сыр полутвердый АШАН Красная птица Тильзитер 35% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-lakomo-tilziter-45-250-g/",
+      "price": "159.99",
+      "promo_price": "129.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 507885,
+      "name": "Сыр твердый АШАН Красная птица Маасдам 45% нарезка БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-lakomo-edam-40-narezka-350-g/",
+      "price": "159.99",
+      "promo_price": "129.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 91195,
+      "name": "Сыр твердый АШАН Красная птица Эдам 35% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-lakomo-edam-40-250-g/",
+      "price": "159.99",
+      "promo_price": "129.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 925084,
+      "name": "Сыр АШАН Красная птица Легкий нарезка БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/kp-legkiy-narezka-125g/",
+      "price": "115.99",
+      "promo_price": "97.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 509077,
+      "name": "Сыр твердый АШАН Красная птица Эдам тертый 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-lakomo-edam-40-tertyy-200-g/",
+      "price": "176.99",
+      "promo_price": "149.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 915394,
+      "name": "Сыр тертый АШАН Красная птица Пармезан БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kp-parmezan-tertyy-150-g/",
+      "price": "209.99",
+      "promo_price": "179.90",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 78430,
+      "name": "Сыр полутвердый АШАН Красная птица легкий 30% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/kp-syr-legkiy-30-1-2-shara-ves/",
+      "price": "859.99",
+      "promo_price": "759.00",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 78429,
+      "name": "Сыр полутвердый АШАН Красная птица сливочный 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/kp-syr-sliv-50-1-2-shara-ves/",
+      "price": "859.99",
+      "promo_price": "759.00",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 78422,
+      "name": "Сыр полутвердый АШАН Красная птица со вкусом топленого молока 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/kp-syr-s-top-mol-1-2-shara-ves/",
+      "price": "859.99",
+      "promo_price": "759.00",
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 939786,
+      "name": "Сыр полутвердый Качотта с трюфелем АШАН Золотая птица БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/zp-syr-kachotta-s-tryufelem-240g/",
+      "price": "499.99",
+      "promo_price": "439.90",
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 501953,
+      "name": "Сыр твердый Laime Пармезан выдержанный 6 месяцев БЗМЖ, 175 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-laime-parmezan-vyderzhannyy-6-mesyacev-175-g/",
+      "price": "299.95",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 919872,
+      "name": "Сыр твердый Laime Riserva-12 40% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-parmezan-rizerva-12-40/",
+      "price": "120.00",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 91029,
+      "name": "Сыр Botticello Пармезан БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-parm-botticello-12m-180g/",
+      "price": "461.99",
+      "promo_price": null,
+      "brand": "Botticello"
+    },
+    {
+      "id": 32106,
+      "name": "Сыр Cezare Принцесса Альда 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-cezare-prin-alda-50-ves/",
+      "price": "98.50",
+      "promo_price": null,
+      "brand": "Cezare"
+    },
+    {
+      "id": 904029,
+      "name": "Сыр Cheese Gallery Лайт 9% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-layt-cheese-gallery-9-200g/",
+      "price": "234.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 942934,
+      "name": "Сыр Dolce Granto Пармезан в лепестках БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-parmezan-dolce-lep-150g-bzmzh/",
+      "price": "295.99",
+      "promo_price": null,
+      "brand": "Dolce Granto"
+    },
+    {
+      "id": 988877,
+      "name": "Сыр Dziugas БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-dzhyugas-200-gr-bzmzh/",
+      "price": "460.99",
+      "promo_price": null,
+      "brand": "Dziugas"
+    },
+    {
+      "id": 60225,
+      "name": "Сыр Laime  Маасдам 45%, 110 г",
+      "link": "https://auchan.ru/product/syr-maasdam-45-laime-110g/",
+      "price": "342.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 9943,
+      "name": "Сыр Laime Ассорти Швейцарский БЗМЖ, 160 г",
+      "link": "https://auchan.ru/product/syr-assorti-shveyc-laime-160g/",
+      "price": "650.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 28171,
+      "name": "Сыр Laime Маасдам 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-maasdam-laime-45-125g/",
+      "price": "192.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 33576,
+      "name": "Сыр Laime Маасдам 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-maasdam-layme-45-200g/",
+      "price": "289.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 67821,
+      "name": "Сыр Laime Премиум 50%, 200 г",
+      "link": "https://auchan.ru/product/syr-layme-premium-50-200g/",
+      "price": "231.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 991176,
+      "name": "Сыр Laime Российский молодой БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-ross-laime-nar-125g-bzmzh/",
+      "price": "163.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 991170,
+      "name": "Сыр Laime Тильзитер БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-tilz-laime-nar-125g-bzmzh/",
+      "price": "163.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 28170,
+      "name": "Сыр Laime Швейцарский 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-shveycarskiy-laime-45-150g/",
+      "price": "389.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 100161,
+      "name": "Сыр Natura легкий 30%, 200 г",
+      "link": "https://auchan.ru/product/syr-legkiy-30-200g-natura/",
+      "price": "240.99",
+      "promo_price": null,
+      "brand": "Natura"
+    },
+    {
+      "id": 985446,
+      "name": "Сыр Schonfeld Эмменталер нарезка БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-schonfeld-emment-nar-125g/",
+      "price": "188.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 81254,
+      "name": "Сыр «Азбука сыра» Маасдам 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-maasdam-45-200-g-azbuka/",
+      "price": "247.99",
+      "promo_price": null,
+      "brand": "Азбука сыра"
+    },
+    {
+      "id": 689655,
+      "name": "Сыр «Бон-Дари» Бондарский 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_bondarskiy_50bzmzh_21/",
+      "price": "78.06",
+      "promo_price": null,
+      "brand": "Бон-Дари"
+    },
+    {
+      "id": 904509,
+      "name": "Сыр «Радость Вкуса» Для жарки 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-dlya-zharki-45-200g/",
+      "price": "231.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 80205,
+      "name": "Сыр АШАН Золотая птица халуми с паприкой БЗМЖ, 100 г",
+      "link": "https://auchan.ru/product/zp-halumi-s-papr-bzmzh-100g/",
+      "price": "179.90",
+      "promo_price": null,
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 80197,
+      "name": "Сыр АШАН Золотая птица халуми с петрушкой и чесноком БЗМЖ, 100 г",
+      "link": "https://auchan.ru/product/zp-halumi-s-petr-i-chesn-100g/",
+      "price": "179.90",
+      "promo_price": null,
+      "brand": "АШАН Золотая птица"
+    },
+    {
+      "id": 925090,
+      "name": "Сыр АШАН Красная птица Легкий БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kp-legkiy-kusok-200g/",
+      "price": "169.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 977781,
+      "name": "Сыр АШАН Красная птица Легкий в нарезке БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/kp-legkiy-narezka-350g-bzmzh/",
+      "price": "299.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 701976,
+      "name": "Сыр полутвердый  Чеддер Cheese Box БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-cheese-box-chedder-240-g/",
+      "price": "278.99",
+      "promo_price": null,
+      "brand": "Cheese Box"
+    },
+    {
+      "id": 40937,
+      "name": "Сыр полутвердый  Чеддер «Брест-Литовск» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-brest-lit-chedder-45-200g/",
+      "price": "254.99",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 853912,
+      "name": "Сыр полутвердый Bergstolz 52% БЗМЖ, 100 г",
+      "link": "https://auchan.ru/product/syr-sviss-d-or-bergshtolc-100g/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": "Bergstolz"
+    },
+    {
+      "id": 853911,
+      "name": "Сыр полутвердый Bergstolz 52% БЗМЖ, 100 г",
+      "link": "https://auchan.ru/product/syr-matterhorn-bergshtolc-100g/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": "Bergstolz"
+    },
+    {
+      "id": 151636,
+      "name": "Сыр полутвердый Cheese Gallery Light нарезка 20% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-cheese-gallery-light-narezka-20-150-g/",
+      "price": "184.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 49182,
+      "name": "Сыр полутвердый Cheese Gallery Гауда 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-gauda-45-cg-kusok-200g/",
+      "price": "240.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 49150,
+      "name": "Сыр полутвердый Cheese Gallery Гауда нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-gauda-45-cg-narezka-125g/",
+      "price": "175.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 338501,
+      "name": "Сыр полутвердый Cheese Gallery Козий нарезка 50% БЗМЖ, 100 г",
+      "link": "https://auchan.ru/product/syr-cheese-gallery-koziy-narezka-50-100-g/",
+      "price": "351.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 49146,
+      "name": "Сыр полутвердый Cheese Gallery Маасдам 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-maasdam-45-cg-kusok-180g/",
+      "price": "265.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 49147,
+      "name": "Сыр полутвердый Cheese Gallery Маасдам нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-maasdam-45-cg-narezk-125g/",
+      "price": "200.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 833778,
+      "name": "Сыр полутвердый Cheese Gallery Чеддер красный 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-chedder-krasnyy-ch-g-200g/",
+      "price": "268.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 694708,
+      "name": "Сыр полутвердый Cheese Hause Моцарелла Пицца 40% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_mocarella_picca_40_bzmzh/",
+      "price": "74.20",
+      "promo_price": null,
+      "brand": "Cheese Hause"
+    },
+    {
+      "id": 8836,
+      "name": "Сыр полутвердый Cheese Lovers Bluz Cheese с голубой благородной плесенью 60% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_bluz_s_gol_pl_60_krug/",
+      "price": "223.80",
+      "promo_price": null,
+      "brand": "Cheese Lovers"
+    },
+    {
+      "id": 981247,
+      "name": "Сыр полутвердый Coeur du nord Kozimir из козьего молока 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-kozimir-koz-mol-45-150g/",
+      "price": "390.99",
+      "promo_price": null,
+      "brand": "Coeur du nord"
+    },
+    {
+      "id": 96060,
+      "name": "Сыр полутвердый Endorf Loutter 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-loutter-45-endorf-ves/",
+      "price": "1291.59",
+      "promo_price": null,
+      "brand": "Endorf"
+    },
+    {
+      "id": 777605,
+      "name": "Сыр полутвердый Foodland Львиное сердце 54% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_lvinoe_serdce_54_200g/",
+      "price": "228.99",
+      "promo_price": null,
+      "brand": "Foodland"
+    },
+    {
+      "id": 789632,
+      "name": "Сыр полутвердый Grunlander 50% БЗМЖ, 400 г",
+      "link": "https://auchan.ru/product/syr_gryunlander_hohland_400g/",
+      "price": "478.49",
+      "promo_price": null,
+      "brand": "Grunlander"
+    },
+    {
+      "id": 853893,
+      "name": "Сыр полутвердый Jalo Kerma Сливочный нарезка 50% БЗМЖ, 140 г",
+      "link": "https://auchan.ru/product/syr-slivochn-yalo-kerma-nar-140g/",
+      "price": "182.99",
+      "promo_price": null,
+      "brand": "Jalo Kerma"
+    },
+    {
+      "id": 893408,
+      "name": "Сыр полутвердый La Paulina Чеддер 48% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-la-paulina-chedder-48-200-g/",
+      "price": "289.99",
+      "promo_price": null,
+      "brand": "La Paulina"
+    },
+    {
+      "id": 738170,
+      "name": "Сыр полутвердый La Paulina Чеддер 48% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_chedder_48_la_paulina_bzmzh/",
+      "price": "136.30",
+      "promo_price": null,
+      "brand": "La Paulina"
+    },
+    {
+      "id": 985356,
+      "name": "Сыр полутвердый Laime Tete De Moine 51% БЗМЖ, 50 г",
+      "link": "https://auchan.ru/product/syr-tet-de-muan-laym-50g/",
+      "price": "470.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 1884,
+      "name": "Сыр полутвердый Laime Раклетт нарезка 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-raklett-laime-45-nar-150g/",
+      "price": "548.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 956135,
+      "name": "Сыр полутвердый Laime Сыропузики Гауда нарезка 45% БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-gauda-45-layme-120g/",
+      "price": "199.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 550276,
+      "name": "Сыр полутвердый Moloko Group Раклет 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-moloko-group-raklet-45-200-g/",
+      "price": "333.99",
+      "promo_price": null,
+      "brand": "Moloko Group"
+    },
+    {
+      "id": 229774,
+      "name": "Сыр полутвердый Natura Сливочный 45% БЗМЖ, 1 кг",
+      "link": "https://auchan.ru/product/syr_natura_sliv_ves/",
+      "price": "1063.99",
+      "promo_price": null,
+      "brand": "Natura"
+    },
+    {
+      "id": 64469,
+      "name": "Сыр полутвердый Natura Сливочный 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-arla-natura-clivochnyy-cilindr-45-200-g/",
+      "price": "226.49",
+      "promo_price": null,
+      "brand": "Natura"
+    },
+    {
+      "id": 150446,
+      "name": "Сыр полутвердый Natura Сливочный 45% БЗМЖ, 400 г",
+      "link": "https://auchan.ru/product/syr-arla-natura-clivochnyy-cilindr-400-g/",
+      "price": "449.49",
+      "promo_price": null,
+      "brand": "Natura"
+    },
+    {
+      "id": 333867,
+      "name": "Сыр полутвердый Natura Сливочный 45% нарезка БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr_sliv_45_narezka_150g/",
+      "price": "216.99",
+      "promo_price": null,
+      "brand": "Natura"
+    },
+    {
+      "id": 597064,
+      "name": "Сыр полутвердый Natura Сливочный Легкий 16% БЗМЖ, 400 г",
+      "link": "https://auchan.ru/product/syr-arla-natura-slivochnyy-legkiy-cilindr-30-400-g/",
+      "price": "472.49",
+      "promo_price": null,
+      "brand": "Natura"
+    },
+    {
+      "id": 373440,
+      "name": "Сыр полутвердый Natura Сливочный Легкий нарезка 16% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-arla-natura-slivochnyy-legkiy-narezka-30-150-g/",
+      "price": "220.99",
+      "promo_price": null,
+      "brand": "Natura"
+    },
+    {
+      "id": 74320,
+      "name": "Сыр полутвердый Oldenburger Песто зеленый 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-pesto-zelenyy-50-old-ves/",
+      "price": "117.20",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 74319,
+      "name": "Сыр полутвердый Oldenburger Песто красный 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-pesto-krasnyy-50-old-ves/",
+      "price": "117.20",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 74819,
+      "name": "Сыр полутвердый Oldenburger Песто красный нарезка 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-pesto-kras-50-125-g-old/",
+      "price": "183.99",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 279178,
+      "name": "Сыр полутвердый Oldenburger Сливочный 50% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-oldenburger-50-350-g/",
+      "price": "402.99",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 279206,
+      "name": "Сыр полутвердый Oldenburger с грецким орехом 50% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-oldenburger-s-greckim-orehom-50-350-g/",
+      "price": "390.99",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 10081,
+      "name": "Сыр полутвердый Oldenburger с грецким орехом нарезанные ломтики 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-narezka-s-oreh-olden-125g/",
+      "price": "164.99",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 74560,
+      "name": "Сыр полутвердый Oldenburger с оливками и томатами 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-s-grec-oreh-50-ves-olden/",
+      "price": "117.20",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 10078,
+      "name": "Сыр полутвердый Oldenburger с томатом и базиликом нарезанные ломтики 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-narezka-tom-baz-olden-125g/",
+      "price": "164.99",
+      "promo_price": null,
+      "brand": "Oldenburger"
+    },
+    {
+      "id": 766582,
+      "name": "Сыр полутвердый Schonfeld Swiss Thurmesan нарезка 52% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-schonfeld-swiss-thurmesan-narezka-52-125-g/",
+      "price": "381.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 828296,
+      "name": "Сыр полутвердый Schonfeld Гауда 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-gauda-kusok-shonf-200gr/",
+      "price": "232.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 828239,
+      "name": "Сыр полутвердый Schonfeld Гауда нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-gauda-shonf-narez-125gr/",
+      "price": "157.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 966706,
+      "name": "Сыр полутвердый Schonfeld Массдам нарезка БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-maasdam-shonf-narez-125gr/",
+      "price": "185.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 828266,
+      "name": "Сыр полутвердый Schonfeld Тильзитер нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-tilz-shonf-narez-125gr/",
+      "price": "157.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 802199,
+      "name": "Сыр полутвердый Vardevaal Excelsior с козьим молоком 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_vardevaal_s_kozmol200g/",
+      "price": "259.99",
+      "promo_price": null,
+      "brand": "Vardevaal"
+    },
+    {
+      "id": 641808,
+      "name": "Сыр полутвердый «Азбука сыра» Гауда 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-azbuka-syra-gauda-45-200-g/",
+      "price": "219.99",
+      "promo_price": null,
+      "brand": "Азбука сыра"
+    },
+    {
+      "id": 71981,
+      "name": "Сыр полутвердый «Азбука сыра» Пошехонский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_poshehonskiy_45_as_bzmzh/",
+      "price": "97.80",
+      "promo_price": null,
+      "brand": "Азбука сыра"
+    },
+    {
+      "id": 333925,
+      "name": "Сыр полутвердый «Басни о сыре» Gouda Light 40% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_gouda_light_ves/",
+      "price": "94.10",
+      "promo_price": null,
+      "brand": "Басни о сыре"
+    },
+    {
+      "id": 847835,
+      "name": "Сыр полутвердый «Богдаша» с ароматом топленого молока 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-top-moloko-bogdasha-200g/",
+      "price": "229.99",
+      "promo_price": null,
+      "brand": "Богдаша"
+    },
+    {
+      "id": 933548,
+      "name": "Сыр полутвердый «Бон-Дари» Эстонский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-estonskiy-45-fl-p/",
+      "price": "85.20",
+      "promo_price": null,
+      "brand": "Бон-Дари"
+    },
+    {
+      "id": 785210,
+      "name": "Сыр полутвердый «Вкуснотеево» Выдержанный 45% БЗМЖ, 260 г",
+      "link": "https://auchan.ru/product/syr_vkusnoteevo_vyderzh_45_260/",
+      "price": "296.99",
+      "promo_price": null,
+      "brand": "Вкуснотеево"
+    },
+    {
+      "id": 913803,
+      "name": "Сыр полутвердый «Вкуснотеево» Выдержанный 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-polutverdyy-vkusnoteevo-vyderzhannyy-45-ves/",
+      "price": "113.90",
+      "promo_price": null,
+      "brand": "Вкуснотеево"
+    },
+    {
+      "id": 785337,
+      "name": "Сыр полутвердый «Вкуснотеево» Российский выдержанный 50% БЗМЖ, 520 г",
+      "link": "https://auchan.ru/product/syr_rossiysvkusnvyd50_520g/",
+      "price": "593.99",
+      "promo_price": null,
+      "brand": "Вкуснотеево"
+    },
+    {
+      "id": 39337,
+      "name": "Сыр полутвердый «Город сыра» Голландский нарезка 48% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-gorod-syra-gollandskiy-48-narezka-125-g/",
+      "price": "141.99",
+      "promo_price": null,
+      "brand": "Город сыра"
+    },
+    {
+      "id": 46817,
+      "name": "Сыр полутвердый «Город сыра» Российский нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-gorod-syra-rossiyskiy-narezka-125-g/",
+      "price": "141.99",
+      "promo_price": null,
+      "brand": "Город сыра"
+    },
+    {
+      "id": 390803,
+      "name": "Сыр полутвердый «Золото Европы» Для макарон тертый БЗМЖ, 300 г",
+      "link": "https://auchan.ru/product/syr-tertyy-zoloto-evropy-300-g/",
+      "price": "250.99",
+      "promo_price": null,
+      "brand": "Золото Европы"
+    },
+    {
+      "id": 277711,
+      "name": "Сыр полутвердый «Золото Европы» Маасдам 45% БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-zoloto-evropy-maasdam-45-240-g/",
+      "price": "311.99",
+      "promo_price": null,
+      "brand": "Золото Европы"
+    },
+    {
+      "id": 576237,
+      "name": "Сыр полутвердый «Каждый День» Российский нарезка 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kdsyr_rossnar150g_bzmzh/",
+      "price": "94.98",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 576241,
+      "name": "Сыр полутвердый «Каждый День» Российский нарезка 45% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/kdsyr_rossnar350g_bzmzh/",
+      "price": "217.19",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 576248,
+      "name": "Сыр полутвердый «Каждый День» Российский тертый 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kdsyr_rosstertyy_150g_bzmzh/",
+      "price": "112.98",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 507851,
+      "name": "Сыр полутвердый «Каждый день» Костромской 45% нарезка БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kdsyr_kostromskoy45_150_bzmzh/",
+      "price": "112.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 507857,
+      "name": "Сыр полутвердый «Каждый день» Костромской 45% нарезка БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/kdsyr_kostromskoy45_350_bzmzh/",
+      "price": "258.37",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 507829,
+      "name": "Сыр полутвердый «Каждый день» Пошехонский 45% нарезка БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kdsyr_poshehonskiy45_150_bzmzh/",
+      "price": "112.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 507840,
+      "name": "Сыр полутвердый «Каждый день» Пошехонский 45% нарезка БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/kdsyr_poshehonskiy45350_bzmzh/",
+      "price": "258.37",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 916924,
+      "name": "Сыр полутвердый «Каждый день» Сливочный нарезка 50% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kd-syr-slivochnyy-narezka-150g/",
+      "price": "112.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 916922,
+      "name": "Сыр полутвердый «Каждый день» Сливочный нарезка 50% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/kd-syr-slivochnyy-narezka-350g/",
+      "price": "258.37",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 897563,
+      "name": "Сыр полутвердый «Киприно» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-slivochnyy-kiprino-200g/",
+      "price": "238.99",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 83834,
+      "name": "Сыр полутвердый «Ларец» Классический БЗМЖ, 245 г",
+      "link": "https://auchan.ru/product/syr-klassich-50-245-g-larec/",
+      "price": "283.99",
+      "promo_price": null,
+      "brand": "Ларец"
+    },
+    {
+      "id": 127014,
+      "name": "Сыр полутвердый «Ларец» с грецкими орехами 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_larec_c_greck_orehami_50/",
+      "price": "119.40",
+      "promo_price": null,
+      "brand": "Ларец"
+    },
+    {
+      "id": 833761,
+      "name": "Сыр полутвердый «Ларец» с грецкими орехами нарезка 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-larec-s-grec-orehom-nar125/",
+      "price": "178.99",
+      "promo_price": null,
+      "brand": "Ларец"
+    },
+    {
+      "id": 320242,
+      "name": "Сыр полутвердый «Луговая свежесть» Легкий 20% БЗМЖ, 225 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-lugovaya-svezhest-legkiy-20-225-g/",
+      "price": "237.99",
+      "promo_price": null,
+      "brand": "Луговая свежесть"
+    },
+    {
+      "id": 10101,
+      "name": "Сыр полутвердый «Мамонтовская сыроварня» в обсыпке из итальянских трав БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-ital-tr-mamont-syr-150g/",
+      "price": "250.99",
+      "promo_price": null,
+      "brand": "Мамонтовская сыроварня"
+    },
+    {
+      "id": 875002,
+      "name": "Сыр полутвердый «Николаевские сыроварни» Российский 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-rossiysk-50-1-kg-gost-bzm/",
+      "price": "95.00",
+      "promo_price": null,
+      "brand": "Николаевские сыроварни"
+    },
+    {
+      "id": 893420,
+      "name": "Сыр полутвердый «Новогрудские дары» Pesto Red зелень чеснок 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_pesto_krasn_zel_chesnok_45/",
+      "price": "113.30",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 512220,
+      "name": "Сыр полутвердый «Новопокровский» Российский 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_rossiyskiy_50/",
+      "price": "86.60",
+      "promo_price": null,
+      "brand": "Новопокровский"
+    },
+    {
+      "id": 865137,
+      "name": "Сыр полутвердый «Пестравка» Легкий 18% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syrlegkiypestravka18-fas200-g/",
+      "price": "201.99",
+      "promo_price": null,
+      "brand": "Пестравка"
+    },
+    {
+      "id": 156573,
+      "name": "Сыр полутвердый «Пестравка» Российский 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-pestravka-rossiyskiy-50-125-g/",
+      "price": "127.99",
+      "promo_price": null,
+      "brand": "Пестравка"
+    },
+    {
+      "id": 934366,
+      "name": "Сыр полутвердый «Пестравка» Сливочный 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-slivochnyy-50-pestravka-ves/",
+      "price": "95.00",
+      "promo_price": null,
+      "brand": "Пестравка"
+    },
+    {
+      "id": 937236,
+      "name": "Сыр полутвердый «Пестравка» Томленый 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syrtomlpestr50-fas200g/",
+      "price": "210.99",
+      "promo_price": null,
+      "brand": "Пестравка"
+    },
+    {
+      "id": 801950,
+      "name": "Сыр полутвердый «Радость Вкуса» Легкий 35% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_legkiy_35_radvkusa200g/",
+      "price": "221.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 801955,
+      "name": "Сыр полутвердый «Радость Вкуса» Мраморный 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_mramornyy_radvkusa_200g/",
+      "price": "226.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 801956,
+      "name": "Сыр полутвердый «Радость Вкуса» Ореховый 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_orehovyy_45_radvkusa200g/",
+      "price": "231.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 801957,
+      "name": "Сыр полутвердый «Радость Вкуса» Сметанковый 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_smetankovyy_radvkusa_200g/",
+      "price": "224.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 49266,
+      "name": "Сыр полутвердый «Радость вкуса» Звенигородский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_zvenigorodskiy_radvkusa/",
+      "price": "98.60",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 568383,
+      "name": "Сыр полутвердый «Радость вкуса» Львиное сердце нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-radost-vkusa-lvinoe-serdce-narezka-45-125-g/",
+      "price": "163.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 532857,
+      "name": "Сыр полутвердый «Радость вкуса» Мраморный нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-radost-vkusa-mramornyy-narezka-45-125-g/",
+      "price": "163.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 532860,
+      "name": "Сыр полутвердый «Радость вкуса» Ореховый нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-radost-vkusa-orehovyy-narezka-45-125-g/",
+      "price": "164.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 893423,
+      "name": "Сыр полутвердый «Радость вкуса» Ореховый с фенугреком 45%  БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_orehovyy_45/",
+      "price": "107.20",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 462808,
+      "name": "Сыр полутвердый «Радость вкуса» Российский классический 45% нарезка БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-radost-vkusa-rossiyskiy-klassicheskiy-45-125g-slaysy/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 266426,
+      "name": "Сыр полутвердый «Радость вкуса» Российский нарезка 45% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/syr-radost-vkusa-rossiyskiy-slaysy-45-350-g/",
+      "price": "415.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 334731,
+      "name": "Сыр полутвердый «Радость вкуса» Сметанковый 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_smetankovyy_45_radvkusa/",
+      "price": "101.80",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 63775,
+      "name": "Сыр полутвердый «Радость вкуса» Тильзитер люкс 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/tilziter_lyuks_radvkusa/",
+      "price": "100.80",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 462794,
+      "name": "Сыр полутвердый «Радость вкуса» Топленое молочко 45% БЗМЖ, 125г",
+      "link": "https://auchan.ru/product/syr-radost-vkusa-toplenoe-molochko-45-125g-slaysy/",
+      "price": "152.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 801958,
+      "name": "Сыр полутвердый «Радость вкуса» Топленое молочко 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_toplenmolochradvkusa200g/",
+      "price": "226.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 469851,
+      "name": "Сыр полутвердый «Радость вкуса» Топленое молочко 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_toplenoe_molochko_45_radvkusa/",
+      "price": "102.60",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 568387,
+      "name": "Сыр полутвердый «Радость вкуса» Царицинский нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-radost-vkusa-caricinskiy-slaysy-45-125-g/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 101871,
+      "name": "Сыр полутвердый «Ровеньки» Королевский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_korolevskiy_rovenki_45/",
+      "price": "98.40",
+      "promo_price": null,
+      "brand": "Ровеньки"
+    },
+    {
+      "id": 630288,
+      "name": "Сыр полутвердый «Ровеньки» Российский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_rossiyskiy_rovenki/",
+      "price": "86.20",
+      "promo_price": null,
+      "brand": "Ровеньки"
+    },
+    {
+      "id": 630301,
+      "name": "Сыр полутвердый «Ровеньки» Сливочный 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_slivochnyy_rovenki/",
+      "price": "92.60",
+      "promo_price": null,
+      "brand": "Ровеньки"
+    },
+    {
+      "id": 14212,
+      "name": "Сыр полутвердый «РогачевЪ» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-rogachev-200gr/",
+      "price": "216.99",
+      "promo_price": null,
+      "brand": "«РогачевЪ»"
+    },
+    {
+      "id": 114147,
+      "name": "Сыр полутвердый «Сваля» Тильзитер 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_svalyatilziter_45_ves/",
+      "price": "113.00",
+      "promo_price": null,
+      "brand": "Сваля"
+    },
+    {
+      "id": 544651,
+      "name": "Сыр полутвердый «Сваля» Тильзитер ломтики 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-svalya-tilziter-lomtiki-45-150-g/",
+      "price": "186.99",
+      "promo_price": null,
+      "brand": "Сваля"
+    },
+    {
+      "id": 738253,
+      "name": "Сыр полутвердый «Сыробогатов» Король сыров 40% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syrobogatov-korol-syrov-40-125-g/",
+      "price": "170.99",
+      "promo_price": null,
+      "brand": "Король сыров"
+    },
+    {
+      "id": 39134,
+      "name": "Сыр полутвердый «Сыробогатов» Легкий 25% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syrobogatov-legkiy-25-fasovannyy-200-g/",
+      "price": "148.99",
+      "promo_price": null,
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 38835,
+      "name": "Сыр полутвердый «Сыробогатов» Легкий 25% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_legkiy_syrobogatov_25/",
+      "price": "93.90",
+      "promo_price": null,
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 738244,
+      "name": "Сыр полутвердый «Сыробогатов» Российский 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syrobogatov-rossiyskiy-50-125-g/",
+      "price": "164.99",
+      "promo_price": null,
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 738257,
+      "name": "Сыр полутвердый «Сыробогатов» Тильзитер 45% нарезка БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syrobogatov-tilziter-45-narezka-125-g/",
+      "price": "164.99",
+      "promo_price": null,
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 946570,
+      "name": "Сыр полутвердый «Сыробогатов» Топленое молоко 40% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syrobogatov-toplenoe-moloko-40-200-g/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 738249,
+      "name": "Сыр полутвердый «Сыробогатов» сливочный нарезка 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-syrobogatov-slivochnyy-narezka-50-125-g/",
+      "price": "166.99",
+      "promo_price": null,
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 912511,
+      "name": "Сыр полутвердый «Тысяча Озёр» Сливочный 50% БЗМЖ, 240 г",
+      "link": "https://auchan.ru/product/syr-tysyacha-ozer-slivochnyy-50-240g/",
+      "price": "287.99",
+      "promo_price": null,
+      "brand": "Тысяча Озёр"
+    },
+    {
+      "id": 78611,
+      "name": "Сыр полутвердый «Тысяча Озёр» безлактозный нарезка 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-tys-ozer-b-lak-50-nar125g/",
+      "price": "173.99",
+      "promo_price": null,
+      "brand": "Тысяча Озёр"
+    },
+    {
+      "id": 117972,
+      "name": "Сыр полутвердый «Ясон» зеленый сушеный с травами тертый 1,4% БЗМЖ, 50 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-yason-zelenyy-sushenyy-s-travami-tertyy-1-4-50-g/",
+      "price": "134.99",
+      "promo_price": null,
+      "brand": "Ясон"
+    },
+    {
+      "id": 507897,
+      "name": "Сыр полутвердый АШАН Красная птица Гауда 45% нарезка БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-lakomo-gauda-48-narezka-350-g/",
+      "price": "342.98",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 774096,
+      "name": "Сыр полутвердый АШАН Красная птица Гауда БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kpsyr_gauda_200g_bzmzh/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 774101,
+      "name": "Сыр полутвердый АШАН Красная птица Тильзитер БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kpsyr_tilziter_200g_bzmzh/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 507920,
+      "name": "Сыр полутвердый АШАН Красная птица Тильзитер нарезка 45% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-auchan-krasnaya-ptica-tilziter-narezka-45-350-g/",
+      "price": "336.12",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 7214,
+      "name": "Сыр полутвердый Гауда Danke 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-gauda-danke-45-180g/",
+      "price": "178.99",
+      "promo_price": null,
+      "brand": "Danke"
+    },
+    {
+      "id": 43211,
+      "name": "Сыр полутвердый Гауда «Брест-Литовск» 48% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-brest-litov-gauda-48-200g/",
+      "price": "215.99",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 68221,
+      "name": "Сыр полутвердый Гауда «Милково» 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-gauda-45-milkovo-ves/",
+      "price": "749.99",
+      "promo_price": null,
+      "brand": "«Милково»"
+    },
+    {
+      "id": 14208,
+      "name": "Сыр полутвердый Голландский «РогачевЪ» БЗМЖ, 500 г",
+      "link": "https://auchan.ru/product/syr-gollandskiy-rogachev-500g/",
+      "price": "514.99",
+      "promo_price": null,
+      "brand": "«РогачевЪ»"
+    },
+    {
+      "id": 38119,
+      "name": "Сыр полутвердый Голландский «Село Зеленое» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-golland-50-sel-zelen-200g/",
+      "price": "205.99",
+      "promo_price": null,
+      "brand": "Село Зеленое"
+    },
+    {
+      "id": 44488,
+      "name": "Сыр полутвердый Легкий нарезка «Брест-Литовск» 35% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-brest-litovsk-legkiy-narezannyy-35-150-g/",
+      "price": "190.49",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 40933,
+      "name": "Сыр полутвердый Маасдам «Брест-Литовск» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-brest-lit-maasdam-45-200g/",
+      "price": "247.99",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 981209,
+      "name": "Сыр полутвердый Маасдам «Брест-Литовск» 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-grand-maasdam-brest-lit45/",
+      "price": "115.50",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 73321,
+      "name": "Сыр полутвердый Маасдам «Староминское» 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_maasdam_451kg/",
+      "price": "80.00",
+      "promo_price": null,
+      "brand": "Староминское"
+    },
+    {
+      "id": 7215,
+      "name": "Сыр полутвердый Пармезан Danke 6 месяцев 40% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-parmezan-danke-6m-40-180g/",
+      "price": "304.99",
+      "promo_price": null,
+      "brand": "Danke"
+    },
+    {
+      "id": 564934,
+      "name": "Сыр полутвердый Российский 35% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_rossiyskiy_35_bzmzh/",
+      "price": "46.90",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 18080,
+      "name": "Сыр полутвердый Российский Viola БЗМЖ, 270 г",
+      "link": "https://auchan.ru/product/syr-rossiyskiy-viola-nar-270g/",
+      "price": "348.99",
+      "promo_price": null,
+      "brand": "Viola"
+    },
+    {
+      "id": 745063,
+      "name": "Сыр полутвердый Российский «Брест-Литовск» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-brest-litovsk-rossiyskiy-50-200-g/",
+      "price": "209.49",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 943261,
+      "name": "Сыр полутвердый Российский «Каждый день» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kd-syr-rossiyskiy-50-200gr/",
+      "price": "99.98",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 49187,
+      "name": "Сыр полутвердый Российский «Киприно» БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_rossiyskiy_kiprino/",
+      "price": "100.20",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 14205,
+      "name": "Сыр полутвердый Российский «РогачевЪ» БЗМЖ, 500 г",
+      "link": "https://auchan.ru/product/syr-rossiyskiy-rogachev-500g/",
+      "price": "514.99",
+      "promo_price": null,
+      "brand": "«РогачевЪ»"
+    },
+    {
+      "id": 38055,
+      "name": "Сыр полутвердый Российский «Село Зеленое» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-rossiysk-50-sel-zel-200g/",
+      "price": "189.99",
+      "promo_price": null,
+      "brand": "Село Зеленое"
+    },
+    {
+      "id": 38066,
+      "name": "Сыр полутвердый Сливочный «Село Зеленое» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-slivoch-50-selo-zelen-200g/",
+      "price": "205.99",
+      "promo_price": null,
+      "brand": "Село Зеленое"
+    },
+    {
+      "id": 38084,
+      "name": "Сыр полутвердый Сметанковый «Село Зеленое» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-smetan-50-selo-zelen-200g/",
+      "price": "205.99",
+      "promo_price": null,
+      "brand": "Село Зеленое"
+    },
+    {
+      "id": 833731,
+      "name": "Сыр полутвердый Сырная тарелка Cheese Gallery Premium Set 38% БЗМЖ, 205 г",
+      "link": "https://auchan.ru/product/syrn-tarelka-32-special-cg205g/",
+      "price": "704.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 833742,
+      "name": "Сыр полутвердый Сырная тарелка Cheese Gallery Premium Set 38% БЗМЖ, 205 г",
+      "link": "https://auchan.ru/product/syrn-tarelka-31-gourmet-cg205g/",
+      "price": "704.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 72073,
+      "name": "Сыр полутвердый Тильзитер Grunlander 45% БЗМЖ, 130 г",
+      "link": "https://auchan.ru/product/syr-nar-tilz-45-130g-gryunl/",
+      "price": "206.99",
+      "promo_price": null,
+      "brand": "Grunlander"
+    },
+    {
+      "id": 43212,
+      "name": "Сыр полутвердый Тильзитер «Брест-Литовск» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-brest-lit-tilzit-45-200g/",
+      "price": "215.99",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 62075,
+      "name": "Сыр полутвердый Тильзитер «Киприно» 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-tilziter-45-kiprino-ves/",
+      "price": "981.99",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 14215,
+      "name": "Сыр полутвердый Тильзитер «РогачевЪ» 45% БЗМЖ, 500 г",
+      "link": "https://auchan.ru/product/syr-tilziter-rogachev-45-500g/",
+      "price": "514.99",
+      "promo_price": null,
+      "brand": "«РогачевЪ»"
+    },
+    {
+      "id": 38104,
+      "name": "Сыр полутвердый Тильзитер «Село Зеленое» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-tilzit-50-sel-zelen-200g/",
+      "price": "190.99",
+      "promo_price": null,
+      "brand": "Село Зеленое"
+    },
+    {
+      "id": 38103,
+      "name": "Сыр полутвердый Традиционный «Село Зеленое» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-tradic-50-sel-zelen-200g/",
+      "price": "205.99",
+      "promo_price": null,
+      "brand": "Село Зеленое"
+    },
+    {
+      "id": 537512,
+      "name": "Сыр полутвердый Три Сыра тертый «Киприно» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-tertyy-kiprino-tri-syra-200-g/",
+      "price": "208.99",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 38087,
+      "name": "Сыр полутвердый Фермерский со сливками 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-fermers-50-sel-zelen-200g/",
+      "price": "205.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 72097,
+      "name": "Сыр полутвердый Чеддер Grunlander 50% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-chedder-50-180g-gryunlander/",
+      "price": "223.99",
+      "promo_price": null,
+      "brand": "Grunlander"
+    },
+    {
+      "id": 72065,
+      "name": "Сыр полутвердый Чеддер Grunlander 50% БЗМЖ,130 г",
+      "link": "https://auchan.ru/product/syr-nar-chedder-50-130g-gryunl/",
+      "price": "206.99",
+      "promo_price": null,
+      "brand": "Grunlander"
+    },
+    {
+      "id": 762157,
+      "name": "Сыр полутвердый Черный принц с топленым молоком «Сырная Династия» 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_chernyy_princ_50_1kgbzmzh/",
+      "price": "107.80",
+      "promo_price": null,
+      "brand": "Сырная Династия"
+    },
+    {
+      "id": 4722,
+      "name": "Сыр полутвердый Швейцарский для фондю Le Superbe 40% БЗМЖ, 400 г",
+      "link": "https://auchan.ru/product/syr-le-superbe-fondyu-shveycarskiy-40-400g/",
+      "price": "901.99",
+      "promo_price": null,
+      "brand": "Le Superbe"
+    },
+    {
+      "id": 867673,
+      "name": "Сыр полутвердый Щучанский «ЭкоНива» 50%, вес",
+      "link": "https://auchan.ru/product/syr-shchuchanskiy-50-ekoniva/",
+      "price": "93.80",
+      "promo_price": null,
+      "brand": "Эконива"
+    },
+    {
+      "id": 75342,
+      "name": "Сыр полутвердый Эдам Laplandia 45% БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-nar-edam-45-120g-lapland/",
+      "price": "211.99",
+      "promo_price": null,
+      "brand": "Laplandia"
+    },
+    {
+      "id": 75341,
+      "name": "Сыр полутвердый Эдам Laplandia 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-edam-45-180g-laplandia/",
+      "price": "298.99",
+      "promo_price": null,
+      "brand": "Laplandia"
+    },
+    {
+      "id": 38109,
+      "name": "Сыр полутвердый Эдам «Село Зеленое» 50% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-edam-50-selo-zelenoe-200g/",
+      "price": "205.99",
+      "promo_price": null,
+      "brand": "Село Зеленое"
+    },
+    {
+      "id": 762161,
+      "name": "Сыр полутвердый Эльтермани «Кобринские сыры» 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_eltermani_50_1kg_ks_bzmzh/",
+      "price": "104.20",
+      "promo_price": null,
+      "brand": "Кобринские сыры"
+    },
+    {
+      "id": 750793,
+      "name": "Сыр полутвердый бутербродный Viola 45% БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-valio-buterbrodnyy-45-120-g/",
+      "price": "154.99",
+      "promo_price": null,
+      "brand": "Viola"
+    },
+    {
+      "id": 943260,
+      "name": "Сыр полутвердый голландский «Каждый день» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kd-syr-gollandskiy-45-200gr/",
+      "price": "109.98",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 959093,
+      "name": "Сыр полутвердый из козьего молока Caprette 50% БЗМЖ, 140 г",
+      "link": "https://auchan.ru/product/syr-kaprette-koziy-50-140g/",
+      "price": "429.99",
+      "promo_price": null,
+      "brand": "Caprette"
+    },
+    {
+      "id": 959059,
+      "name": "Сыр полутвердый из коровьего и козьего молока Caprette 50% БЗМЖ, 140 г",
+      "link": "https://auchan.ru/product/syr-kaprette-miks-50-140g/",
+      "price": "220.99",
+      "promo_price": null,
+      "brand": "Caprette"
+    },
+    {
+      "id": 275700,
+      "name": "Сыр полутвердый классический «Брест-Литовск» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-brest-litovsk-klassicheskiy-brusok-45-200-g/",
+      "price": "189.49",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 44487,
+      "name": "Сыр полутвердый классический нарезной «Брест-Литовск» 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-brest-litovsk-klassicheskiy-narezannyy-45-150-g/",
+      "price": "179.49",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 943259,
+      "name": "Сыр полутвердый костромской «Каждый день» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kd-syr-kostromskoy-45-200gr/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 541067,
+      "name": "Сыр полутвердый лайт«Киприно» БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_layt_ves/",
+      "price": "104.50",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 72082,
+      "name": "Сыр полутвердый легкий Grunlander 35% БЗМЖ, 130 г",
+      "link": "https://auchan.ru/product/syr-legkiy-nar-35-130-g-gryun/",
+      "price": "206.99",
+      "promo_price": null,
+      "brand": "Grunlander"
+    },
+    {
+      "id": 54814,
+      "name": "Сыр полутвердый легкий Grunlander 35% БЗМЖ, 400 г",
+      "link": "https://auchan.ru/product/syr-legkiy-gryunlander-35-400g/",
+      "price": "492.99",
+      "promo_price": null,
+      "brand": "Grunlander"
+    },
+    {
+      "id": 750773,
+      "name": "Сыр полутвердый легкий Laplandia 17% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-oltermanni-valio-legkiy-17-180-g/",
+      "price": "307.99",
+      "promo_price": null,
+      "brand": "Laplandia"
+    },
+    {
+      "id": 168608,
+      "name": "Сыр полутвердый легкий «Брест-Литовск» 35% БЗМЖ, 210 г",
+      "link": "https://auchan.ru/product/syr-brest-litovsk-legkiy-35-210-g/",
+      "price": "219.49",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 14188,
+      "name": "Сыр полутвердый легкий «РогачевЪ» 30% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-legkiy-rogachev-30-200g/",
+      "price": "216.99",
+      "promo_price": null,
+      "brand": "«РогачевЪ»"
+    },
+    {
+      "id": 462400,
+      "name": "Сыр полутвердый легкийLaplandia 17% БЗМЖ, 120 г",
+      "link": "https://auchan.ru/product/syr-valio-polutverdyy-oltermanni-legkiy-17-33-120-g/",
+      "price": "214.49",
+      "promo_price": null,
+      "brand": "Laplandia"
+    },
+    {
+      "id": 95846,
+      "name": "Сыр полутвердый мастер «Киприно» 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_master_50/",
+      "price": "106.70",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 62071,
+      "name": "Сыр полутвердый монтэль Bergmaster 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-montel-45-bergmaster-ves/",
+      "price": "1399.99",
+      "promo_price": null,
+      "brand": "Bergmaster"
+    },
+    {
+      "id": 756047,
+      "name": "Сыр полутвердый нарезка Grunlander 50% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-hochland-gryunlander-narezka-150-g/",
+      "price": "237.99",
+      "promo_price": null,
+      "brand": "Grunlander"
+    },
+    {
+      "id": 943257,
+      "name": "Сыр полутвердый пошехонский «Каждый день» БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kd-syr-poshehonskiy-45-200gr/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 7213,
+      "name": "Сыр полутвердый с травами Danke 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/cyr-s-pazhitnikom-danke-45-180g/",
+      "price": "179.99",
+      "promo_price": null,
+      "brand": "Danke"
+    },
+    {
+      "id": 605205,
+      "name": "Сыр полутвердый сливочный Laplandia 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-oltermanni-polutverdyy-slivochnyy-200g/",
+      "price": "308.49",
+      "promo_price": null,
+      "brand": "Laplandia"
+    },
+    {
+      "id": 600421,
+      "name": "Сыр полутвердый сливочный «Брест-Литовск» 50% БЗМЖ, 210 г",
+      "link": "https://auchan.ru/product/syr-brest-litovsk-slivochnyy-50-210-g/",
+      "price": "218.49",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 943256,
+      "name": "Сыр полутвердый сливочный «Каждый день» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kd-slivochnyy-syr-45-200gr/",
+      "price": "119.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 95843,
+      "name": "Сыр полутвердый сливочный «Киприно» 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_slivochnyy_50/",
+      "price": "105.20",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 338193,
+      "name": "Сыр полутвердый сливочный нарезкой Laplandia БЗМЖ, 250 г",
+      "link": "https://auchan.ru/product/syr-oltermanni-slivochnyy-fasovannyy-nareznoy-250-g/",
+      "price": "400.49",
+      "promo_price": null,
+      "brand": "Laplandia"
+    },
+    {
+      "id": 347314,
+      "name": "Сыр полутвердый сливочный нарезнойLaplandia БЗМЖ, 130 г",
+      "link": "https://auchan.ru/product/syr-oltermanni-slivochnyy-fasovannyy-nareznoy-130-g/",
+      "price": "199.49",
+      "promo_price": null,
+      "brand": "Laplandia"
+    },
+    {
+      "id": 483408,
+      "name": "Сыр полутвердый тертый «Вкуснотеево» Сливочный 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-tertyy-vkusnoteevo-slivochnyy-45-150-g/",
+      "price": "116.99",
+      "promo_price": null,
+      "brand": "Вкуснотеево"
+    },
+    {
+      "id": 745022,
+      "name": "Сыр полутвердый финский «Брест-Литовск» 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-brest-litovsk-finskiy-45-200-g/",
+      "price": "203.49",
+      "promo_price": null,
+      "brand": "Брест-Литовск"
+    },
+    {
+      "id": 867676,
+      "name": "Сыр полутвёрдый  Колыбельский «ЭкоНива» 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-kolybelskiy-45-ekoniva/",
+      "price": "93.40",
+      "promo_price": null,
+      "brand": "Эконива"
+    },
+    {
+      "id": 151386,
+      "name": "Сыр рассольный Качотта Unagrande 45% БЗМЖ, 260 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-unagrande-kachokavallo-45-260-g/",
+      "price": "355.99",
+      "promo_price": null,
+      "brand": "Unagrande"
+    },
+    {
+      "id": 41453,
+      "name": "Сыр твердый Castello Matured Havarti выдержанный в нарезке 45%, 150 г",
+      "link": "https://auchan.ru/product/syr-vyder-castell-45-nar-150g/",
+      "price": "247.99",
+      "promo_price": null,
+      "brand": "Castello"
+    },
+    {
+      "id": 49162,
+      "name": "Сыр твердый Cheese Gallery Пармезан 40% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-parmezan-40-cg-3mes-150g/",
+      "price": "297.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 411895,
+      "name": "Сыр твердый Cheese Gallery Пармезан кусок 32% БЗМЖ, 175 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-cheese-gallery-parmesan-32-175-g/",
+      "price": "332.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 119200,
+      "name": "Сыр твердый Cheese Gallery Пармезан тертый 32% БЗМЖ, 100 г",
+      "link": "https://auchan.ru/product/syr-cheese-gallery-parmesan-tertyy-38-100-g/",
+      "price": "221.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 174991,
+      "name": "Сыр твердый Cheese Gallery Чеддер красный 50% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-cheese-gallery-chedder-krasnyy-50-150-g/",
+      "price": "207.99",
+      "promo_price": null,
+      "brand": "Cheese Gallery"
+    },
+    {
+      "id": 338574,
+      "name": "Сыр твердый La Paulina Reggianito 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_redzhanito_45/",
+      "price": "196.20",
+      "promo_price": null,
+      "brand": "La Paulina"
+    },
+    {
+      "id": 333745,
+      "name": "Сыр твердый La Paulina Гойя 40%  БЗМЖ (0,4-1 кг), 1 упаковка ~ 1 кг",
+      "link": "https://auchan.ru/product/syr_goyya_la_paulina_fas_bzmzh/",
+      "price": "206.20",
+      "promo_price": null,
+      "brand": "La Paulina"
+    },
+    {
+      "id": 334728,
+      "name": "Сыр твердый La Paulina Гойя 40% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_parmezan_goyya_argentina/",
+      "price": "193.40",
+      "promo_price": null,
+      "brand": "La Paulina"
+    },
+    {
+      "id": 969760,
+      "name": "Сыр твердый Laime Пармезан 38% БЗМЖ, 140 г",
+      "link": "https://auchan.ru/product/syr-parmezan-kaplya-layme-140g/",
+      "price": "418.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 18116,
+      "name": "Сыр твердый Laime Пармезан 40% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-parmezan-layme-40-125g/",
+      "price": "270.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 462289,
+      "name": "Сыр твердый Laime Пармезан 40% колотый (6 мес) БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-kolotyy-laime-parmezan-40-125-g/",
+      "price": "390.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 858300,
+      "name": "Сыр твердый Laime Пармезан лепестки 40% БЗМЖ, 80 г",
+      "link": "https://auchan.ru/product/syr-parmezan-lepes-layme-80g/",
+      "price": "216.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 873370,
+      "name": "Сыр твердый Laime Швейцарский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-shveycarskiy-laime-45-bzmzh/",
+      "price": "214.10",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 1885,
+      "name": "Сыр твердый Laime Швейцарский нарезка БЗМЖ, 110 г",
+      "link": "https://auchan.ru/product/syr-shveycarskiy-laime-nar-110/",
+      "price": "276.99",
+      "promo_price": null,
+      "brand": "Laime"
+    },
+    {
+      "id": 10142,
+      "name": "Сыр твердый Lavka Lavka Белпер клубничный мохито 45% БЗМЖ, 65 г",
+      "link": "https://auchan.ru/product/syr-belper-klubn-mohito-65g/",
+      "price": "262.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 10147,
+      "name": "Сыр твердый Lavka Lavka Белпер черника 45% БЗМЖ, 65 г",
+      "link": "https://auchan.ru/product/syr-belper-chernika-65g/",
+      "price": "260.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 10158,
+      "name": "Сыр твердый Le Superbe Sbrinz 47% БЗМЖ, 195 г",
+      "link": "https://auchan.ru/product/syr-sbrync-shchveyc-47-195g-bzmzh/",
+      "price": "730.99",
+      "promo_price": null,
+      "brand": "Le Superbe"
+    },
+    {
+      "id": 785046,
+      "name": "Сыр твердый Moloko Group Пармезан тертый 48% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr_parmezan_tertyy_plst_150g/",
+      "price": "273.99",
+      "promo_price": null,
+      "brand": "Moloko Group"
+    },
+    {
+      "id": 612442,
+      "name": "Сыр твердый Oleder 12 месяцев созревания «Жерар Депардье рекомендует!» БЗМЖ, 250 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-deparde-rekomenduet-oleder-12-mesyacev-sozrevaniya-250-g/",
+      "price": "485.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 981521,
+      "name": "Сыр твердый Ricrem Пармезан выдержанный 6 месяцев 42% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/parmezan-rikrem-42-6mes-ves/",
+      "price": "173.30",
+      "promo_price": null,
+      "brand": "Ricrem"
+    },
+    {
+      "id": 10087,
+      "name": "Сыр твердый Schonfeld Grana созревение 7 месяцев 43% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-grana-7mes-43-shonf-ves/",
+      "price": "243.80",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 511061,
+      "name": "Сыр твердый Schonfeld Swiss Maasdam Limited Edition нарезка 48% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-schonfeld-swiss-maasdam-limited-edition-narezka-48-125-g/",
+      "price": "298.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 828190,
+      "name": "Сыр твердый Schonfeld Пармезан нарезка 43% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-parmezan-shonf-narez-125g/",
+      "price": "256.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 828297,
+      "name": "Сыр твердый Schonfeld Эдам 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr-edam-kusok-shonf-200gr/",
+      "price": "232.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 828295,
+      "name": "Сыр твердый Schonfeld Эдам нарезка 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-edam-shonf-narez-125gr/",
+      "price": "157.99",
+      "promo_price": null,
+      "brand": "Schonfeld"
+    },
+    {
+      "id": 600413,
+      "name": "Сыр твердый «Альгерд» Пармезан Классический 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_parmezan_45_ves/",
+      "price": "98.00",
+      "promo_price": null,
+      "brand": "Альгерд"
+    },
+    {
+      "id": 956212,
+      "name": "Сыр твердый «Белебеевский» Belster Parmesan 40% БЗМЖ, 195 г",
+      "link": "https://auchan.ru/product/syr-belster-parmezan-6m-195g/",
+      "price": "330.99",
+      "promo_price": null,
+      "brand": "Белебеевский"
+    },
+    {
+      "id": 576387,
+      "name": "Сыр твердый «Каждый День» Голландский нарезка 45% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kdsyr_gollnar150g_bzmzh/",
+      "price": "94.98",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 576442,
+      "name": "Сыр твердый «Каждый День» Голландский нарезка 45% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/kdsyr_gollnar350g_bzmzh/",
+      "price": "217.19",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 19876,
+      "name": "Сыр твердый «Калужское Сыроморье» Старосельский в черном перце 55% БЗМЖ, 50 г",
+      "link": "https://auchan.ru/product/syr-tv-cher-perec-50g/",
+      "price": "93.99",
+      "promo_price": null,
+      "brand": "Калужское Сыроморье"
+    },
+    {
+      "id": 75167,
+      "name": "Сыр твердый «Радость Вкуса» Маасдам 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-maasdam-45-radost-vkusa/",
+      "price": "113.80",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 801953,
+      "name": "Сыр твердый «Радость Вкуса» маасдам gold 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syr_maasdam_gold_radvkusa200g/",
+      "price": "220.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 777606,
+      "name": "Сыр твердый «Радость вкуса» Маасдам 45% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr_maasdam_gold_45_nar125g/",
+      "price": "161.99",
+      "promo_price": null,
+      "brand": "Радость вкуса"
+    },
+    {
+      "id": 895752,
+      "name": "Сыр твердый «Сырный Мастер» Голландский 45% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syrgolland180gsmaster/",
+      "price": "158.99",
+      "promo_price": null,
+      "brand": "Сырный Мастер"
+    },
+    {
+      "id": 637479,
+      "name": "Сыр твердый «Сыробогатов» Голландский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/cyr_gollandskiy_45_syrobogatov/",
+      "price": "87.40",
+      "promo_price": null,
+      "brand": "Сыробогатов"
+    },
+    {
+      "id": 507889,
+      "name": "Сыр твердый АШАН Красная птица Маасдам 45% нарезка БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-lakomo-maasdam-45-narezka-350-g/",
+      "price": "365.84",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 774105,
+      "name": "Сыр твердый АШАН Красная птица Маасдам БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kpsyr_maasdam_200g_bzmzh/",
+      "price": "229.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 774063,
+      "name": "Сыр твердый АШАН Красная птица Эдам 45% БЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kpsyr_edam_200g_bzmzh/",
+      "price": "159.99",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 507881,
+      "name": "Сыр твердый АШАН Красная птица Эдам нарезка 45% БЗМЖ, 350 г",
+      "link": "https://auchan.ru/product/syr-polutverdyy-auchan-krasnaya-ptica-edam-narezka-45-350-g/",
+      "price": "336.12",
+      "promo_price": null,
+      "brand": "АШАН Красная птица"
+    },
+    {
+      "id": 746414,
+      "name": "Сыр твердый Алтайский нарезка «Киприно» 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-kiprino-altayskiy-narezka-50-125-g/",
+      "price": "196.99",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 564932,
+      "name": "Сыр твердый Голландский 45% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_gollandskiy_45_bzmzh/",
+      "price": "50.00",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 833777,
+      "name": "Сыр твердый Пармезан «Жерар Депардье рекомендует»!» 24 месяцев созревания 40% БЗМЖ, 250 г",
+      "link": "https://auchan.ru/product/dpd-syr-parmedzh-perf24m250bzmzh/",
+      "price": "670.99",
+      "promo_price": null,
+      "brand": null
+    },
+    {
+      "id": 62067,
+      "name": "Сыр твердый Пармезан «Киприно» 40% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr-parmezan-40-kiprino-ves/",
+      "price": "1340.99",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 530358,
+      "name": "Сыр твердый Швейцарский Le Superbe 49% БЗМЖ, 180 г",
+      "link": "https://auchan.ru/product/syr-le-superbe-shveycarskiy-49-180-g/",
+      "price": "387.99",
+      "promo_price": null,
+      "brand": "Le Superbe"
+    },
+    {
+      "id": 530365,
+      "name": "Сыр твердый Швейцарский Le Superbe 50% БЗМЖ, 195 г",
+      "link": "https://auchan.ru/product/syr-tverdyy-le-superbe-le-gruyere-50-195-g/",
+      "price": "685.99",
+      "promo_price": null,
+      "brand": "Le Superbe"
+    },
+    {
+      "id": 140016,
+      "name": "Сыр твердый Швейцарский Le Superbe БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr-le-superbe-lyustenburger-fruktovyy-150-g/",
+      "price": "485.99",
+      "promo_price": null,
+      "brand": "Le Superbe"
+    },
+    {
+      "id": 773489,
+      "name": "Сыр твердый Швейцарский «Киприно» 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr_shveycarskiy_50_narez125g/",
+      "price": "204.99",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 596083,
+      "name": "Сыр твердый Швейцарский «Киприно» 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_shveycarskiy_50_ves_kiprino/",
+      "price": "132.50",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 596093,
+      "name": "Сыр твердый алтайский«Киприно» 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_altayskiy_50_ves_kiprino/",
+      "price": "133.80",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 771792,
+      "name": "Сыр твердый из козьего молока «Белое золото» 31% БЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/syr_granakozi_tverd_150g_bzmzh/",
+      "price": "414.99",
+      "promo_price": null,
+      "brand": "«Белое золото»"
+    },
+    {
+      "id": 773488,
+      "name": "Сыр твердый советский premium нарезка «Киприно» 50% БЗМЖ, 125 г",
+      "link": "https://auchan.ru/product/syr_sovetskiy_50_narezka_125g/",
+      "price": "193.99",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 596086,
+      "name": "Сыр твердый советский «Киприно» 50% БЗМЖ, вес",
+      "link": "https://auchan.ru/product/syr_sovetskiy_50_ves_kiprino/",
+      "price": "132.10",
+      "promo_price": null,
+      "brand": "Киприно"
+    },
+    {
+      "id": 991688,
+      "name": "Сырный продукт «Город сыра» Докторский безлактозный 30% ЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/syrnyy-pr-t-doktorsk-30-200g/",
+      "price": "200.99",
+      "promo_price": null,
+      "brand": "Город сыра"
+    },
+    {
+      "id": 43448,
+      "name": "Сырный продукт «Каждый день» ЗМЖ, 200 г",
+      "link": "https://auchan.ru/product/kd-syrnyy-prod-kusok-200g-zmzh/",
+      "price": "67.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    },
+    {
+      "id": 43457,
+      "name": "Сырный продукт «Каждый день» в нарезке ЗМЖ, 150 г",
+      "link": "https://auchan.ru/product/kd-syrnyy-prod-narez-150g-zmzh/",
+      "price": "64.99",
+      "promo_price": null,
+      "brand": "«Каждый день»"
+    }
+  ]
+}
