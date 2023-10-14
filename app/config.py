@@ -1,9 +1,8 @@
-
 # Some useful global variables
 
-HOST = 'https://www.auchan.ru'
+HOST = "https://www.auchan.ru"
 
 REGIONS = {
-    'moscow': 'Москва и область',
-    'spb': 'Санкт-Петербург и область',
+    "moscow": "Москва и область",
+    "spb": "Санкт-Петербург и область",
 }
