@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 
 import seleniumwire.undetected_chromedriver as uc
+import chromedriver_autoinstaller
 
 from scraper import fetch_data_from_subcategory
 from parsers.parser import parse_data_from_subcategory
@@ -44,6 +45,7 @@ def get_json_from_subcategory(driver, URL, city):
 
 
 def main():
+    chromedriver_autoinstaller.install()  # Install latest version of chromedriver
     regions = REGIONS.keys()
 
     # Init options
@@ -54,7 +56,7 @@ def main():
     # Init undetectable_chromedriver
     # WARNING: headless mode doesn't provide a robust bypass of ANTI-BOT protection
     # for example, on Auchan.ru enabled QRATOR defense, so headless mode doesn't work
-    # but for online.metro-cc.ru headless mode works
+    # but for online.metro-cc.ru headless mode works just fine
     print("Browser loading...")
     driver = uc.Chrome(
         options=chrome_options,
@@ -64,13 +66,14 @@ def main():
     for region in regions:
         print(get_json_from_subcategory(driver, URL, region)[:100])
 
-    URL2 = f"{HOST}/catalog/syry/tverdye-i-polutverdye/"
-    for region in regions[::-1]:
-        print(get_json_from_subcategory(driver, URL2, region)[:100])
+    # Uncomment these lines if you wanna scrape also these urls
+    # URL2 = f"{HOST}/catalog/syry/tverdye-i-polutverdye/"
+    # for region in regions[::-1]:
+    #     print(get_json_from_subcategory(driver, URL2, region)[:100])
 
-    URL3 = f"{HOST}/catalog/ovoschi-frukty-zelen-griby-yagody/seychas-sezon/"
-    for region in regions:
-        print(get_json_from_subcategory(driver, URL3, region)[:100])
+    # URL3 = f"{HOST}/catalog/ovoschi-frukty-zelen-griby-yagody/seychas-sezon/"
+    # for region in regions:
+    #     print(get_json_from_subcategory(driver, URL3, region)[:100])
 
     driver.quit()
 
